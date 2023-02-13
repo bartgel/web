@@ -33,7 +33,7 @@ jobs:
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: out/cv_*.pdf
+        file: cv-compiler/out/cv_*.pdf
         tag: ${{ github.ref }}
 
 
