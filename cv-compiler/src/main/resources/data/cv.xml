@@ -1,0 +1,1687 @@
+<cv>
+	<translations>
+		<cv lang="nl">Curriculum Vitae</cv>
+		<cv lang="fr">Curriculum Vitae</cv>
+		<cv lang="en">Resume</cv>
+		<cv lang="es">Curr&#237;culum Vitae</cv>
+
+		<personal lang="nl">PERSOONLIJK</personal>
+		<personal lang="fr">PERSONNEL</personal>
+		<personal lang="en">PERSONAL</personal>
+		<personal lang="es">PERSONAL</personal>
+
+		<function lang="nl">Technisch architect (Java)</function>
+		<function lang="fr">Architecte technique (Java)</function>
+		<function lang="en">Technical architect (Java)</function>
+		<function lang="es">Arquitecto técnico (Java)</function>
+
+		<contact lang="nl">CONTACTEER</contact>
+		<contact lang="fr">CONTACT</contact>
+		<contact lang="en">CONTACT</contact>
+		<contact lang="es">CONTACTO</contact>
+
+		<page lang="nl">Pagina</page>
+		<page lang="fr">Page</page>
+		<page lang="en">Page</page>
+		<page lang="es">Página</page>
+
+		<pageOf lang="nl">van</pageOf>
+		<pageOf lang="fr">sur</pageOf>
+		<pageOf lang="en">of</pageOf>
+		<pageOf lang="es">de</pageOf>
+
+		<hobbies lang="nl">VRIJETIJDSBESTEDING</hobbies>
+		<hobbies lang="fr">LOISIRS</hobbies>
+		<hobbies lang="en">HOBBIES</hobbies>
+		<hobbies lang="es">AFICIONES</hobbies>
+
+		<languages lang="nl">TALEN</languages>
+		<languages lang="fr">LANGUES</languages>
+		<languages lang="en">LANGUAGES</languages>
+		<languages lang="es">IDIOMAS</languages>
+
+		<topSkills lang="nl">BASIS-VAARDIGHEDEN</topSkills>
+		<topSkills lang="fr">COMPÉTENCES DE BASE</topSkills>
+		<topSkills lang="en">BASIC SKILLS</topSkills>
+		<topSkills lang="es">HABILIDADES BÁSICAS</topSkills>
+
+		<workExperience lang="nl">WERKERVARINGEN</workExperience>
+		<workExperience lang="fr">EXPÉRIENCES DE TRAVAIL</workExperience>
+		<workExperience lang="en">WORK EXPERIENCES</workExperience>
+		<workExperience lang="es">EXPERIENCIAS DE TRABAJO</workExperience>
+
+		<education lang="nl">ONDERWIJS EN VORMING</education>
+		<education lang="fr">ÉDUCATION ET FORMATION</education>
+		<education lang="en">EDUCATION AND FORMATION</education>
+		<education lang="es">EDUCACIÓN Y FORMACIÓN</education>
+
+		<company lang="nl">Bedrijf</company>
+		<company lang="fr">Ent.</company>
+		<company lang="en">Company</company>
+		<company lang="es">Empresa</company>
+
+		<client lang="nl">Klant</client>
+		<client lang="fr">Client</client>
+		<client lang="en">Client</client>
+		<client lang="es">Cliente</client>
+
+		<projecten lang="nl">PROJECTEN</projecten>
+		<projecten lang="fr">PROJETS</projecten>
+		<projecten lang="en">PROJECTS</projecten>
+		<projecten lang="es">PROYECTOS</projecten>
+
+		<jobtitle lang="nl">Jobtitel</jobtitle>
+		<jobtitle lang="fr">Profession</jobtitle>
+		<jobtitle lang="en">Job title</jobtitle>
+		<jobtitle lang="es">Título profesional</jobtitle>
+
+		<skillLegenda lang="nl">LEGENDA</skillLegenda>
+		<skillLegenda lang="fr">LEGENDA</skillLegenda>
+		<skillLegenda lang="en">LEGENDA</skillLegenda>
+		<skillLegenda lang="es">LEYENDA</skillLegenda>
+
+		<skillMatrix lang="nl">VAARDIGHEIDSMATRIX</skillMatrix>
+		<skillMatrix lang="fr">MATRICE DE COMPÉTENCES</skillMatrix>
+		<skillMatrix lang="en">SKILLS MATRIX</skillMatrix>
+		<skillMatrix lang="es">MATRIZ DE HABILIDADES</skillMatrix>
+
+		<skills lang="nl">Vaardigheden</skills>
+		<skills lang="fr">Compétences</skills>
+		<skills lang="en">Skills</skills>
+		<skills lang="es">Habilidades</skills>
+
+		<roadToSuccess lang="nl">WEG NAAR HET SUCCESS</roadToSuccess>
+		<roadToSuccess lang="fr">CHEMIN VERS LE SUCCÈS</roadToSuccess>
+		<roadToSuccess lang="en">ROAD TO SUCCESS</roadToSuccess>
+		<roadToSuccess lang="es">CAMINO AL ÉXITO</roadToSuccess>
+
+		<jobDescription lang="nl">Jobomschrijving</jobDescription>
+		<jobDescription lang="fr">Description de l'emploi</jobDescription>
+		<jobDescription lang="en">Job Description</jobDescription>
+		<jobDescription lang="es">Descripción del Trabajo</jobDescription>
+
+
+		<skills>
+			<skill>
+				<level lang="nl">Basiskennis</level>
+				<level lang="fr">Connaissances de base</level>
+				<level lang="en">Basic Knowledge</level>
+				<level lang="es">Conocimiento básica</level>
+			</skill>
+
+			<skill>
+				<level lang="nl">Werkervaring</level>
+				<level lang="fr">Expérience Professionnelle</level>
+				<level lang="en">Work Experience</level>
+				<level lang="es">Experiencia Profesional</level>
+			</skill>
+
+			<skill>
+				<level lang="nl">Geavanceerd</level>
+				<level lang="fr">Avancé</level>
+				<level lang="en">Advanced</level>
+				<level lang="es">Avanzado</level>
+			</skill>
+
+			<skill>
+				<level lang="nl">Expert</level>
+				<level lang="fr">Expert</level>
+				<level lang="en">Expert</level>
+				<level lang="es">Experto</level>
+			</skill>
+		</skills>
+
+	</translations>
+	<jobs>
+		<job>
+			<from>05/2022</from>
+			<to>01/2023</to>
+			<where>confluent</where>
+			<logo>confluent.jpg</logo>
+			<location lang="nl">Remote/Alicante</location>
+			<location lang="en">Remote/Alicante</location>
+			<location lang="es">Remoto/Alicante</location>
+			<location lang="fr">a distance/Alicante</location>
+
+			<title lang="nl">Solutions Architect</title>
+			<title lang="fr">Architecte de solution</title>
+			<title lang="en">Solutions Architect</title>
+			<title lang="es">Arquitecto de soluciones</title>
+
+			<companyDescription lang="nl">Confluent is het bedrijf achter Apache Kafka. Onder de hashtag #DataInMotion helpen ze bedrijven met het opzetten van eventbased architecturen.</companyDescription>
+			<companyDescription lang="es">Confluent es la empresa detrás de Apache Kafka. Bajo el hashtag #DataInMotion, ayudan a las empresas a configurar una arquitectura basada en eventos.</companyDescription>
+			<companyDescription lang="fr">Confluent est la société derrière Apache Kafka. Sous le hashtag #DataInMotion, ils aident les sociétés à mettre en place une architecture événementielle.</companyDescription>
+			<companyDescription lang="en">Confluent is the company behind Apache Kafka. Under the hashtag #DataInMotion, they help companies setting up event-based architectures.</companyDescription>
+
+			<taskDescription lang="en">Helping companies with explaining the Kafka ecosystem and assisting on their technical implementation of their Apache Kafka stack.</taskDescription>
+            <taskDescription lang="nl">Bedrijven helpen met het toelichten van het Kafka-ecosysteem en hun assisteren technische implementatie van hun Apache Kafka-stack.</taskDescription>
+			<taskDescription lang="fr">Aidez les entreprises à expliquer l'écosystème Kafka et assistez-les dans la mise en œuvre technique de leur pile Apache Kafka.</taskDescription>
+			<taskDescription lang="es">Ayude a las empresas a explicar el ecosistema Kafka y ayúdeles con la implementación técnica de su pila Apache Kafka.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">Kafka ecosystem</skillName>
+					<skillName lang="nl">Kafka ecosystem</skillName>
+					<skillName lang="fr">L'écosystème Kafka</skillName>
+					<skillName lang="es">Ecosistema Kafka</skillName>
+
+					<skill lang="en">brokers, zookeeper, connect, schemaregistry, kstreams, ksqldb</skill>
+					<skill lang="nl">brokers, zookeeper, connect, schemaregistry, kstreams, ksqldb</skill>
+					<skill lang="fr">brokers, zookeeper, connect, schemaregistry, kstreams, ksqldb</skill>
+					<skill lang="es">brokers, zookeeper, connect, schemaregistry, kstreams, ksqldb</skill>
+
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Cloud</skillName>
+					<skillName lang="nl">Cloud</skillName>
+					<skillName lang="fr">Cloud</skillName>
+					<skillName lang="es">Nube</skillName>
+
+					<skill lang="en">Azure, GCP, AWS</skill>
+					<skill lang="nl">Azure, GCP, AWS</skill>
+					<skill lang="fr">Azure, GCP, AWS</skill>
+					<skill lang="es">Azure, GCP, AWS</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">IaC</skillName>
+					<skillName lang="nl">IaC</skillName>
+					<skillName lang="fr">IaC</skillName>
+					<skillName lang="es">IaC</skillName>
+
+					<skill lang="en">Terraform, Ansible, Docker, Kubernetes</skill>
+					<skill lang="nl">Terraform, Ansible, Docker, Kubernetes</skill>
+					<skill lang="fr">Terraform, Ansible, Docker, Kubernetes</skill>
+					<skill lang="es">Terraform, Ansible, Docker, Kubernetes</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Softskills</skillName>
+					<skillName lang="nl">IaC</skillName>
+					<skillName lang="fr">Compétences générales</skillName>
+					<skillName lang="es">habilidades blandas</skillName>
+
+					<skill lang="en">Presentation techniques</skill>
+					<skill lang="nl">Presentatietechnieken</skill>
+					<skill lang="fr">Techniques de présentation</skill>
+					<skill lang="es">Técnicas de presentación</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Languages</skillName>
+					<skillName lang="nl">Talen</skillName>
+					<skillName lang="fr">Langues</skillName>
+					<skillName lang="es">Idiomas</skillName>
+
+					<skill lang="en">English, French, Spanish</skill>
+					<skill lang="nl">Engels, Frans, Spaans</skill>
+					<skill lang="fr">Anglais, Français, Espagnol</skill>
+					<skill lang="es">Inglés, Francés, Español</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Monitoring</skillName>
+					<skillName lang="nl">Monitoring</skillName>
+					<skillName lang="fr">Logiciel de surveillance</skillName>
+					<skillName lang="es">Monitorization</skillName>
+
+					<skill lang="en">Prometheus/grafana, ELK</skill>
+					<skill lang="nl">Prometheus/grafana, ELK</skill>
+					<skill lang="fr">Prometheus/grafana, ELK</skill>
+					<skill lang="es">Prometheus/grafana, ELK</skill>
+				</skillSet>
+
+
+
+			</skillSets>
+		</job>
+		<job>
+			<from>01/2021</from>
+			<to>04/2022</to>
+			<where>inetum</where>
+			<title lang="nl">Solutions Architect</title>
+			<title lang="fr">Architecte de solution</title>
+			<title lang="en">Solutions Architect</title>
+			<title lang="es">Arquitecto de soluciones</title>
+
+			<logo>inetum.png</logo>
+			<location lang="nl">Alicante</location>
+			<location lang="en">Alicante</location>
+			<location lang="es">Alicante</location>
+			<location lang="fr">Alicante</location>
+
+			<companyDescription lang="nl">Inetum is een Frans software-services bedrijf. De focus is vooral op al-omvattende projecten. #PositiveDigitalFlow</companyDescription>
+			<companyDescription lang="es">Inetum es una empresa francesa de servicios de software. La atención se centra principalmente en proyectos enteros. #PositiveDigitalFlow</companyDescription>
+			<companyDescription lang="fr">Inetum est une société française de services logiciels. L'accent est mis principalement sur des projets complets. #PositiveDigitalFlow</companyDescription>
+			<companyDescription lang="en">Inetum is a French software services company. The focus is mainly on all-inclusive projects. #PositiveDigitalFlow</companyDescription>
+
+			<taskDescription lang="en">Supporting and assisting with projects experiencing architectural/structural issues</taskDescription>
+			<taskDescription lang="nl">Het ondersteunen en helpen bij projecten die architecturale / structurele problemen ondervinden</taskDescription>
+			<taskDescription lang="fr">Soutenir et assister les projets rencontrant des problèmes architecturaux/structurels</taskDescription>
+			<taskDescription lang="es">Apoyar y ayudar con proyectos que experimentan problemas arquitectónicos/estructurales</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">Technologies</skillName>
+					<skillName lang="nl">Technologiën</skillName>
+					<skillName lang="fr">Technologies</skillName>
+					<skillName lang="es">Tecnologías</skillName>
+
+					<skill lang="en">java, angular, php, python</skill>
+					<skill lang="nl">java, angular, php, python</skill>
+					<skill lang="fr">java, angular, php, python</skill>
+					<skill lang="es">java, angular, php, python</skill>
+				</skillSet>
+
+
+				<skillSet>
+					<skillName lang="en">Devops tools</skillName>
+					<skillName lang="nl">Devops tools</skillName>
+					<skillName lang="fr">Outils devops</skillName>
+					<skillName lang="es">Herramientas devops</skillName>
+
+					<skill lang="en">Jenkins, github, sonarqube, codebeamer, jira</skill>
+					<skill lang="nl">Jenkins, github, sonarqube, codebeamer, jira</skill>
+					<skill lang="fr">Jenkins, github, sonarqube, codebeamer, jira</skill>
+					<skill lang="es">Jenkins, github, sonarqube, codebeamer, jira</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Languages</skillName>
+					<skillName lang="nl">Talen</skillName>
+					<skillName lang="fr">Langues</skillName>
+					<skillName lang="es">Idiomas</skillName>
+
+					<skill lang="en">French, Spanish</skill>
+					<skill lang="nl">Frans, Spaans</skill>
+					<skill lang="fr">Français, Espagnol</skill>
+					<skill lang="es">Francés, Español</skill>
+				</skillSet>
+			</skillSets>
+
+		</job>
+		<job>
+			<from>09/2019</from>
+			<to>12/2020</to>
+			<where>aquafin</where>
+			<title lang="nl">Technisch Architect</title>
+			<title lang="fr">Architecte Technique</title>
+			<title lang="en">Technical Architect</title>
+			<title lang="es">Arquitecto Técnico</title>
+			<speciality><name>Java</name></speciality>
+			<speciality><name>Big Data</name></speciality>
+			<speciality><name>Devops</name></speciality>
+
+			<logo>aquafin.jpeg</logo>
+			<location lang="nl">Aartselaar</location>
+			<location lang="en">Antwerp</location>
+			<location lang="es">Amberes</location>
+			<location lang="fr">Anvers</location>
+
+			<companyDescription lang="nl">Onder het motto: "Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water", is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
+			<companyDescription lang="es">Bajo el lema: "Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua", Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
+			<companyDescription lang="fr">Sous la devise : "Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau", Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
+			<companyDescription lang="en">With the words: "Clean watercourses for future generations and a living environment in harmony with water", Aquafin is responsible for cleaning waste water.</companyDescription>
+
+			<taskDescription lang="en">As a technical architect, Bart Geluykens was responsible for the big data projects, devops/secops implementation and improvement projects on the Aquafin java architecture</taskDescription>
+			<taskDescription lang="nl">Als technisch architect was Bart Geluykens verantwoordelijk voor de big data projecten, devops/secops implementatie en verbeterprojecten op de Aquafin java-architectuur</taskDescription>
+			<taskDescription lang="fr">En tant qu'architecte technique, Bart Geluykens était responsable des projets big data, de l'implémentation devops/secops et des projets d'amélioration sur l'architecture java d'Aquafin</taskDescription>
+			<taskDescription lang="es">Como arquitecto técnico, Bart Geluykens fue responsable de los proyectos de big data, implementación de devops/secops y proyectos de mejora en la arquitectura Java de Aquafin.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">AWS</skillName>
+					<skillName lang="nl">AWS</skillName>
+					<skillName lang="fr">AWS</skillName>
+					<skillName lang="es">AWS</skillName>
+
+					<skill lang="en">Glue, Athena, Kinesis, IoT Core, Lambda, Fargate</skill>
+					<skill lang="nl">Glue, Athena, Kinesis, IoT Core, Lambda, Fargate</skill>
+					<skill lang="fr">Glue, Athena, Kinesis, IoT Core, Lambda, Fargate</skill>
+					<skill lang="es">Glue, Athena, Kinesis, IoT Core, Lambda, Fargate</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Python</skillName>
+					<skillName lang="nl">Python</skillName>
+					<skillName lang="fr">Python</skillName>
+					<skillName lang="es">Python</skillName>
+
+					<skill lang="en">Pip, Jupyter, PyTest</skill>
+					<skill lang="nl">Pip, Jupyter, PyTest</skill>
+					<skill lang="fr">Pip, Jupyter, PyTest</skill>
+					<skill lang="es">Pip, Jupyter, PyTest</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Devops</skillName>
+					<skillName lang="nl">Devops</skillName>
+					<skillName lang="fr">Devops</skillName>
+					<skillName lang="es">Devops</skillName>
+
+					<skill lang="en">Jenkins, Bitbucket, SonarQube, Codecommit, Jira, Terraform, Ansible, Docker</skill>
+					<skill lang="nl">Jenkins, Bitbucket, SonarQube, Codecommit, Jira, Terraform, Ansible, Docker</skill>
+					<skill lang="fr">Jenkins, Bitbucket, SonarQube, Codecommit, Jira, Terraform, Ansible, Docker</skill>
+					<skill lang="es">Jenkins, Bitbucket, SonarQube, Codecommit, Jira, Terraform, Ansible, Docker</skill>
+				</skillSet>
+
+
+				<skillSet>
+					<skillName lang="en">Methodologies</skillName>
+					<skillName lang="nl">Methodologiën</skillName>
+					<skillName lang="fr">Méthodologies</skillName>
+					<skillName lang="es">Metodologías</skillName>
+
+					<skill lang="en">SAFE</skill>
+					<skill lang="nl">SAFE</skill>
+					<skill lang="fr">SAFE</skill>
+					<skill lang="es">SAFE</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Monitoring</skillName>
+					<skillName lang="nl">Monitoring</skillName>
+					<skillName lang="fr">Logiciel de surveillance</skillName>
+					<skillName lang="es">Monitorization</skillName>
+
+					<skill lang="en">PRTG, Cloudwatch</skill>
+					<skill lang="nl">PRTG, Cloudwatch</skill>
+					<skill lang="fr">PRTG, Cloudwatch</skill>
+					<skill lang="es">PRTG, Cloudwatch</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Databases</skillName>
+					<skillName lang="nl">Databases</skillName>
+					<skillName lang="fr">Bases de données</skillName>
+					<skillName lang="es">Bases de datos</skillName>
+
+					<skill lang="en">MS SQL Server, iHistorian</skill>
+					<skill lang="nl">MS SQL Server, iHistorian</skill>
+					<skill lang="fr">MS SQL Server, iHistorian</skill>
+					<skill lang="es">MS SQL Server, iHistorian</skill>
+				</skillSet>
+
+			</skillSets>
+
+
+		</job>
+		<job>
+			<from>01/2018</from>
+			<to>08/2019</to>
+			<where>aquafin</where>
+			<title lang="nl">Java Ontwikkelaar</title>
+			<title lang="fr">Développeur Java</title>
+			<title lang="en">Java Developer</title>
+			<title lang="es">Desarrollador java</title>
+
+			<logo>aquafin.jpeg</logo>
+			<location lang="nl">Aartselaar</location>
+			<location lang="en">Antwerp</location>
+			<location lang="es">Amberes</location>
+			<location lang="fr">Anvers</location>
+
+			<companyDescription lang="nl">Onder het motto: "Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water", is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
+			<companyDescription lang="es">Bajo el lema: "Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua", Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
+			<companyDescription lang="fr">Sous la devise : "Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau", Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
+			<companyDescription lang="en">With the words: "Clean watercourses for future generations and a living environment in harmony with water", Aquafin is responsible for cleaning waste water.</companyDescription>
+
+
+			<taskDescription lang="en">As a Java developer, Bart Geluykens was responsible for the implementation of various applications</taskDescription>
+			<taskDescription lang="nl">Als java ontwikkelaar was Bart Geluykens verantwoordelijk voor de implementatie van diverse applicaties</taskDescription>
+			<taskDescription lang="fr">En tant que développeur Java, Bart Geluykens était responsable de la mise en œuvre de diverses applications</taskDescription>
+			<taskDescription lang="es">Como desarrollador de Java, Bart Geluykens fue responsable de la implementación de varias aplicaciones.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">Java</skillName>
+					<skillName lang="nl">Java</skillName>
+					<skillName lang="fr">Java</skillName>
+					<skillName lang="es">Java</skillName>
+
+					<skill lang="en">Maven, Spring-boot, Spring-security, Spring-data, Spring-validation, Actuator, Hibernate, Webflux, Swagger, Cloud-config, Mockito, Junit, Eureka, Lombok, Jackson, Camunda</skill>
+					<skill lang="nl">Maven, Spring-boot, Spring-security, Spring-data, Spring-validation,Actuator, Hibernate, Webflux, Swagger,, Cloud-config, Mockito, Junit, Eureka, Lombok, Jackson, Camunda</skill>
+					<skill lang="fr">Maven, Spring-boot, Spring-security, Spring-data, Spring-validation,Actuator, Hibernate, Webflux, Swagger,, Cloud-config, Mockito, Junit, Eureka, Lombok, Jackson, Camunda</skill>
+					<skill lang="es">Maven, Spring-boot, Spring-security, Spring-data, Spring-validation,Actuator, Hibernate, Webflux, Swagger,, Cloud-config, Mockito, Junit, Eureka, Lombok, Jackson, Camunda</skill>
+
+				</skillSet>
+
+
+				<skillSet>
+					<skillName lang="en">Javascript</skillName>
+					<skillName lang="nl">Javascript</skillName>
+					<skillName lang="fr">Javascript</skillName>
+					<skillName lang="es">Javascript</skillName>
+
+					<skill lang="en">Angular, Typescript, Jest, Material Design, scss, Bootstrap (legacy)</skill>
+					<skill lang="nl">Angular, Typescript, Jest, Material Design, scss, Bootstrap (legacy)</skill>
+					<skill lang="fr">Angular, Typescript, Jest, Material Design, scss, Bootstrap (legacy)</skill>
+					<skill lang="es">Angular, Typescript, Jest, Material Design, scss, Bootstrap (legacy)</skill>
+
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Devops</skillName>
+					<skillName lang="nl">Devops</skillName>
+					<skillName lang="fr">Devops</skillName>
+					<skillName lang="es">Devops</skillName>
+
+					<skill lang="en">Jenkins, Bitbucket, SonarQube, Jira, Liquibase</skill>
+					<skill lang="nl">Jenkins, Bitbucket, SonarQube, Jira, Liquibase</skill>
+					<skill lang="fr">Jenkins, Bitbucket, SonarQube, Jira, Liquibase</skill>
+					<skill lang="es">Jenkins, Bitbucket, SonarQube, Jira, Liquibase</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">AWS</skillName>
+					<skillName lang="nl">AWS</skillName>
+					<skillName lang="fr">AWS</skillName>
+					<skillName lang="es">AWS</skillName>
+
+					<skill lang="en">Fargate</skill>
+					<skill lang="nl">Fargate</skill>
+					<skill lang="fr">Fargate</skill>
+					<skill lang="es">Fargate</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Methodologies</skillName>
+					<skillName lang="nl">Methodologiën</skillName>
+					<skillName lang="fr">Méthodologies</skillName>
+					<skillName lang="es">Metodologías</skillName>
+
+					<skill lang="en">SAFE</skill>
+					<skill lang="nl">SAFE</skill>
+					<skill lang="fr">SAFE</skill>
+					<skill lang="es">SAFE</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Monitoring</skillName>
+					<skillName lang="nl">Monitoring</skillName>
+					<skillName lang="fr">Logiciel de surveillance</skillName>
+					<skillName lang="es">Monitorization</skillName>
+
+					<skill lang="en">PRTG</skill>
+					<skill lang="nl">PRTG</skill>
+					<skill lang="fr">PRTG</skill>
+					<skill lang="es">PRTG</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Databases</skillName>
+					<skillName lang="nl">Databases</skillName>
+					<skillName lang="fr">Bases de données</skillName>
+					<skillName lang="es">Bases de datos</skillName>
+
+					<skill lang="en">MS SQL Server, DB2, H2</skill>
+					<skill lang="nl">MS SQL Server, DB2, H2</skill>
+					<skill lang="fr">MS SQL Server, DB2, H2</skill>
+					<skill lang="es">MS SQL Server, DB2, H2</skill>
+				</skillSet>
+
+			</skillSets>
+
+		</job>
+		<job>
+			<from>06/2016</from>
+			<to>12/2017</to>
+			<where>hfb</where>
+			<title lang="nl">Java Technical Lead</title>
+			<title lang="fr">Responsable technique Java</title>
+			<title lang="en">Java Technical Lead</title>
+			<title lang="es">Jefe técnico de Java</title>
+
+
+			<logo>hpe.png</logo>
+			<logo2>vo-hfb.png</logo2>
+			<location lang="nl">Brussel</location>
+			<location lang="en">Brussels</location>
+			<location lang="es">Bruselas</location>
+			<location lang="fr">Bruxelles</location>
+
+			<companyDescription lang="nl">"Het Facilitair Bedrijf" is verantwoordelijk voor alle overkoepelende projecten binnen de vlaamse overheid. Met het project WebIDM was Bart Geluykens verantwoordelijk voor Identitymangement</companyDescription>
+			<companyDescription lang="es">"Het Facilitair Bedrijf" es responsable de todos los proyectos generales dentro del gobierno flamenco. Con el proyecto WebIDM, Bart Geluykens fue responsable de la gestión de la Identidad</companyDescription>
+			<companyDescription lang="fr">"Het Facilitair Bedrijf" est responsable de tous les projets généraux au sein du gouvernement flamand. Avec le projet WebIDM, Bart Geluykens était responsable de la gestion des identités</companyDescription>
+			<companyDescription lang="en">"Het Facilitair Bedrijf" is responsible for all shared projects within the flemish governement. With the WebIDM project, Bart Geluykens was responsible for Identity management</companyDescription>
+
+			<taskDescription lang="en">Bart Geluykens was responsible for maintenance and bug fixes on the legacy and new version of the application within a team of 4 developers. In addition, also for the communication and cooperation with other teams.</taskDescription>
+			<taskDescription lang="nl">Bart Geluykens was verantwoordelijk voor onderhoud en bugfixes op de legacy/bestaande versie binnen een team van 4 developers. Daarnaast ook voor de communicatie / samenwerking met andere teams.</taskDescription>
+			<taskDescription lang="fr">Bart Geluykens était responsable de la maintenance et des corrections de bugs sur la version legacy/existante au sein d'une équipe de 4 développeurs. En outre, également pour la communication / coopération avec d'autres équipes.</taskDescription>
+			<taskDescription lang="es">Bart Geluykens fue responsable del mantenimiento y la corrección de errores en la versión heredada/existente dentro de un equipo de 4 desarrolladores. Además, también para la comunicación/cooperación con otros equipos.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">Java stack 1</skillName>
+					<skillName lang="nl">Java stack 1</skillName>
+					<skillName lang="fr">Java socle 1</skillName>
+					<skillName lang="es">Java pile 1</skillName>
+
+					<skill lang="en">maven/ant, Spring, Hibernate, Glassfish, JSF (Icefaces), JQuery, Sun IDM, Spring webflow</skill>
+					<skill lang="nl">maven/ant, Spring, Hibernate, Glassfish, JSF (Icefaces), JQuery, Sun IDM, Spring webflow</skill>
+					<skill lang="fr">maven/ant, Spring, Hibernate, Glassfish, JSF (Icefaces), JQuery, Sun IDM, Spring webflow</skill>
+					<skill lang="es">maven/ant, Spring, Hibernate, Glassfish, JSF (Icefaces), JQuery, Sun IDM, Spring webflow</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Java stack 2</skillName>
+					<skillName lang="nl">Java stack 2</skillName>
+					<skillName lang="fr">Java socle 2</skillName>
+					<skillName lang="es">Java pile 2</skillName>
+
+					<skill lang="en">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, OpenIDM, Jackson, Lombok, Wicket, Tomcat</skill>
+					<skill lang="nl">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, OpenIDM, Jackson, Lombok, Wicket, Tomcat</skill>
+					<skill lang="fr">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, OpenIDM, Jackson, Lombok, Wicket, Tomcat</skill>
+					<skill lang="es">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, OpenIDM, Jackson, Lombok, Wicket, Tomcat</skill>
+				</skillSet>
+
+
+				<skillSet>
+					<skillName lang="en">Devops</skillName>
+					<skillName lang="nl">Devops</skillName>
+					<skillName lang="fr">Devops</skillName>
+					<skillName lang="es">Devops</skillName>
+
+					<skill lang="en">Jenkins, GitLab, SonarQube, Jira, Flyway</skill>
+					<skill lang="nl">Jenkins, GitLab, SonarQube, Jira, Flyway</skill>
+					<skill lang="fr">Jenkins, GitLab, SonarQube, Jira, Flyway</skill>
+					<skill lang="es">Jenkins, GitLab, SonarQube, Jira, Flyway</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Databases</skillName>
+					<skillName lang="nl">Databases</skillName>
+					<skillName lang="fr">Bases de données</skillName>
+					<skillName lang="es">Bases de datos</skillName>
+
+					<skill lang="en">Oracle, PostgreSQL, Informix, H2</skill>
+					<skill lang="nl">Oracle, PostgreSQL, Informix, H2</skill>
+					<skill lang="fr">Oracle, PostgreSQL, Informix, H2</skill>
+					<skill lang="es">Oracle, PostgreSQL, Informix, H2</skill>
+				</skillSet>
+
+			</skillSets>
+
+
+
+
+		</job>
+		<job>
+			<from>03/2012</from>
+			<to>05/2016</to>
+			<where>wvl</where>
+			<title lang="nl">Java Technical Lead</title>
+			<title lang="fr">Responsable technique Java</title>
+			<title lang="en">Java Technical Lead</title>
+			<title lang="es">Jefe técnico de Java</title>
+
+			<logo>hpe.png</logo>
+			<logo2>vo-wvl.png</logo2>
+			<location lang="nl">Brussel</location>
+			<location lang="en">Brussels</location>
+			<location lang="es">Bruselas</location>
+			<location lang="fr">Bruxelles</location>
+
+			<companyDescription lang="nl">"Wonen Vlaanderen" is verantwoordelijk voor alles wat betreft huisvesting in Vlaanderen. De projecten binnen het java-portfollio habben vooral te maken met woonsubsidies en woonkwaliteit.</companyDescription>
+			<companyDescription lang="es">"Wonen Vlaanderen" es responsable de todo lo relacionado con la vivienda en Flandes. Los proyectos de la cartera java están relacionados principalmente con subsidios habitacionales y calidad habitacional.</companyDescription>
+			<companyDescription lang="fr">"Wonen Vlaanderen" est responsable de tout ce qui concerne le logement en Flandre. Les projets du portefeuille java sont principalement liés aux subventions et à la qualité du logement.</companyDescription>
+			<companyDescription lang="en">"Wonen Vlaanderen" is responsible for everything regarding housing in Flanders. The projects within the java portfolio are mainly related to housing subsidies and housing quality.</companyDescription>
+
+			<taskDescription lang="en">Bart Geluykens had to manage a team of about 6 devs, in close collaboration with the customer and the .NET team.</taskDescription>
+			<taskDescription lang="nl">Bart Geluykens moest een team van ongeveer 6 devs aansturen, dit in heel nauwe samenwerking met de klant en het .NET team.</taskDescription>
+			<taskDescription lang="fr">Bart Geluykens devait manager une équipe d'environ 6 devs, en étroite collaboration avec le client et l'équipe .NET.</taskDescription>
+			<taskDescription lang="es">Bart Geluykens tuvo que gestionar un equipo de unos 6 desarrolladores, en estrecha colaboración con el cliente y el equipo de .NET.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">java stack 1</skillName>
+					<skillName lang="nl">java stack 1</skillName>
+					<skillName lang="fr">java socle 1</skillName>
+					<skillName lang="es">java pile 1</skillName>
+
+					<skill lang="en">Maven, Spring, Spring MVC, Glassfish, Hibernate, Apache CFX, DROOLS, JQuery</skill>
+					<skill lang="nl">Maven, Spring, Spring MVC, Glassfish, Hibernate, Apache CFX, DROOLS, JQuery</skill>
+					<skill lang="fr">Maven, Spring, Spring MVC, Glassfish, Hibernate, Apache CFX, DROOLS, JQuery</skill>
+					<skill lang="es">Maven, Spring, Spring MVC, Glassfish, Hibernate, Apache CFX, DROOLS, JQuery</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">java stack 2</skillName>
+					<skillName lang="nl">java stack 2</skillName>
+					<skillName lang="fr">java socle 2</skillName>
+					<skillName lang="es">java pile 2</skillName>
+
+					<skill lang="en">Ant, Spring, JSF, Glassfish</skill>
+					<skill lang="nl">Ant, Spring, JSF, Glassfish</skill>
+					<skill lang="fr">Ant, Spring, JSF, Glassfish</skill>
+					<skill lang="es">Ant, Spring, JSF, Glassfish</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">java stack 3</skillName>
+					<skillName lang="nl">java stack 3</skillName>
+					<skillName lang="fr">java socle 3</skillName>
+					<skillName lang="es">java pile 3</skillName>
+
+					<skill lang="en">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, Jackson, Lombok, Wicket, Tomcat, Jetty</skill>
+					<skill lang="nl">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, Jackson, Lombok, Wicket, Tomcat, Jetty</skill>
+					<skill lang="fr">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, Jackson, Lombok, Wicket, Tomcat, Jetty</skill>
+					<skill lang="es">Maven, Spring, Spring-security, Spring-data, Spring-validation, Hibernate, Jackson, Lombok, Wicket, Tomcat, Jetty</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Devops</skillName>
+					<skillName lang="nl">Devops</skillName>
+					<skillName lang="fr">Devops</skillName>
+					<skillName lang="es">Devops</skillName>
+
+					<skill lang="en">Teamcity, GitLab, SonarQube, Jira</skill>
+					<skill lang="nl">Teamcity, GitLab, SonarQube, Jira</skill>
+					<skill lang="fr">Teamcity, GitLab, SonarQube, Jira</skill>
+					<skill lang="es">Teamcity, GitLab, SonarQube, Jira</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Databases</skillName>
+					<skillName lang="nl">Databases</skillName>
+					<skillName lang="fr">Bases de données</skillName>
+					<skillName lang="es">Bases de datos</skillName>
+
+					<skill lang="en">Oracle, Informix, H2</skill>
+					<skill lang="nl">Oracle, Informix, H2</skill>
+					<skill lang="fr">Oracle, Informix, H2</skill>
+					<skill lang="es">Oracle, Informix, H2</skill>
+				</skillSet>
+
+
+			</skillSets>
+
+
+		</job>
+		<job>
+			<from>06/2010</from>
+			<to>02/2012</to>
+			<where>vlabel</where>
+			<title lang="nl">Java Ontwikkelaar</title>
+			<title lang="fr">Développeur Java</title>
+			<title lang="en">Java Developer</title>
+			<title lang="es">Desarrollador Java</title>
+
+			<logo>hpe.png</logo>
+			<logo2>vo-vlabel.jpeg</logo2>
+			<location lang="nl">Brussel</location>
+			<location lang="en">Brussels</location>
+			<location lang="es">Bruselas</location>
+			<location lang="fr">Bruxelles</location>
+
+			<companyDescription lang="nl">VLABEL is de vlaamse belastingdienst. Toen Bart Geluykens hier actief was hadden ze 3 bevoedheden: Verkeersbelasting, kadastraalinkomen en erfrecht.</companyDescription>
+			<companyDescription lang="es">VLABEL es la autoridad fiscal flamenca. Cuando Bart Geluykens estaba activo aquí, tenían 3 áreas: impuesto de circulación, renta catastral y ley de sucesiones.</companyDescription>
+			<companyDescription lang="fr">VLABEL est l'administration fiscale flamande. Lorsque Bart Geluykens était actif ici, ils avaient 3 domaines: la taxe de circulation, le revenu cadastral et le droit des successions.</companyDescription>
+			<companyDescription lang="en">VLABEL is the Flemish tax authority. When Bart Geluykens was active here, they had 3 responsibilities: Traffic tax, cadastral income and inheritance law.</companyDescription>
+
+			<taskDescription lang="en">Bart started as a business analyst, but out of necessity he has taken on other functions. Eventually he found his first love again and decided to switch to full time programming.</taskDescription>
+			<taskDescription lang="nl">Bart is begonnen als business analist, maar heeft uit noodzaak heeft hij er ander taken bij genomen. Uiteindelijk heeft hij terug zijn eerste liefde gevonden en besloten van project te wisselen om terug voltijds te kunnen programmeren..</taskDescription>
+			<taskDescription lang="fr">Bart a commencé comme analyste commercial, mais par nécessité, il a assumé d'autres tâches. Finalement, il a retrouvé son premier amour et a décidé de changer de projet pour pouvoir à nouveau programmer à plein temps.</taskDescription>
+			<taskDescription lang="es">Bart comenzó como analista de negocios, pero por necesidad asumió otras tareas. Eventualmente, encontró a su primer amor nuevamente y decidió cambiar de proyecto para poder programar a tiempo completo nuevamente.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">Oracle</skillName>
+					<skillName lang="nl">Oracle</skillName>
+					<skillName lang="fr">Oracle</skillName>
+					<skillName lang="es">Oracle</skillName>
+
+					<skill lang="en">SQL, OWB, PL-SQL</skill>
+					<skill lang="nl">SQL, OWB, PL-SQL</skill>
+					<skill lang="fr">SQL, OWB, PL-SQL</skill>
+					<skill lang="es">SQL, OWB, PL-SQL</skill>
+				</skillSet>
+				<skillSet>
+					<skillName lang="en">Java</skillName>
+					<skillName lang="nl">Java</skillName>
+					<skillName lang="fr">Java</skillName>
+					<skillName lang="es">Java</skillName>
+
+					<skill lang="en">ant, struts, spring, mockito, Websphere, Doser, JQuery</skill>
+					<skill lang="nl">ant, struts, spring, mockito, Websphere, Doser, JQuery</skill>
+					<skill lang="fr">ant, struts, spring, mockito, Websphere, Doser, JQuery</skill>
+					<skill lang="es">ant, struts, spring, mockito, Websphere, Doser, JQuery</skill>
+				</skillSet>
+				<skillSet>
+					<skillName lang="en">Devops</skillName>
+					<skillName lang="nl">Devops</skillName>
+					<skillName lang="fr">Devops</skillName>
+					<skillName lang="es">Devops</skillName>
+
+					<skill lang="en">Hudson, SVN, SonarQube, Jira</skill>
+					<skill lang="nl">Hudson, SVN, SonarQube, Jira</skill>
+					<skill lang="fr">Hudson, SVN, SonarQube, Jira</skill>
+					<skill lang="es">Hudson, SVN, SonarQube, Jira</skill>
+				</skillSet>
+			</skillSets>
+
+		</job>
+		<job>
+			<from>06/2010</from>
+			<to>02/2012</to>
+			<where>vlabel</where>
+			<title lang="nl">Oracle Ontwikkelaar</title>
+			<title lang="fr">Développeur Oracle</title>
+			<title lang="en">Oracle Developer</title>
+			<title lang="es">Desarrollador Oracle</title>
+		</job>
+		<job>
+			<from>01/2009</from>
+			<to>02/2012</to>
+			<where>vlabel</where>
+			<title lang="nl">Business Analist</title>
+			<title lang="fr">Analyste d'affaires</title>
+			<title lang="en">Business Analyst</title>
+			<title lang="es">Analista de negocios</title>
+		</job>
+
+		<job>
+			<from>01/2005</from>
+			<to>12/2008</to>
+			<where>usg</where>
+			<title lang="nl">Business Analist</title>
+			<title lang="fr">Analyste d'affaires</title>
+			<title lang="en">Business Analyst</title>
+			<title lang="es">Analista de negocios</title>
+
+			<location lang="nl">Antwerpen</location>
+			<location lang="en">Antwerp</location>
+			<location lang="es">Amberes</location>
+			<location lang="fr">Anvers</location>
+
+			<logo>capgemini.png</logo>
+			<logo2>usg.png</logo2>
+
+			<companyDescription lang="nl">USG (United Services Group) was een van de grote uitzendkantoren in België. De nadruk lag vooral op bulkverwerking. Door heel veel uitzendkrachten op het veld te hebben konden we heel veel optinmaliseren, zoals printkosten, bankkosten, ... . Dit is in het voordeel van zowel de klant als de uitzendkracht.</companyDescription>
+			<companyDescription lang="en">USG (United Services Group) was one of the major temporary employment agencies in Belgium. The emphasis was mainly on bulk processing. By having a lot of temporary workers on the field, we were able to optimize a lot, from printing costs, bank costs, ... . This is to the advantage of both the customer and the temporary worker.</companyDescription>
+			<companyDescription lang="fr">USG (United Services Group) était l'une des principales agences d'intérim en Belgique. L'accent était mis principalement sur le traitement en vrac. En ayant beaucoup d'intérimaires sur le terrain, nous avons pu optimiser beaucoup, comme les frais d'impression, les frais bancaires, ... . Cela profite à la fois au client et à l'intérimaire.</companyDescription>
+			<companyDescription lang="es">USG (United Services Group) era una de las principales agencias de trabajo temporal en Bélgica. El énfasis estaba principalmente en el procesamiento a granel. Al tener muchos trabajadores temporales en el campo, pudimos optimizar mucho, como los costos de impresión, los costos bancarios, ... . Esto es una ventaja tanto para el cliente como para el trabajador temporal.</companyDescription>
+
+			<taskDescription lang="en">Due to a very small, the tasks were quite versatile, such as developer, application DBA, analyst to product owner. One day Bart Geluykens was developing, the next day you are in the field discussing with the employees how the matching should work and meanwhile you get a phone call from the printing firm that there are problems processing the documents that have been sent by mail.</taskDescription>
+			<taskDescription lang="nl">Dankzij een heel klein waren de taken nogal heel veelzijdig, zoals developmer, application DBA, analist tot product owner. De ene dag was Bart Geluykens aan het ontwikkelen, de andere dag sta je in de field te bespreken met de werknemers hoe de matching moet werken en ondertussen krijg je telefoon van de drukker dat er problemen zijn met het verwerken van de documenten die op de post moeten.</taskDescription>
+			<taskDescription lang="fr">En raison d'une très petite taille, les tâches étaient assez polyvalentes, telles que développeur, DBA d'application, analyste à propriétaire de produit. Un jour, Bart Geluykens développait, le lendemain, vous êtes sur le terrain pour discuter avec les employés de la manière dont la mise en correspondance devrait fonctionner et, pendant ce temps, vous recevez un appel téléphonique de l'imprimeur indiquant qu'il y a des problèmes de traitement des documents qui ont été envoyés par courrier.</taskDescription>
+			<taskDescription lang="es">Debido a que era muy pequeño, las tareas eran bastante versátiles, como desarrollador, DBA de aplicaciones, analista y propietario del producto. Un día Bart Geluykens estaba desarrollando, al día siguiente estás en el campo discutiendo con los empleados cómo debería funcionar el emparejamiento y mientras tanto recibes una llamada telefónica de la imprenta que hay problemas para procesar los documentos que se han enviado por correo.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">Main tasks</skillName>
+					<skillName lang="nl">Hoofdtaken</skillName>
+					<skillName lang="fr">Tâches principales</skillName>
+					<skillName lang="es">Tareas principales</skillName>
+
+					<skill lang="en">Developer, Application DBA: payroll engine, Business Analyst, Developer: matchings, Business Analyst, Product Owner: Printing and government communication</skill>
+					<skill lang="nl">Developer, Application DBA: loonmotor, Business Analyst, Developer: matchings, Business Analyst, Product Owner: Printing en overheidscommunicatie</skill>
+					<skill lang="fr">Développeur, Application DBA : moteur de paie, Business Analyst, Développeur : matchings, Business Analyst, Product Owner : Impression et communication gouvernementale</skill>
+					<skill lang="es">Desarrollador, DBA de aplicaciones: motor de nómina, Analista comercial, Desarrollador: matchings, Analista comercial, Propietario del producto: Impresión y comunicación gobernamental</skill>
+
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Oracle</skillName>
+					<skillName lang="nl">Oracle</skillName>
+					<skillName lang="fr">Oracle</skillName>
+					<skillName lang="es">Oracle</skillName>
+
+					<skill lang="en">DBA, PL/SQL, Oracle Forms (headstart), Oracle Reports, Oracle Designer</skill>
+					<skill lang="nl">DBA, PL/SQL, Oracle Forms (headstart), Oracle Reports, Oracle Designer</skill>
+					<skill lang="fr">DBA, PL/SQL, Oracle Forms (headstart), Oracle Reports, Oracle Designer</skill>
+					<skill lang="es">DBA, PL/SQL, Oracle Forms (headstart), Oracle Reports, Oracle Designer</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Databases</skillName>
+					<skillName lang="nl">Databases</skillName>
+					<skillName lang="fr">Bases de données</skillName>
+					<skillName lang="es">Bases de datos</skillName>
+
+					<skill lang="en">Oracle, Elise</skill>
+					<skill lang="nl">Oracle, Elise</skill>
+					<skill lang="fr">Oracle, Elise</skill>
+					<skill lang="es">Oracle, Elise</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Methodologies</skillName>
+					<skillName lang="nl">Methodologiën</skillName>
+					<skillName lang="fr">Méthodologies</skillName>
+					<skillName lang="es">Metodologías</skillName>
+
+					<skill lang="en">RUP, (Short) Waterfall</skill>
+					<skill lang="nl">RUP, (Short) Waterfall</skill>
+					<skill lang="fr">RUP, (Short) Waterfall</skill>
+					<skill lang="es">RUP, (Short) Waterfall</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">c/cpp</skillName>
+					<skillName lang="nl">c/cpp</skillName>
+					<skillName lang="fr">c/cpp</skillName>
+					<skillName lang="es">c/cpp</skillName>
+
+					<skill lang="en">Visual Studio 6, Makefile, core, ProC*</skill>
+					<skill lang="nl">Visual Studio 6, Makefile, core, ProC*</skill>
+					<skill lang="fr">Visual Studio 6, Makefile, core, ProC*</skill>
+					<skill lang="es">Visual Studio 6, Makefile, core, ProC*</skill>
+				</skillSet>
+
+			</skillSets>
+		</job>
+		<job>
+			<from>09/2004</from>
+			<to>12/2008</to>
+			<where>usg</where>
+			<title lang="nl">Oracle Applicatie DBA</title>
+			<title lang="fr">Oracle Application DBA</title>
+			<title lang="en">Oracle Application DBA</title>
+			<title lang="es">Oracle Application DBA</title>
+		</job>
+
+		<job>
+			<from>06/2003</from>
+			<to>12/2008</to>
+			<where>usg</where>
+			<title lang="nl">Oracle Ontwikkelaar</title>
+			<title lang="fr">Développeur Oracle</title>
+			<title lang="en">Oracle Developer</title>
+			<title lang="es">Desarrollador Oracle</title>
+		</job>
+		<job>
+			<from>06/2003</from>
+			<to>12/2005</to>
+			<where>usg</where>
+			<title lang="nl">c Ontwikkelaar</title>
+			<title lang="fr">Développeur c</title>
+			<title lang="en">c Developer</title>
+			<title lang="es">Desarrollador c</title>
+		</job>
+		<job>
+			<from>08/2001</from>
+			<to>06/2003</to>
+			<where>fortis</where>
+			<title lang="nl">c Ontwikkelaar</title>
+			<title lang="fr">Développeur c</title>
+			<title lang="en">c Developer</title>
+			<title lang="es">Desarrollador c</title>
+
+			<logo>capgemini.png</logo>
+			<logo2>fortis.jpg</logo2>
+
+			<location lang="nl">Brussel</location>
+			<location lang="en">Brussels</location>
+			<location lang="es">Bruselas</location>
+			<location lang="fr">Bruxelles</location>
+
+			<companyDescription lang="nl">FORTIS was een belgische bank. Deze was ontstaan na de fusie tussen ASLK en Generale Bank. Dit project was gespecialiseerd in de monitoring en beveiliging van de kantoren. Ondertussen is de bank eigendom van BNP Parisbas</companyDescription>
+			<companyDescription lang="es">FORTIS era un banco belga. Este fue creado después de la fusión entre ASLK y Generale Bank. Este proyecto se especializó en la vigilancia y seguridad de las oficinas. Mientras tanto, el banco es propiedad de BNP Parisbas</companyDescription>
+			<companyDescription lang="fr">FORTIS était une banque belge. Celle-ci a été créée après la fusion entre ASLK et Générale de Banque. Ce projet s'est spécialisé dans la surveillance et la sécurité des bureaux. Pendant ce temps, la banque est détenue par BNP Parisbas</companyDescription>
+			<companyDescription lang="en">FORTIS was a Belgian bank. This was created after the merger between ASLK and Generale Bank. This project was aiming to do the monitoring and security of the offices. Nowadays, the bank is owned by BNP Parisbas</companyDescription>
+
+			<taskDescription lang="en">C developer on unix and windows.</taskDescription>
+			<taskDescription lang="nl">C ontwikkelaar op unix en windows.</taskDescription>
+			<taskDescription lang="fr">Développeur C sur unix et windows.</taskDescription>
+			<taskDescription lang="es">Desarrollador C en Unix y Windows.</taskDescription>
+
+			<skillSets>
+				<skillSet>
+					<skillName lang="en">java stack 1</skillName>
+					<skillName lang="nl">java stack 1</skillName>
+					<skillName lang="fr">java socle 1</skillName>
+					<skillName lang="es">java pile 1</skillName>
+
+					<skill lang="en">c - cpp, Makefile, QT, ProC*, vim</skill>
+					<skill lang="nl">c - cpp, Makefile, QT, ProC*, vim</skill>
+					<skill lang="fr">c - cpp, Makefile, QT, ProC*, vim</skill>
+					<skill lang="es">c - cpp, Makefile, QT, ProC*, vim</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">java stack 2</skillName>
+					<skillName lang="nl">java stack 2</skillName>
+					<skillName lang="fr">java socle 2</skillName>
+					<skillName lang="es">java pile 2</skillName>
+
+					<skill lang="en">c - cpp, Visual Studio 5, MFC, ProC*</skill>
+					<skill lang="nl">c - cpp, Visual Studio 5, MFC, ProC*</skill>
+					<skill lang="fr">c - cpp, Visual Studio 5, MFC, ProC*</skill>
+					<skill lang="es">c - cpp, Visual Studio 5, MFC, ProC*</skill>
+				</skillSet>
+
+				<skillSet>
+					<skillName lang="en">Methodologies</skillName>
+					<skillName lang="nl">Methodologiën</skillName>
+					<skillName lang="fr">Méthodologies</skillName>
+					<skillName lang="es">Metodologías</skillName>
+
+					<skill lang="en">RUP</skill>
+					<skill lang="nl">RUP</skill>
+					<skill lang="fr">RUP</skill>
+					<skill lang="es">RUP</skill>
+				</skillSet>
+			</skillSets>
+
+		</job>
+	</jobs>
+
+	<languages>
+		<language>
+			<name lang="nl">Nederlands</name>
+			<name lang="fr">Néerlandais</name>
+			<name lang="en">Dutch</name>
+			<name lang="es">Neerlandés</name>
+			<niveau>C2</niveau>
+		</language>
+
+		<language>
+			<name lang="nl">Engels</name>
+			<name lang="fr">Anglais</name>
+			<name lang="en">English</name>
+			<name lang="es">Inglés</name>
+			<niveau>C2</niveau>
+		</language>
+
+		<language>
+			<name lang="nl">Frans</name>
+			<name lang="fr">Français</name>
+			<name lang="en">French</name>
+			<name lang="es">Francés</name>
+			<niveau>C2</niveau>
+		</language>
+
+		<language>
+			<name lang="nl">Spaans</name>
+			<name lang="fr">Espagnol</name>
+			<name lang="en">Spanish</name>
+			<name lang="es">Español</name>
+			<niveau>B2</niveau>
+		</language>
+
+		<language>
+			<name lang="nl">Duits</name>
+			<name lang="fr">Allemand</name>
+			<name lang="en">German</name>
+			<name lang="es">Alemán</name>
+			<niveau>A1</niveau>
+		</language>
+
+	</languages>
+
+	<educations>
+		<education>
+			<where>avans</where>
+			<name lang="nl">Software Ingenieur</name>
+			<name lang="fr">Ingénieur logiciel</name>
+			<name lang="en">Software Engineer</name>
+			<name lang="es">Ingeniero de software</name>
+
+			<when lang="nl">Van 2001 tot 2003</when>
+			<when lang="fr">De 2001 à 2003</when>
+			<when lang="en">From 2001 until 2003</when>
+			<when lang="es">De 2001 hasta 2003</when>
+
+			<type lang="nl">Avondonderwijs</type>
+			<type lang="fr">Enseignement du soir</type>
+			<type lang="en">Evening education</type>
+			<type lang="es">Educación nocturna</type>
+		</education>
+		<education>
+			<where>kdg</where>
+			<name lang="nl">Toegepaste Informatica</name>
+			<name lang="fr">Informatique appliquée</name>
+			<name lang="en">Applied Informatics</name>
+			<name lang="es">Informática Aplicada</name>
+
+			<when lang="nl">Van 1998 tot 2001</when>
+			<when lang="fr">De 1998 à 2001</when>
+			<when lang="en">From 1998 until 2001</when>
+			<when lang="es">De 1998 hasta 2001</when>
+
+			<type lang="nl">Dagonderwijs</type>
+			<type lang="fr">Éducation de jour</type>
+			<type lang="en">Day education</type>
+			<type lang="es">Educación diurna</type>
+		</education>
+	</educations>
+
+	<topSkills>
+		<skill>
+			<name>Java</name>
+		</skill>
+		<skill>
+			<name>JavaScript - Angular</name>
+		</skill>
+		<skill>
+			<name>AWS - Big Data</name>
+		</skill>
+		<skill>
+			<name>Oracle</name>
+		</skill>
+		<skill>
+			<name>C - C++</name>
+		</skill>
+		<skill>
+			<name>Devops - Agile</name>
+		</skill>
+	</topSkills>
+
+	<skills>
+		<skill>
+			<name lang="nl">Programeertaal</name>
+			<name lang="fr">Langauge De Programmation</name>
+			<name lang="en">Programming language</name>
+			<name lang="es">Lenguaje de programación</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Java</name>
+					<name lang="fr">Java</name>
+					<name lang="en">Java</name>
+					<name lang="es">Java</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">Typescript</name>
+					<name lang="fr">Typescript</name>
+					<name lang="en">Typescript</name>
+					<name lang="es">Typescript</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Oracle</name>
+					<name lang="fr">Oracle</name>
+					<name lang="en">Oracle</name>
+					<name lang="es">Oracle</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">C - Cpp</name>
+					<name lang="fr">C - Cpp</name>
+					<name lang="en">C - Cpp</name>
+					<name lang="es">C - Cpp</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">Python</name>
+					<name lang="fr">Python</name>
+					<name lang="en">Python</name>
+					<name lang="es">Python</name>
+					<level>2</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Java</name>
+			<name lang="fr">Java</name>
+			<name lang="en">Java</name>
+			<name lang="es">Java</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">spring (boot)</name>
+					<name lang="fr">spring (boot)</name>
+					<name lang="en">spring (boot)</name>
+					<name lang="es">spring (boot)</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">hibernate</name>
+					<name lang="fr">hibernate</name>
+					<name lang="en">hibernate</name>
+					<name lang="es">hibernate</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">Junit - Mockito</name>
+					<name lang="fr">Junit - Mockito</name>
+					<name lang="en">Junit - Mockito</name>
+					<name lang="es">Junit - Mockito</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">Lombok</name>
+					<name lang="fr">Lombok</name>
+					<name lang="en">Lombok</name>
+					<name lang="es">Lombok</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">Maven</name>
+					<name lang="fr">Maven</name>
+					<name lang="en">Maven</name>
+					<name lang="es">Maven</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">spring-config</name>
+					<name lang="fr">spring-config</name>
+					<name lang="en">spring-config</name>
+					<name lang="es">spring-config</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Wicket</name>
+					<name lang="fr">Wicket</name>
+					<name lang="en">Wicket</name>
+					<name lang="es">Wicket</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Webflux</name>
+					<name lang="fr">Webflux</name>
+					<name lang="en">Webflux</name>
+					<name lang="es">Webflux</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">Micronaut</name>
+					<name lang="fr">Micronaut</name>
+					<name lang="en">Micronaut</name>
+					<name lang="es">Micronaut</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">Gradle</name>
+					<name lang="fr">Gradle</name>
+					<name lang="en">Gradle</name>
+					<name lang="es">Gradle</name>
+					<level>1</level>
+				</skill>
+				<skill>
+					<name lang="nl">JSF</name>
+					<name lang="fr">JSF</name>
+					<name lang="en">JSF</name>
+					<name lang="es">JSF</name>
+					<level>2</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Ant</name>
+					<name lang="fr">Ant</name>
+					<name lang="en">Ant</name>
+					<name lang="es">Ant</name>
+					<level>2</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Frontend</name>
+			<name lang="fr">Frontend</name>
+			<name lang="en">Frontend</name>
+			<name lang="es">Interfaz</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Angular</name>
+					<name lang="fr">Angular</name>
+					<name lang="en">Angular</name>
+					<name lang="es">Angular</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Jquery</name>
+					<name lang="fr">Jquery</name>
+					<name lang="en">Jquery</name>
+					<name lang="es">Jquery</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">css - scss -less</name>
+					<name lang="fr">css - scss -less</name>
+					<name lang="en">css - scss -less</name>
+					<name lang="es">css - scss -less</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Bootstrap</name>
+					<name lang="fr">Bootstrap</name>
+					<name lang="en">Bootstrap</name>
+					<name lang="es">Bootstrap</name>
+					<level>3</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Material Design</name>
+					<name lang="fr">Material Design</name>
+					<name lang="en">Material Design</name>
+					<name lang="es">Material Design</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">NodeJs</name>
+					<name lang="fr">NodeJs</name>
+					<name lang="en">NodeJs</name>
+					<name lang="es">NodeJs</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Npm</name>
+					<name lang="fr">Npm</name>
+					<name lang="en">Npm</name>
+					<name lang="es">Npm</name>
+					<level>3</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Big Data</name>
+			<name lang="fr">Big Data</name>
+			<name lang="en">Big Data</name>
+			<name lang="es">Big Data</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Apache Kafka</name>
+					<name lang="fr">Apache Kafka</name>
+					<name lang="en">Apache Kafka</name>
+					<name lang="es">Apache Kafka</name>
+					<level>3</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">AWS Kinesis</name>
+					<name lang="fr">AWS Kinesis</name>
+					<name lang="en">AWS Kinesis</name>
+					<name lang="es">AWS Kinesis</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">AWS Glue</name>
+					<name lang="fr">AWS Glue</name>
+					<name lang="en">AWS Glue</name>
+					<name lang="es">AWS Glue</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">Jupyter</name>
+					<name lang="fr">Jupyter</name>
+					<name lang="en">Jupyter</name>
+					<name lang="es">Jupyter</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">Hadoop</name>
+					<name lang="fr">Hadoop</name>
+					<name lang="en">Hadoop</name>
+					<name lang="es">Hadoop</name>
+					<level>1</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Devops</name>
+			<name lang="fr">Devops</name>
+			<name lang="en">Devops</name>
+			<name lang="es">Devops</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Agile</name>
+					<name lang="fr">Agile</name>
+					<name lang="en">Agile</name>
+					<name lang="es">Agile</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Terraform</name>
+					<name lang="fr">Terraform</name>
+					<name lang="en">Terraform</name>
+					<name lang="es">Terraform</name>
+					<level>3</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Jenkins</name>
+					<name lang="fr">Jenkins</name>
+					<name lang="en">Jenkins</name>
+					<name lang="es">Jenkins</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Jira</name>
+					<name lang="fr">Jira</name>
+					<name lang="en">Jira</name>
+					<name lang="es">Jira</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Docker</name>
+					<name lang="fr">Docker</name>
+					<name lang="en">Docker</name>
+					<name lang="es">Docker</name>
+					<level>2</level>
+				</skill>
+				<skill>
+					<name lang="nl">Kubernetes</name>
+					<name lang="fr">Kubernetes</name>
+					<name lang="en">Kubernetes</name>
+					<name lang="es">Kubernetes</name>
+					<level>2</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Source Control</name>
+			<name lang="fr">Source Control</name>
+			<name lang="en">Source Control</name>
+			<name lang="es">Source Control</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">git - bitbucket</name>
+					<name lang="fr">git - bitbucket</name>
+					<name lang="en">git - bitbucket</name>
+					<name lang="es">git - bitbucket</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">svn</name>
+					<name lang="fr">svn</name>
+					<name lang="en">svn</name>
+					<name lang="es">svn</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">cvs</name>
+					<name lang="fr">cvs</name>
+					<name lang="en">cvs</name>
+					<name lang="es">cvs</name>
+					<level>3</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Oracle</name>
+			<name lang="fr">Oracle</name>
+			<name lang="en">Oracle</name>
+			<name lang="es">Oracle</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">DBA</name>
+					<name lang="fr">DBA</name>
+					<name lang="en">DBA</name>
+					<name lang="es">DBA</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">SQL</name>
+					<name lang="fr">SQL</name>
+					<name lang="en">SQL</name>
+					<name lang="es">SQL</name>
+					<level>4</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Forms / Reports</name>
+					<name lang="fr">Forms / Reports</name>
+					<name lang="en">Forms / Reports</name>
+					<name lang="es">Forms / Reports</name>
+					<level>3</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">OS</name>
+			<name lang="fr">OS</name>
+			<name lang="en">OS</name>
+			<name lang="es">OS</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Linux (centos,ubuntu)</name>
+					<name lang="fr">Linux (centos,ubuntu)</name>
+					<name lang="en">Linux (centos,ubuntu)</name>
+					<name lang="es">Linux (centos,ubuntu)</name>
+					<level>3</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">zsh</name>
+					<name lang="fr">zsh</name>
+					<name lang="en">zsh</name>
+					<name lang="es">zsh</name>
+					<level>4</level>
+				</skill>
+				<skill>
+					<name lang="nl">Windows</name>
+					<name lang="fr">Windows</name>
+					<name lang="en">Windows</name>
+					<name lang="es">Windows</name>
+					<level>2</level>
+				</skill>
+			</skills>
+		</skill>
+
+
+		<skill>
+			<name lang="nl">Monitoring</name>
+			<name lang="fr">Surveillance</name>
+			<name lang="en">Monitoring</name>
+			<name lang="es">Monitorización</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">PRTG</name>
+					<name lang="fr">PRTG</name>
+					<name lang="en">PRTG</name>
+					<name lang="es">PRTG</name>
+					<level>3</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Grafana - Prometheus</name>
+					<name lang="fr">Grafana - Prometheus</name>
+					<name lang="en">Grafana - Prometheus</name>
+					<name lang="es">Grafana - Prometheus</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Splunk</name>
+					<name lang="fr">Splunk</name>
+					<name lang="en">Splunk</name>
+					<name lang="es">Splunk</name>
+					<level>2</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">ELK</name>
+					<name lang="fr">ELK</name>
+					<name lang="en">ELK</name>
+					<name lang="es">ELK</name>
+					<level>2</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">IDE</name>
+			<name lang="fr">IDE</name>
+			<name lang="en">IDE</name>
+			<name lang="es">IDE</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Intelij</name>
+					<name lang="fr">Intelij</name>
+					<name lang="en">Intelij</name>
+					<name lang="es">Intelij</name>
+					<level>4</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Visual Studio Code</name>
+					<name lang="fr">Visual Studio Code</name>
+					<name lang="en">Visual Studio Code</name>
+					<name lang="es">Visual Studio Code</name>
+					<level>3</level>
+				</skill>
+				<skill>
+					<name lang="nl">Eclipse</name>
+					<name lang="fr">Eclipse</name>
+					<name lang="en">Eclipse</name>
+					<name lang="es">Eclipse</name>
+					<level>2</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Vim</name>
+					<name lang="fr">Vim</name>
+					<name lang="en">Vim</name>
+					<name lang="es">Vim</name>
+					<level>3</level>
+				</skill>
+			</skills>
+		</skill>
+
+		<skill>
+			<name lang="nl">Soft Skills</name>
+			<name lang="fr">Compétences générales</name>
+			<name lang="en">Soft Skills</name>
+			<name lang="es">Habilidades blandas</name>
+
+			<skills>
+				<skill>
+					<name lang="nl">Team Speler</name>
+					<name lang="fr">Joueur d'équipe</name>
+					<name lang="en">Teamplayer</name>
+					<name lang="es">Jugador de equipo</name>
+					<level>0</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Coaching en Mentoring</name>
+					<name lang="fr">Coaching et Mentorat</name>
+					<name lang="en">Coaching and Mentoring</name>
+					<name lang="es">Orientación y Tutoría</name>
+					<level>0</level>
+				</skill>
+				<skill>
+					<name lang="nl">Presentatie Vaardigheden</name>
+					<name lang="fr">Capacités de présentation</name>
+					<name lang="en">Presentation Skills</name>
+					<name lang="es">Habilidades de presentación</name>
+					<level>0</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Flexibel</name>
+					<name lang="fr">Souple</name>
+					<name lang="en">Flexible</name>
+					<name lang="es">Flexible</name>
+					<level>0</level>
+				</skill>
+
+				<skill>
+					<name lang="nl">Bruggenbouwer</name>
+					<name lang="fr">Constructeur de ponts</name>
+					<name lang="en">Bridge Builder</name>
+					<name lang="es">Constructor de puentes</name>
+					<level>0</level>
+				</skill>
+			</skills>
+		</skill>
+
+	</skills>
+
+	<mainValues>
+		<value>
+			<name lang="nl">Technology lover</name>
+			<short lang="nl">TL</short>
+			<name lang="fr">Amateur de technologie</name>
+			<short lang="fr">AT</short>
+			<name lang="en">Technology lover</name>
+			<short lang="en">TL</short>
+			<name lang="es">Amante de la tecnología</name>
+			<short lang="es">AT</short>
+		</value>
+		<value>
+			<name lang="nl">Bruggenbouwer</name>
+			<short lang="nl">BB</short>
+			<name lang="fr">Constructeur de ponts</name>
+			<short lang="fr">CP</short>
+			<name lang="en">Bridge Builder</name>
+			<short lang="en">BB</short>
+			<name lang="es">Constructor de puentes</name>
+			<short lang="es">CP</short>
+		</value>
+		<value>
+			<name lang="nl">Clean coder</name>
+			<short lang="nl">CC</short>
+			<name lang="fr">Codeur propre</name>
+			<short lang="fr">CP</short>
+			<name lang="en">Clean coder</name>
+			<short lang="en">CC</short>
+			<name lang="es">Codificador limpio</name>
+			<short lang="es">CL</short>
+		</value>
+		<value>
+			<name lang="nl">Continue leerling</name>
+			<short lang="nl">CL</short>
+			<name lang="fr">Apprenant continu</name>
+			<short lang="fr">AC</short>
+			<name lang="en">Continous Learner</name>
+			<short lang="en">CL</short>
+			<name lang="es">Aprendiz Infinito</name>
+			<short lang="es">AC</short>
+		</value>
+
+	</mainValues>
+
+	<personal>
+		<firstname>Bart</firstname>
+		<lastname>Geluykens</lastname>
+		<email>bart.geluykens@gmail.com</email>
+		<mobile>+34 665 18 16 58</mobile>
+		<phone>+32 3 344 03 20</phone>
+		<birth>22/09/1978</birth>
+		<birthPlace lang="nl">Wilrijk (België)</birthPlace>
+		<birthPlace lang="fr">Wilrijk (Belgique)</birthPlace>
+		<birthPlace lang="en">Wilrijk (Belgium)</birthPlace>
+		<birthPlace lang="es">Wilrijk (Bélgica)</birthPlace>
+
+		<adress1 lang="nl">Boom (België)</adress1>
+		<adress1 lang="fr">Boom (Belgique)</adress1>
+		<adress1 lang="en">Boom (Belgium)</adress1>
+		<adress1 lang="es">Boom (Bélgica)</adress1>
+
+		<adress2 lang="nl">Alicante (Spanje)</adress2>
+		<adress2 lang="fr">Alicante (Espagne)</adress2>
+		<adress2 lang="en">Alicante (Spain)</adress2>
+		<adress2 lang="es">Alicante (España)</adress2>
+	</personal>
+
+	<hobbies>
+		<hobby>
+			<name lang="nl">Reizen</name>
+			<name lang="fr">Voyager</name>
+			<name lang="en">To travel</name>
+			<name lang="es">Viajar</name>
+		</hobby>
+
+		<hobby>
+			<name lang="nl">Duiken</name>
+			<name lang="fr">Plongée sous-marine</name>
+			<name lang="en">Scuba diving</name>
+			<name lang="es">Submarinismo</name>
+		</hobby>
+
+		<hobby>
+			<name lang="nl">Yoga</name>
+			<name lang="fr">Yoga</name>
+			<name lang="en">Yoga</name>
+			<name lang="es">Yoga</name>
+		</hobby>
+	</hobbies>
+</cv>
