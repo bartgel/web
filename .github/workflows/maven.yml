@@ -33,8 +33,10 @@ jobs:
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: cv-compiler/out/cv_en.pdf
+        file: cv-compiler/out/cv_*.pdf
         tag: ${{ github.ref }}
+        overwrite: true
+        file_glob: true
 
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
