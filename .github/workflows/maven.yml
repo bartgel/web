@@ -29,13 +29,11 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: cd cv-compiler;mvn clean install;mvn exec:java -Dexec.mainClass="be.bart.cv.App"
-    - name: Build with Maven
-      run: pwd; find . -name "*.pdf" 
     - name: Upload CV to release
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.MY_TOKEN }}
-        file: cv-compiler/out/cv_en.pdf
+        file: cv-compiler/out/cv_*.pdf
         tag: ${{ github.ref }}
         overwrite: true
         file_glob: true
