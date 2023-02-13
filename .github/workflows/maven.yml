@@ -28,7 +28,7 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: cd cv-compiler;mvn clean install
+      run: cd cv-compiler;mvn clean install;mvn exec:java -Dexec.mainClass="be.bart.cv.App"
     - name: Upload CV to release
       uses: svenstaro/upload-release-action@v2
       with:
