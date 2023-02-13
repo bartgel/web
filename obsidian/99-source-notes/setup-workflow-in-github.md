@@ -1,0 +1,1 @@
+https://docs.github.com/es/actions/security-guides/encrypted-secrets
