@@ -2,16 +2,14 @@
 import fs from 'fs'
 import parseMD from 'parse-md'
 
-import OBSIDIAN_CV_TRANSLATION_MAP from './constants.js'
+import OBSIDIAN_CV_TRANSLATION_MAP from '../constants.js'
 
 export default class TranslationReader {
     translations = {}
     skills = []
 
     readTranslationSkillLevel = (tagname,metadata) => {
-        var level = tagname.replace('skill-level-','').replace('-star','')
-        level = level -1
-        this.skills[level] = metadata
+        this.skills[tagname] = metadata
     }
 
     readTranslationDefault = (tagname,metadata) => {

@@ -2,7 +2,7 @@
 import fs from 'fs'
 import parseMD from 'parse-md'
 
-import {OBSIDIAN_CV_PERSONAL_MAP} from './constants.js'
+import {OBSIDIAN_CV_PERSONAL_MAP} from '../constants.js'
 
 export default class PersonalReader {
     personal = {}

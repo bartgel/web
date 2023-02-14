@@ -1596,19 +1596,18 @@
 
 	</mainValues>
 
-	<personal><addres2 lang="nl">Alicante (Spanje)</addres2>
-<addres2 lang="fr">Alicante (Espagne)</addres2>
-<addres2 lang="en">Alicante (Spain)</addres2>
-<addres2 lang="es">Alicante (España)</addres2>
+	<personal><address2 lang="nl">Alicante (Spanje)</address2>
+<address2 lang="fr">Alicante (Espagne)</address2>
+<address2 lang="en">Alicante (Spain)</address2>
+<address2 lang="es">Alicante (España)</address2>
 <birth>22/09/1978</birth>
 <birthplace lang="nl">Wilrijk (België)</birthplace>
 <birthplace lang="fr">Wilrijk (Belgique)</birthplace>
 <birthplace lang="en">Wilrijk (Belgium)</birthplace>
 <birthplace lang="es">Wilrijk (Bélgica)</birthplace>
-<email>bart.geluykens@gmail.com</email>
 <firstname>Bart</firstname>
 <lastname>Geluykens</lastname>
-<mobile>+ 34 665 18 16 58</mobile>
+<mobile>+ 32 665 18 16 58</mobile>
 	</personal>
 
 	<hobbies>
