@@ -1,0 +1,16 @@
+{
+  "name": "cv-generate-xml",
+  "version": "1.0.0",
+  "description": "Generate xml from notes",
+  "main": "index.js",
+"type": "module",
+  "scripts": {
+	"run": "node index.js",  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bart Geluykens",
+  "license": "ISC",
+  "dependencies": {
+    "parse-md": "^3.0.3"
+  }
+}
