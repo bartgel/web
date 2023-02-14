@@ -19,7 +19,6 @@ export default class PersonalReader {
 
     readAllPersonal () {
         this.personal = {}
-        console.log(OBSIDIAN_CV_PERSONAL_MAP)
         fs.readdirSync(OBSIDIAN_CV_PERSONAL_MAP).forEach(this.readPersonal);
         return this.personal
     }

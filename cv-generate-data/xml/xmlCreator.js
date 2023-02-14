@@ -43,5 +43,13 @@ export default class XmlWriter {
         return xmlData
     }
 
+    writeXmlTags (jobs) {
+        let xmlData = ''
+        for (var property in jobs) {
+            xmlData += jobs[property] + xmlData
+        }
+        return xmlData
+    }
+
 
 }

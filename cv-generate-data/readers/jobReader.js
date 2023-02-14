@@ -20,7 +20,6 @@ export default class JobReader {
 
     readAllJobs () {
         this.jobs = {}
-        console.log(OBSIDIAN_CV_JOB_MAP)
         fs.readdirSync(OBSIDIAN_CV_JOB_MAP).forEach(this.readJob);
         return this.jobs
     }
