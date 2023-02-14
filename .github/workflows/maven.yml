@@ -21,7 +21,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x, 16.x, 18.x]
+        node-version: [18.x]
 
 
     steps:
@@ -37,6 +37,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'       
+        cache-dependency-path: cv-generate-data/package-lock.json
 
     - name: Build with npm 
       run: cd cv-generate-data;npm ci;node index.js
