@@ -1,16 +1,10 @@
-import fs from 'fs'
-import parseMD from 'parse-md'
+import TranslationReader from './translationReader.js'
+import PersonalReader from './personalReader.js';
 
-var translations = {}
-fs.readdirSync('../obsidian/10-cv/translations/').forEach(file => {
-    //handling error
-    const fileContents = fs.readFileSync('../obsidian/10-cv/translations/' + file, 'utf8')
-    const { metadata, content } = parseMD(fileContents)
+const translationReader = new TranslationReader();
+const personalReader = new PersonalReader();
+//console.log (translationReader.readAllTranslations());
+console.log (personalReader.readAllPersonal());
 
-    translations[file.substr(0, file.length - 3)] = metadata
-});
-
-
-console.log (translations);
-
+console.log ('************************')
 

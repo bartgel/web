@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags: 
+- Translation
 nl: Jobomschrijving
 fr: Description de l'emploi
 en: Job Description
