@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: LEGENDA
 fr: LEGENDA
 en: LEGENDA 

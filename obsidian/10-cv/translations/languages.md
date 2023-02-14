@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: TALEN
 fr: LANGUES
 en: LANGUAGES

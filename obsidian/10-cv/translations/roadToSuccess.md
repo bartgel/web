@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: WEG NAAR HET SUCCESS
 fr: CHEMIN VERS LE SUCCÈS
 en: ROAD TO SUCCESS

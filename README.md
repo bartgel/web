@@ -15,7 +15,10 @@ At the end a recruter should have a clear and strong idea about who I am and wha
 ### TODO
 
 [ ] Use obsidian to manage and create my resume information and write a backport to my old CV
+
 [ ] Create an iconic font
+
 [ ] Create a website to show my CV
+
 [ ] Generate my data on linkedIn
 

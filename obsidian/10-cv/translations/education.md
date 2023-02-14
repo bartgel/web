@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: ONDERWIJS EN VORMING
 fr: ÉDUCATION ET FORMATION
 en: EDUCATION AND FORMATION

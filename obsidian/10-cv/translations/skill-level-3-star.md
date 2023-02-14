@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: Geavanceerd
 fr: Avancé
 en: Advanced

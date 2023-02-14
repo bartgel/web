@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: Curriculum Vitae
 fr: Curriculum Vitae
 en: Resume

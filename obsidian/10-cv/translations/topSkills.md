@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: BASIS-VAARDIGHEDEN
 fr: COMPÉTENCES DE BASE
 en: BASIC SKILLS

@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: VAARDIGHEIDSMATRIX
 fr: MATRICE DE COMPÉTENCES
 en: SKILLS MATRIX

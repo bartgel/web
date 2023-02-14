@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: Jobtitel
 fr: Profession
 en: Job title

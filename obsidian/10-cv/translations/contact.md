@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: CONTACTEER
 fr: CONTACT
 en: CONTACT

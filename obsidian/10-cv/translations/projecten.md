@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: PROJECTEN
 fr: PROJETS
 en: PROJECTS

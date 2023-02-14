@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: VRIJETIJDSBESTEDING
 fr: LOISIRS
 en: HOBBIES

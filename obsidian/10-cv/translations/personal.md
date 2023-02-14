@@ -1,6 +1,6 @@
 ---
-Tag: 
-- #Translation
+Tags:
+- Translation
 nl: PERSOONLIJK
 fr: PERSONNEL
 en: PERSONAL
