@@ -19,6 +19,11 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x]
+
+
     steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 11
@@ -27,6 +32,14 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         cache: maven
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'       
+
+    - name: Build with npm 
+      run: cd cv-generate-data;npm ci;node index.js
     - name: Build with Maven
       run: cd cv-compiler;mvn clean install;mvn exec:java -Dexec.mainClass="be.bart.cv.App"
     - name: Upload CV to release
