@@ -22,4 +22,4 @@
 			<name lang="es">Yoga</name>
 		</hobby>
 	</hobbies>
-</cv>
+

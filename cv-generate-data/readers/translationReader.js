@@ -33,6 +33,7 @@ export default class TranslationReader {
 
     readAllTranslations () {
         this.translations = {}
+        // TODO possible simplification
         this.skills = []
         fs.readdirSync(OBSIDIAN_CV_TRANSLATION_MAP).forEach(this.readTranslation);
         this.translations.skills = this.skills;
