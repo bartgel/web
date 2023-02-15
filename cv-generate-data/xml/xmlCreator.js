@@ -6,34 +6,52 @@ export default class XmlWriter {
     }
     
     
-    readProperty = (propertyToRead) => {
+    processProperty = (propertyname, propertyValue) => {
         let xmlData = ''
-    
-        for (var property in propertyToRead) {
-            let propertyValue = propertyToRead[property]
-            let skillException = property.startsWith('skill-level-');
-    
-            let propertyname = skillException ? 'level' : property;
-        
-            if (skillException) {
-                xmlData += '<skill>'
+        if (propertyValue.nl != undefined) {
+            xmlData += this.writeTag (propertyname,  propertyValue.nl, 'nl');
+            xmlData += this.writeTag (propertyname,  propertyValue.fr, 'fr');
+            xmlData += this.writeTag (propertyname,  propertyValue.en, 'en');
+            xmlData += this.writeTag (propertyname,  propertyValue.es, 'es');
+
+            if (propertyValue.niveau != undefined) {
+                xmlData += this.writeTag ('niveau',  propertyValue.niveau, null);
             }
-            if (propertyValue.nl != undefined) {
-                xmlData += this.writeTag (propertyname,  propertyValue.nl, 'nl');
-                xmlData += this.writeTag (propertyname,  propertyValue.fr, 'fr');
-                xmlData += this.writeTag (propertyname,  propertyValue.en, 'en');
-                xmlData += this.writeTag (propertyname,  propertyValue.es, 'es');
-            } else if (propertyValue.all != undefined) {
-                xmlData += this.writeTag (propertyname, propertyValue.all, null)
+        } else if (propertyValue.all != undefined) {
+            xmlData += this.writeTag (propertyname, propertyValue.all, null)
+        } else {
+            // TODO Might cause issues
+            if (propertyname == 'skills' && propertyValue['skill-level-1-star'] != undefined) {
+                xmlData += this.writeTag(propertyname, this.readPropertyWrapped(propertyValue,'skill','level'));
             } else {
-                xmlData += this.writeTag(propertyname, this.readProperty(propertyValue));
-            }
-            if (skillException) {
-                xmlData += '</skill>'
+                xmlData += this.writeTag(propertyname, this.readPropertyWrapped(propertyValue,null,null));
             }
         }
         return xmlData;
     }
+
+
+    readPropertyWrapped = (propertyToRead, baseTag, detailTag) => {
+        let xmlData = ''
+    
+        for (var property in propertyToRead) {
+            let propertyValue = propertyToRead[property]
+            let propertyname = (detailTag == null ? property : detailTag);
+
+            let myData = this.processProperty(propertyname, propertyValue)
+            if (baseTag != null) {
+                myData = this.writeTag(baseTag, myData, null)
+            }
+            xmlData += myData
+
+        }
+        return xmlData;
+    }
+
+    readProperty = (propertyToRead) => {
+        return this.readPropertyWrapped(propertyToRead,null,null)
+    }
+
 
     writeJob (jobs) {
         let xmlData = ''
@@ -46,10 +64,8 @@ export default class XmlWriter {
     writeXmlTags (jobs) {
         let xmlData = ''
         for (var property in jobs) {
-            xmlData += jobs[property] + xmlData
+            xmlData += jobs[property] 
         }
         return xmlData
     }
-
-
 }

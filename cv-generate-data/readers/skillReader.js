@@ -14,7 +14,6 @@ export default class SkillReader {
 
         const tagname = file.substr(0, file.length - 3)
         this.skill[tagname] = content;
-
     }
 
 
