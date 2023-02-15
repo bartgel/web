@@ -1,7 +1,4 @@
-	</personal>
-
-	<hobbies>
-		<hobby>
+	<hobby>
 			<name lang="nl">Reizen</name>
 			<name lang="fr">Voyager</name>
 			<name lang="en">To travel</name>
@@ -21,5 +18,3 @@
 			<name lang="en">Yoga</name>
 			<name lang="es">Yoga</name>
 		</hobby>
-	</hobbies>
-

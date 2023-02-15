@@ -63,5 +63,3 @@
 		</value>
 
 	</mainValues>
-
-	<personal>
