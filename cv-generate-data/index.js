@@ -16,11 +16,11 @@ const educationReader = new EducationReader()
 
 
 var translation = translationReader.readAllTranslations()
-var personal = personalReader.readAllPersonal();
-var jobs = jobReader.readAllJobs();
-var skills = skillReader.readAllSkills();
-var languages = languageReader.readAllLanguages();
-var educations = educationReader.readAllEducations();
+var personal = personalReader.readAll();
+var jobs = jobReader.readAll();
+var skills = skillReader.readAll();
+var languages = languageReader.readAll();
+var educations = educationReader.readAll();
 
 var xmlWriter = new XmlWriter();
 
