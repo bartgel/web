@@ -17,6 +17,27 @@ export default class XmlWriter {
             if (propertyValue.niveau != undefined) {
                 xmlData += this.writeTag ('niveau',  propertyValue.niveau, null);
             }
+
+            if (propertyValue.typeEn != undefined) {
+                xmlData += this.writeTag ('type',  propertyValue.typeEn, "en");
+            }
+            if (propertyValue.typeFr != undefined) {
+                xmlData += this.writeTag ('type',  propertyValue.typeFr, "fr");
+            }
+            if (propertyValue.typeEs != undefined) {
+                xmlData += this.writeTag ('type',  propertyValue.typeEs, "es");
+            }
+            if (propertyValue.typeNl != undefined) {
+                xmlData += this.writeTag ('type',  propertyValue.typeNl, "nl");
+            }
+
+            if (propertyValue.start != undefined && propertyValue.end != undefined) {
+                xmlData += this.writeTag ('when',  'Van ' + propertyValue.start + ' tot ' + propertyValue.end , "nl");
+                xmlData += this.writeTag ('when',  'De ' + propertyValue.start + ' à ' + propertyValue.end , "fr");
+                xmlData += this.writeTag ('when',  'From ' + propertyValue.start + ' until ' + propertyValue.end , "en");
+                xmlData += this.writeTag ('when',  'De ' + propertyValue.start + ' hasta ' + propertyValue.end , "es");
+            }
+
         } else if (propertyValue.all != undefined) {
             xmlData += this.writeTag (propertyname, propertyValue.all, null)
         } else {

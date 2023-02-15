@@ -22,3 +22,8 @@ At the end a recruter should have a clear and strong idea about who I am and wha
 
 [ ] Generate my data on linkedIn
 
+
+# Remark
+
+This repository is in a POC phase. There is still quite a lot of code-duplication and lack of tests. This will be fixed later on.
+
