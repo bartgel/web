@@ -33,11 +33,19 @@ export default class XmlWriter {
                 }
             }
 
+            if (propertyValue.level != undefined) {
+                xmlData += this.writeTag('level', propertyValue.level)
+            }
+
             if (propertyValue.start != undefined && propertyValue.end != undefined) {
                 xmlData += this.writeTag ('when',  'Van ' + propertyValue.start + ' tot ' + propertyValue.end , "nl");
                 xmlData += this.writeTag ('when',  'De ' + propertyValue.start + ' à ' + propertyValue.end , "fr");
                 xmlData += this.writeTag ('when',  'From ' + propertyValue.start + ' until ' + propertyValue.end , "en");
                 xmlData += this.writeTag ('when',  'De ' + propertyValue.start + ' hasta ' + propertyValue.end , "es");
+            }
+
+            if (propertyValue.skills != undefined && Array.isArray(propertyValue.skills )) {
+                xmlData += this.writeTag("skills", this.readPropertyList(propertyValue.skills,'skill'));
             }
 
         } else if (propertyValue.all != undefined) {
@@ -51,6 +59,23 @@ export default class XmlWriter {
             }
         }
         return xmlData;
+    }
+
+
+    readPropertyList = (propertyToRead, baseTag) => {
+        let xmlData = ''
+    
+        for (var property in propertyToRead) {
+            let propertyValue = propertyToRead[property]
+
+            let myData = this.processProperty('name', propertyValue)
+            if (baseTag != null) {
+                myData = this.writeTag(baseTag, myData, null)
+            }
+            xmlData += myData
+
+        }
+        return xmlData;        
     }
 
 

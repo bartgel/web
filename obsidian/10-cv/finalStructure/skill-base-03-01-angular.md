@@ -1,17 +1,9 @@
-		<skill>
-			<name lang="nl">Frontend</name>
-			<name lang="fr">Frontend</name>
-			<name lang="en">Frontend</name>
-			<name lang="es">Interfaz</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Angular</name>
-					<name lang="fr">Angular</name>
-					<name lang="en">Angular</name>
-					<name lang="es">Angular</name>
-					<level>3</level>
-				</skill>
+---
+Tag: 
+- Skill
+all: Angular 
+level: 3
+---
 				<skill>
 					<name lang="nl">Jquery</name>
 					<name lang="fr">Jquery</name>

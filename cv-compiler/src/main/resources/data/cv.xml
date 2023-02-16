@@ -919,511 +919,420 @@
 
 </job>
 </jobs>
-<skills>		<skill>
-			<name lang="nl">Programeertaal</name>
-			<name lang="fr">Langauge De Programmation</name>
-			<name lang="en">Programming language</name>
-			<name lang="es">Lenguaje de programación</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Java</name>
-					<name lang="fr">Java</name>
-					<name lang="en">Java</name>
-					<name lang="es">Java</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">Typescript</name>
-					<name lang="fr">Typescript</name>
-					<name lang="en">Typescript</name>
-					<name lang="es">Typescript</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Oracle</name>
-					<name lang="fr">Oracle</name>
-					<name lang="en">Oracle</name>
-					<name lang="es">Oracle</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">C - Cpp</name>
-					<name lang="fr">C - Cpp</name>
-					<name lang="en">C - Cpp</name>
-					<name lang="es">C - Cpp</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">Python</name>
-					<name lang="fr">Python</name>
-					<name lang="en">Python</name>
-					<name lang="es">Python</name>
-					<level>2</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">Java</name>
-			<name lang="fr">Java</name>
-			<name lang="en">Java</name>
-			<name lang="es">Java</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">spring (boot)</name>
-					<name lang="fr">spring (boot)</name>
-					<name lang="en">spring (boot)</name>
-					<name lang="es">spring (boot)</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">hibernate</name>
-					<name lang="fr">hibernate</name>
-					<name lang="en">hibernate</name>
-					<name lang="es">hibernate</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">Junit - Mockito</name>
-					<name lang="fr">Junit - Mockito</name>
-					<name lang="en">Junit - Mockito</name>
-					<name lang="es">Junit - Mockito</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">Lombok</name>
-					<name lang="fr">Lombok</name>
-					<name lang="en">Lombok</name>
-					<name lang="es">Lombok</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">Maven</name>
-					<name lang="fr">Maven</name>
-					<name lang="en">Maven</name>
-					<name lang="es">Maven</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">spring-config</name>
-					<name lang="fr">spring-config</name>
-					<name lang="en">spring-config</name>
-					<name lang="es">spring-config</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Wicket</name>
-					<name lang="fr">Wicket</name>
-					<name lang="en">Wicket</name>
-					<name lang="es">Wicket</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Webflux</name>
-					<name lang="fr">Webflux</name>
-					<name lang="en">Webflux</name>
-					<name lang="es">Webflux</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">Micronaut</name>
-					<name lang="fr">Micronaut</name>
-					<name lang="en">Micronaut</name>
-					<name lang="es">Micronaut</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">Gradle</name>
-					<name lang="fr">Gradle</name>
-					<name lang="en">Gradle</name>
-					<name lang="es">Gradle</name>
-					<level>1</level>
-				</skill>
-				<skill>
-					<name lang="nl">JSF</name>
-					<name lang="fr">JSF</name>
-					<name lang="en">JSF</name>
-					<name lang="es">JSF</name>
-					<level>2</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Ant</name>
-					<name lang="fr">Ant</name>
-					<name lang="en">Ant</name>
-					<name lang="es">Ant</name>
-					<level>2</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">Frontend</name>
-			<name lang="fr">Frontend</name>
-			<name lang="en">Frontend</name>
-			<name lang="es">Interfaz</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Angular</name>
-					<name lang="fr">Angular</name>
-					<name lang="en">Angular</name>
-					<name lang="es">Angular</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Jquery</name>
-					<name lang="fr">Jquery</name>
-					<name lang="en">Jquery</name>
-					<name lang="es">Jquery</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">css - scss -less</name>
-					<name lang="fr">css - scss -less</name>
-					<name lang="en">css - scss -less</name>
-					<name lang="es">css - scss -less</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Bootstrap</name>
-					<name lang="fr">Bootstrap</name>
-					<name lang="en">Bootstrap</name>
-					<name lang="es">Bootstrap</name>
-					<level>3</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Material Design</name>
-					<name lang="fr">Material Design</name>
-					<name lang="en">Material Design</name>
-					<name lang="es">Material Design</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">NodeJs</name>
-					<name lang="fr">NodeJs</name>
-					<name lang="en">NodeJs</name>
-					<name lang="es">NodeJs</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Npm</name>
-					<name lang="fr">Npm</name>
-					<name lang="en">Npm</name>
-					<name lang="es">Npm</name>
-					<level>3</level>
-				</skill>
-			</skills>
-		</skill>
-	
-		<skill>
-			<name lang="nl">Big Data</name>
-			<name lang="fr">Big Data</name>
-			<name lang="en">Big Data</name>
-			<name lang="es">Big Data</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Apache Kafka</name>
-					<name lang="fr">Apache Kafka</name>
-					<name lang="en">Apache Kafka</name>
-					<name lang="es">Apache Kafka</name>
-					<level>3</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">AWS Kinesis</name>
-					<name lang="fr">AWS Kinesis</name>
-					<name lang="en">AWS Kinesis</name>
-					<name lang="es">AWS Kinesis</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">AWS Glue</name>
-					<name lang="fr">AWS Glue</name>
-					<name lang="en">AWS Glue</name>
-					<name lang="es">AWS Glue</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">Jupyter</name>
-					<name lang="fr">Jupyter</name>
-					<name lang="en">Jupyter</name>
-					<name lang="es">Jupyter</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">Hadoop</name>
-					<name lang="fr">Hadoop</name>
-					<name lang="en">Hadoop</name>
-					<name lang="es">Hadoop</name>
-					<level>1</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">Devops</name>
-			<name lang="fr">Devops</name>
-			<name lang="en">Devops</name>
-			<name lang="es">Devops</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Agile</name>
-					<name lang="fr">Agile</name>
-					<name lang="en">Agile</name>
-					<name lang="es">Agile</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Terraform</name>
-					<name lang="fr">Terraform</name>
-					<name lang="en">Terraform</name>
-					<name lang="es">Terraform</name>
-					<level>3</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Jenkins</name>
-					<name lang="fr">Jenkins</name>
-					<name lang="en">Jenkins</name>
-					<name lang="es">Jenkins</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Jira</name>
-					<name lang="fr">Jira</name>
-					<name lang="en">Jira</name>
-					<name lang="es">Jira</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Docker</name>
-					<name lang="fr">Docker</name>
-					<name lang="en">Docker</name>
-					<name lang="es">Docker</name>
-					<level>2</level>
-				</skill>
-				<skill>
-					<name lang="nl">Kubernetes</name>
-					<name lang="fr">Kubernetes</name>
-					<name lang="en">Kubernetes</name>
-					<name lang="es">Kubernetes</name>
-					<level>2</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">Source Control</name>
-			<name lang="fr">Source Control</name>
-			<name lang="en">Source Control</name>
-			<name lang="es">Source Control</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">git - bitbucket</name>
-					<name lang="fr">git - bitbucket</name>
-					<name lang="en">git - bitbucket</name>
-					<name lang="es">git - bitbucket</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">svn</name>
-					<name lang="fr">svn</name>
-					<name lang="en">svn</name>
-					<name lang="es">svn</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">cvs</name>
-					<name lang="fr">cvs</name>
-					<name lang="en">cvs</name>
-					<name lang="es">cvs</name>
-					<level>3</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">Oracle</name>
-			<name lang="fr">Oracle</name>
-			<name lang="en">Oracle</name>
-			<name lang="es">Oracle</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">DBA</name>
-					<name lang="fr">DBA</name>
-					<name lang="en">DBA</name>
-					<name lang="es">DBA</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">SQL</name>
-					<name lang="fr">SQL</name>
-					<name lang="en">SQL</name>
-					<name lang="es">SQL</name>
-					<level>4</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Forms / Reports</name>
-					<name lang="fr">Forms / Reports</name>
-					<name lang="en">Forms / Reports</name>
-					<name lang="es">Forms / Reports</name>
-					<level>3</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">OS</name>
-			<name lang="fr">OS</name>
-			<name lang="en">OS</name>
-			<name lang="es">OS</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Linux (centos,ubuntu)</name>
-					<name lang="fr">Linux (centos,ubuntu)</name>
-					<name lang="en">Linux (centos,ubuntu)</name>
-					<name lang="es">Linux (centos,ubuntu)</name>
-					<level>3</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">zsh</name>
-					<name lang="fr">zsh</name>
-					<name lang="en">zsh</name>
-					<name lang="es">zsh</name>
-					<level>4</level>
-				</skill>
-				<skill>
-					<name lang="nl">Windows</name>
-					<name lang="fr">Windows</name>
-					<name lang="en">Windows</name>
-					<name lang="es">Windows</name>
-					<level>2</level>
-				</skill>
-			</skills>
-		</skill>
-	<skill>
-			<name lang="nl">Monitoring</name>
-			<name lang="fr">Surveillance</name>
-			<name lang="en">Monitoring</name>
-			<name lang="es">Monitorización</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">PRTG</name>
-					<name lang="fr">PRTG</name>
-					<name lang="en">PRTG</name>
-					<name lang="es">PRTG</name>
-					<level>3</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Grafana - Prometheus</name>
-					<name lang="fr">Grafana - Prometheus</name>
-					<name lang="en">Grafana - Prometheus</name>
-					<name lang="es">Grafana - Prometheus</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Splunk</name>
-					<name lang="fr">Splunk</name>
-					<name lang="en">Splunk</name>
-					<name lang="es">Splunk</name>
-					<level>2</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">ELK</name>
-					<name lang="fr">ELK</name>
-					<name lang="en">ELK</name>
-					<name lang="es">ELK</name>
-					<level>2</level>
-				</skill>
-			</skills>
-		</skill>
-		<skill>
-			<name lang="nl">IDE</name>
-			<name lang="fr">IDE</name>
-			<name lang="en">IDE</name>
-			<name lang="es">IDE</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Intelij</name>
-					<name lang="fr">Intelij</name>
-					<name lang="en">Intelij</name>
-					<name lang="es">Intelij</name>
-					<level>4</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Visual Studio Code</name>
-					<name lang="fr">Visual Studio Code</name>
-					<name lang="en">Visual Studio Code</name>
-					<name lang="es">Visual Studio Code</name>
-					<level>3</level>
-				</skill>
-				<skill>
-					<name lang="nl">Eclipse</name>
-					<name lang="fr">Eclipse</name>
-					<name lang="en">Eclipse</name>
-					<name lang="es">Eclipse</name>
-					<level>2</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Vim</name>
-					<name lang="fr">Vim</name>
-					<name lang="en">Vim</name>
-					<name lang="es">Vim</name>
-					<level>3</level>
-				</skill>
-			</skills>
-		</skill>		<skill>
-			<name lang="nl">Soft Skills</name>
-			<name lang="fr">Compétences générales</name>
-			<name lang="en">Soft Skills</name>
-			<name lang="es">Habilidades blandas</name>
-
-			<skills>
-				<skill>
-					<name lang="nl">Team Speler</name>
-					<name lang="fr">Joueur d'équipe</name>
-					<name lang="en">Teamplayer</name>
-					<name lang="es">Jugador de equipo</name>
-					<level>0</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Coaching en Mentoring</name>
-					<name lang="fr">Coaching et Mentorat</name>
-					<name lang="en">Coaching and Mentoring</name>
-					<name lang="es">Orientación y Tutoría</name>
-					<level>0</level>
-				</skill>
-				<skill>
-					<name lang="nl">Presentatie Vaardigheden</name>
-					<name lang="fr">Capacités de présentation</name>
-					<name lang="en">Presentation Skills</name>
-					<name lang="es">Habilidades de presentación</name>
-					<level>0</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Flexibel</name>
-					<name lang="fr">Souple</name>
-					<name lang="en">Flexible</name>
-					<name lang="es">Flexible</name>
-					<level>0</level>
-				</skill>
-
-				<skill>
-					<name lang="nl">Bruggenbouwer</name>
-					<name lang="fr">Constructeur de ponts</name>
-					<name lang="en">Bridge Builder</name>
-					<name lang="es">Constructor de puentes</name>
-					<level>0</level>
-				</skill>
-			</skills>
-		</skill>
+<skills><skill><name lang="nl">Programeertaal</name>
+<name lang="fr">Langauge De Programmation</name>
+<name lang="en">Programming languag</name>
+<name lang="es">Lenguaje de programación</name>
+<skills><skill><name lang="nl">Java</name>
+<name lang="fr">Java</name>
+<name lang="en">Java</name>
+<name lang="es">Java</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Typescript</name>
+<name lang="fr">Typescript</name>
+<name lang="en">Typescript</name>
+<name lang="es">Typescript</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Oracle</name>
+<name lang="fr">Oracle</name>
+<name lang="en">Oracle</name>
+<name lang="es">Oracle</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Python</name>
+<name lang="fr">Python</name>
+<name lang="en">Python</name>
+<name lang="es">Python</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">c - cpp</name>
+<name lang="fr">c - cpp</name>
+<name lang="en">c - cpp</name>
+<name lang="es">c - cpp</name>
+<level>2</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">java</name>
+<name lang="fr">java</name>
+<name lang="en">java</name>
+<name lang="es">java</name>
+<skills><skill><name lang="nl">spring-boot</name>
+<name lang="fr">spring-boot</name>
+<name lang="en">spring-boot</name>
+<name lang="es">spring-boot</name>
+<level>5</level>
+</skill>
+<skill><name lang="nl">hibernate</name>
+<name lang="fr">hibernate</name>
+<name lang="en">hibernate</name>
+<name lang="es">hibernate</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Junit - Mockito</name>
+<name lang="fr">Junit - Mockito</name>
+<name lang="en">Junit - Mockito</name>
+<name lang="es">Junit - Mockito</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Lombok</name>
+<name lang="fr">Lombok</name>
+<name lang="en">Lombok</name>
+<name lang="es">Lombok</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">maven</name>
+<name lang="fr">maven</name>
+<name lang="en">maven</name>
+<name lang="es">maven</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Spring config</name>
+<name lang="fr">Spring config</name>
+<name lang="en">Spring config</name>
+<name lang="es">Spring config</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Wicket</name>
+<name lang="fr">Wicket</name>
+<name lang="en">Wicket</name>
+<name lang="es">Wicket</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Webflux</name>
+<name lang="fr">Webflux</name>
+<name lang="en">Webflux</name>
+<name lang="es">Webflux</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Micronaut</name>
+<name lang="fr">Micronaut</name>
+<name lang="en">Micronaut</name>
+<name lang="es">Micronaut</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Gradle</name>
+<name lang="fr">Gradle</name>
+<name lang="en">Gradle</name>
+<name lang="es">Gradle</name>
+<level>1</level>
+</skill>
+<skill><name lang="nl">JSF</name>
+<name lang="fr">JSF</name>
+<name lang="en">JSF</name>
+<name lang="es">JSF</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">ant</name>
+<name lang="fr">ant</name>
+<name lang="en">ant</name>
+<name lang="es">ant</name>
+<level>2</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Frontend</name>
+<name lang="fr">Frontend</name>
+<name lang="en">Frontend</name>
+<name lang="es">Interfaz</name>
+<skills><skill><name lang="nl">Angular</name>
+<name lang="fr">Angular</name>
+<name lang="en">Angular</name>
+<name lang="es">Angular</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">JQuery</name>
+<name lang="fr">JQuery</name>
+<name lang="en">JQuery</name>
+<name lang="es">JQuery</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">css - scss - less</name>
+<name lang="fr">css - scss - less</name>
+<name lang="en">css - scss - less</name>
+<name lang="es">css - scss - less</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">bootstrap</name>
+<name lang="fr">bootstrap</name>
+<name lang="en">bootstrap</name>
+<name lang="es">bootstrap</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Material Design</name>
+<name lang="fr">Material Design</name>
+<name lang="en">Material Design</name>
+<name lang="es">Material Design</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">NodeJs</name>
+<name lang="fr">NodeJs</name>
+<name lang="en">NodeJs</name>
+<name lang="es">NodeJs</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">npm</name>
+<name lang="fr">npm</name>
+<name lang="en">npm</name>
+<name lang="es">npm</name>
+<level>3</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Data Processing</name>
+<name lang="fr">Data Processing</name>
+<name lang="en">Data Processing</name>
+<name lang="es">Data Processing</name>
+<skills><skill><name lang="nl">Apache Kafka</name>
+<name lang="fr">Apache Kafka</name>
+<name lang="en">Apache Kafka</name>
+<name lang="es">Apache Kafka</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">AWS Kinesis</name>
+<name lang="fr">AWS Kinesis</name>
+<name lang="en">AWS Kinesis</name>
+<name lang="es">AWS Kinesis</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">AWS Glue</name>
+<name lang="fr">AWS Glue</name>
+<name lang="en">AWS Glue</name>
+<name lang="es">AWS Glue</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Jupyter</name>
+<name lang="fr">Jupyter</name>
+<name lang="en">Jupyter</name>
+<name lang="es">Jupyter</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Apache Hadoop</name>
+<name lang="fr">Apache Hadoop</name>
+<name lang="en">Apache Hadoop</name>
+<name lang="es">Apache Hadoop</name>
+<level>1</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Devops</name>
+<name lang="fr">Devops</name>
+<name lang="en">Devops</name>
+<name lang="es">Devops</name>
+<skills><skill><name lang="nl">Agile (safe)</name>
+<name lang="fr">Agile (safe)</name>
+<name lang="en">Agile (safe)</name>
+<name lang="es">Agile (safe)</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Terraform</name>
+<name lang="fr">Terraform</name>
+<name lang="en">Terraform</name>
+<name lang="es">Terraform</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Jenkins</name>
+<name lang="fr">Jenkins</name>
+<name lang="en">Jenkins</name>
+<name lang="es">Jenkins</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Jira</name>
+<name lang="fr">Jira</name>
+<name lang="en">Jira</name>
+<name lang="es">Jira</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Docker</name>
+<name lang="fr">Docker</name>
+<name lang="en">Docker</name>
+<name lang="es">Docker</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">kubernetes</name>
+<name lang="fr">kubernetes</name>
+<name lang="en">kubernetes</name>
+<name lang="es">kubernetes</name>
+<level>2</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Source Control</name>
+<name lang="fr">Source Control</name>
+<name lang="en">Source Control</name>
+<name lang="es">Source Control</name>
+<skills><skill><name lang="nl">git</name>
+<name lang="fr">git</name>
+<name lang="en">git</name>
+<name lang="es">git</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">svn</name>
+<name lang="fr">svn</name>
+<name lang="en">svn</name>
+<name lang="es">svn</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">cvs</name>
+<name lang="fr">cvs</name>
+<name lang="en">cvs</name>
+<name lang="es">cvs</name>
+<level>3</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Oracle</name>
+<name lang="fr">Oracle</name>
+<name lang="en">Oracle</name>
+<name lang="es">Oracle</name>
+<skills><skill><name lang="nl">DBA</name>
+<name lang="fr">DBA</name>
+<name lang="en">DBA</name>
+<name lang="es">DBA</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">SQL</name>
+<name lang="fr">SQL</name>
+<name lang="en">SQL</name>
+<name lang="es">SQL</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Forms / Reports</name>
+<name lang="fr">Forms / Reports</name>
+<name lang="en">Forms / Reports</name>
+<name lang="es">Forms / Reports</name>
+<level>3</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">OS</name>
+<name lang="fr">OS</name>
+<name lang="en">OS</name>
+<name lang="es">OS</name>
+<skills><skill><name lang="nl">Linux (centos,ubuntu)</name>
+<name lang="fr">Linux (centos,ubuntu)</name>
+<name lang="en">Linux (centos,ubuntu)</name>
+<name lang="es">Linux (centos,ubuntu)</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">zsh</name>
+<name lang="fr">zsh</name>
+<name lang="en">zsh</name>
+<name lang="es">zsh</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Windows</name>
+<name lang="fr">Windows</name>
+<name lang="en">Windows</name>
+<name lang="es">Windows</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">OSX</name>
+<name lang="fr">OSX</name>
+<name lang="en">OSX</name>
+<name lang="es">OSX</name>
+<level>2</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Monitoring</name>
+<name lang="fr">Surveillance</name>
+<name lang="en">Monitoring</name>
+<name lang="es">Monitorización</name>
+<skills><skill><name lang="nl">PRTG</name>
+<name lang="fr">PRTG</name>
+<name lang="en">PRTG</name>
+<name lang="es">PRTG</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Grafana - Prometheus</name>
+<name lang="fr">Grafana - Prometheus</name>
+<name lang="en">Grafana - Prometheus</name>
+<name lang="es">Grafana - Prometheus</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">splunk</name>
+<name lang="fr">splunk</name>
+<name lang="en">splunk</name>
+<name lang="es">splunk</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">elk</name>
+<name lang="fr">elk</name>
+<name lang="en">elk</name>
+<name lang="es">elk</name>
+<level>2</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">IDE</name>
+<name lang="fr">IDE</name>
+<name lang="en">IDE</name>
+<name lang="es">IDE</name>
+<skills><skill><name lang="nl">intellij</name>
+<name lang="fr">intellij</name>
+<name lang="en">intellij</name>
+<name lang="es">intellij</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Visual Studio Code</name>
+<name lang="fr">Visual Studio Code</name>
+<name lang="en">Visual Studio Code</name>
+<name lang="es">Visual Studio Code</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Eclipse</name>
+<name lang="fr">Eclipse</name>
+<name lang="en">Eclipse</name>
+<name lang="es">Eclipse</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Vim</name>
+<name lang="fr">Vim</name>
+<name lang="en">Vim</name>
+<name lang="es">Vim</name>
+<level>3</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Soft Skills</name>
+<name lang="fr">Compétences Générales</name>
+<name lang="en">Soft Skills</name>
+<name lang="es">Habilidades Blandas</name>
+<skills><skill><name lang="nl">Team Speler</name>
+<name lang="fr">Joueur d'équipe</name>
+<name lang="en">Teamplayer</name>
+<name lang="es">Jugador de equipo</name>
+<level>0</level>
+</skill>
+<skill><name lang="nl">Coaching en Mentoring</name>
+<name lang="fr">Coaching et Mentorat</name>
+<name lang="en">Coaching and Mentoring</name>
+<name lang="es">Orientación y Tutoría</name>
+<level>0</level>
+</skill>
+<skill><name lang="nl">Presentatie Vaardigheden</name>
+<name lang="fr">Capacités de présentation</name>
+<name lang="en">Presentation Skills</name>
+<name lang="es">Habilidades de presentación</name>
+<level>0</level>
+</skill>
+<skill><name lang="nl">Flexibel</name>
+<name lang="fr">Souple</name>
+<name lang="en">Flexible</name>
+<name lang="es">Flexible</name>
+<level>0</level>
+</skill>
+<skill><name lang="nl">Bruggenbouwer</name>
+<name lang="fr">Constructeur de ponts</name>
+<name lang="en">Bridge Builder</name>
+<name lang="es">Constructor de puentes</name>
+<level>0</level>
+</skill>
+</skills>
+</skill>
 </skills>
 <languages><language><name lang="nl">Nederlands</name>
 <name lang="fr">Néerlandais</name>

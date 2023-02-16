@@ -9,6 +9,9 @@ const OBSIDIAN_EDUCATION = 'education'
 const OBSIDIAN_HOBBIES = 'hobbies'
 const OBSIDIAN_VALUES = 'values'
 const OBSIDIAN_TOPSKILLS = 'topSkills'
+const OBSIDIAN_FINAL_STRUCTURE = 'finalStructure'
+export const LANGUAGES = ['Nl', 'Fr', 'En', 'Es']
+
 
 let makeMap = (mapName) => `${OBSIDIAN_BASE}/${OBSIDIAN_CV}/${mapName}/`
 
@@ -26,3 +29,4 @@ export const OBSIDIAN_CV_HOBBY_MAP = makeMap(OBSIDIAN_HOBBIES)
 export const OBSIDIAN_CV_VALUES_MAP = makeMap(OBSIDIAN_VALUES)
 export const OBSIDIAN_CV_TOPSKILLS_MAP = makeMap(OBSIDIAN_TOPSKILLS)
 
+export const OBSIDIAN_CV_FINAL_STRUCTURE_MAP = makeMap(OBSIDIAN_FINAL_STRUCTURE)

@@ -20,10 +20,9 @@ Current Status: POC
 
 [X] Use obsidian to manage and create my resume information and write a backport to my old CV
 
+[X] Refactoring: Skills is in xml within Obsidian -> make this with metadata
 
 ### TODO
-
-[ ] Refactoring: Skills is in xml within Obsidian -> make this with metadata
 
 [ ] Refactoring: Jobs is in xml within Obsidian -> make this with metadata
 
