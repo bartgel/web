@@ -33,6 +33,8 @@ Current Status: POC
 
 [ ] Generate my data on linkedIn
 
+[ ] Create a video explaining this application
+
 [ ] Refactoring: improve automated testing (we moved automated testing here what is generally a bad practice, but the technologies and methods we are using are not yet stable and we don't want to influece the process of creativity)
 
 ## Architecture
