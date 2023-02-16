@@ -1,5 +1,8 @@
 export default class XmlWriter {
 
+    SPECIAL_TAGS = ['short', 'type']
+    LANGS = ['Nl', 'Fr', 'En', 'Es']
+
     writeTag = (property,value,lang) => {
         var additions = (lang == null ? ''  :  ' lang="' + lang + '"')
         return '<' + property + additions +'>' +  value + '</' + property + '>\n'
@@ -18,17 +21,16 @@ export default class XmlWriter {
                 xmlData += this.writeTag ('niveau',  propertyValue.niveau, null);
             }
 
-            if (propertyValue.typeEn != undefined) {
-                xmlData += this.writeTag ('type',  propertyValue.typeEn, "en");
-            }
-            if (propertyValue.typeFr != undefined) {
-                xmlData += this.writeTag ('type',  propertyValue.typeFr, "fr");
-            }
-            if (propertyValue.typeEs != undefined) {
-                xmlData += this.writeTag ('type',  propertyValue.typeEs, "es");
-            }
-            if (propertyValue.typeNl != undefined) {
-                xmlData += this.writeTag ('type',  propertyValue.typeNl, "nl");
+            for (var specialTag in this.SPECIAL_TAGS) {
+                for (var lang in this.LANGS) {
+                    let specialPropertyName = `${this.SPECIAL_TAGS[specialTag]}${this.LANGS[lang]}`
+                    if (propertyValue[specialPropertyName] != undefined) {
+                        xmlData += this.writeTag
+                                        ( this.SPECIAL_TAGS[specialTag]
+                                        , propertyValue[specialPropertyName]
+                                        , this.LANGS[lang].toLowerCase());
+                    }
+                }
             }
 
             if (propertyValue.start != undefined && propertyValue.end != undefined) {

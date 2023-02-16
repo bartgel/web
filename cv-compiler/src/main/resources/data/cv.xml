@@ -1460,10 +1460,10 @@
 <name lang="fr">Ingénieur logiciel</name>
 <name lang="en">Software Engineer</name>
 <name lang="es">Ingeniero de software</name>
-<type lang="en">Evening education</type>
-<type lang="fr">Enseignement du soir</type>
-<type lang="es">Educación nocturna</type>
 <type lang="nl">Avondonderwijs</type>
+<type lang="fr">Enseignement du soir</type>
+<type lang="en">Evening education</type>
+<type lang="es">Educación nocturna</type>
 <when lang="nl">Van 2001 tot 2003</when>
 <when lang="fr">De 2001 à 2003</when>
 <when lang="en">From 2001 until 2003</when>
@@ -1473,10 +1473,10 @@
 <name lang="fr">Informatique appliquée</name>
 <name lang="en">Applied Informatics</name>
 <name lang="es">Informática Aplicada</name>
-<type lang="en">Day education</type>
-<type lang="fr">Éducation de jour</type>
-<type lang="es">Educación diurna</type>
 <type lang="nl">Dagonderwijs</type>
+<type lang="fr">Éducation de jour</type>
+<type lang="en">Day education</type>
+<type lang="es">Educación diurna</type>
 <when lang="nl">Van 1998 tot 2001</when>
 <when lang="fr">De 1998 à 2001</when>
 <when lang="en">From 1998 until 2001</when>
@@ -1503,51 +1503,43 @@
 			<name>Devops - Agile</name>
 		</skill>
 	</topSkills>
-
-
-	<mainValues>
-		<value>
-			<name lang="nl">Technology lover</name>
-			<short lang="nl">TL</short>
-			<name lang="fr">Amateur de technologie</name>
-			<short lang="fr">AT</short>
-			<name lang="en">Technology lover</name>
-			<short lang="en">TL</short>
-			<name lang="es">Amante de la tecnología</name>
-			<short lang="es">AT</short>
-		</value>
-		<value>
-			<name lang="nl">Bruggenbouwer</name>
-			<short lang="nl">BB</short>
-			<name lang="fr">Constructeur de ponts</name>
-			<short lang="fr">CP</short>
-			<name lang="en">Bridge Builder</name>
-			<short lang="en">BB</short>
-			<name lang="es">Constructor de puentes</name>
-			<short lang="es">CP</short>
-		</value>
-		<value>
-			<name lang="nl">Clean coder</name>
-			<short lang="nl">CC</short>
-			<name lang="fr">Codeur propre</name>
-			<short lang="fr">CP</short>
-			<name lang="en">Clean coder</name>
-			<short lang="en">CC</short>
-			<name lang="es">Codificador limpio</name>
-			<short lang="es">CL</short>
-		</value>
-		<value>
-			<name lang="nl">Continue leerling</name>
-			<short lang="nl">CL</short>
-			<name lang="fr">Apprenant continu</name>
-			<short lang="fr">AC</short>
-			<name lang="en">Continous Learner</name>
-			<short lang="en">CL</short>
-			<name lang="es">Aprendiz Infinito</name>
-			<short lang="es">AC</short>
-		</value>
-
-	</mainValues>
+<mainValues><value><name lang="nl">Technology lover</name>
+<name lang="fr">Amateur de technologie</name>
+<name lang="en">Technology lover</name>
+<name lang="es">Amante de la tecnología</name>
+<short lang="nl">TL</short>
+<short lang="fr">AT</short>
+<short lang="en">TL</short>
+<short lang="es">AT</short>
+</value>
+<value><name lang="nl">Bruggenbouwer</name>
+<name lang="fr">Constructeur de ponts</name>
+<name lang="en">Bridge Builder</name>
+<name lang="es">Constructor de puentes</name>
+<short lang="nl">BB</short>
+<short lang="fr">CP</short>
+<short lang="en">BB</short>
+<short lang="es">CP</short>
+</value>
+<value><name lang="nl">Clean coder</name>
+<name lang="fr">Codeur propre</name>
+<name lang="en">Clean coder</name>
+<name lang="es">Codificador limpio</name>
+<short lang="nl">CC</short>
+<short lang="fr">CP</short>
+<short lang="en">CC</short>
+<short lang="es">CL</short>
+</value>
+<value><name lang="nl">Continue leerling</name>
+<name lang="fr">Apprenant continu</name>
+<name lang="en">Continous Learner</name>
+<name lang="es">Aprendiz Infinito</name>
+<short lang="nl">CL</short>
+<short lang="fr">AC</short>
+<short lang="en">CL</short>
+<short lang="es">AC</short>
+</value>
+</mainValues>
 <personal><adress2 lang="nl">Alicante (Spanje)</adress2>
 <adress2 lang="fr">Alicante (Espagne)</adress2>
 <adress2 lang="en">Alicante (Spain)</adress2>
