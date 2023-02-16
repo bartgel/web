@@ -1483,26 +1483,21 @@
 <when lang="es">De 1998 hasta 2001</when>
 </education>
 </educations>
-	<topSkills>
-		<skill>
-			<name>Java</name>
-		</skill>
-		<skill>
-			<name>JavaScript - Angular</name>
-		</skill>
-		<skill>
-			<name>AWS - Big Data</name>
-		</skill>
-		<skill>
-			<name>Oracle</name>
-		</skill>
-		<skill>
-			<name>C - C++</name>
-		</skill>
-		<skill>
-			<name>Devops - Agile</name>
-		</skill>
-	</topSkills>
+<topSkills><skill><name>Kafka</name>
+</skill>
+<skill><name>java</name>
+</skill>
+<skill><name>Angular (javascript)</name>
+</skill>
+<skill><name>Devops - Agile</name>
+</skill>
+<skill><name>Oracle</name>
+</skill>
+<skill><name>c / cpp</name>
+</skill>
+<skill><name></name>
+</skill>
+</topSkills>
 <mainValues><value><name lang="nl">Technology lover</name>
 <name lang="fr">Amateur de technologie</name>
 <name lang="en">Technology lover</name>
@@ -1568,8 +1563,6 @@
 <name lang="fr">Yoga</name>
 <name lang="en">Yoga</name>
 <name lang="es">Yoga</name>
-</hobby>
-<hobby><name></name>
 </hobby>
 </hobbies>
 </cv>

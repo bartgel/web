@@ -1,10 +1,7 @@
-	<topSkills>
-		<skill>
-			<name>Java</name>
-		</skill>
-		<skill>
-			<name>JavaScript - Angular</name>
-		</skill>
+	
+	
+	
+
 		<skill>
 			<name>AWS - Big Data</name>
 		</skill>

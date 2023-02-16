@@ -1,6 +1,6 @@
 ---
 Tag: 
-- Personal
+- function
 all: 
 nl: 
 fr: 
