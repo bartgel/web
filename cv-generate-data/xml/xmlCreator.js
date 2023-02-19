@@ -7,6 +7,45 @@ export default class XmlWriter {
         var additions = (lang == null ? ''  :  ' lang="' + lang + '"')
         return '<' + property + additions +'>' +  value + '</' + property + '>\n'
     }
+
+    jobSkillTransformer = (skillSets) => {
+        let result = '';
+        for (let jobskillsid in skillSets) {
+            let skillset = skillSets[jobskillsid]
+            result += '<skillSet>'
+            result += this.writeTag ('skillName',  skillset.nl, 'nl');
+            result += this.writeTag ('skillName',  skillset.en, 'en');
+            result += this.writeTag ('skillName',  skillset.fr, 'fr');
+            result += this.writeTag ('skillName',  skillset.es, 'es');
+
+            let resultNl = ''
+            let resultEn = ''
+            let resultFr = ''
+            let resultEs = ''
+
+            for (let skillItem in skillset.skillList) {
+                let currentItem = skillset.skillList[skillItem]
+                if (skillItem != 0) {
+                    resultNl += ', '
+                    resultEn += ', '
+                    resultFr += ', '
+                    resultEs += ', '
+                }
+                resultNl += currentItem.nl
+                resultEn += currentItem.en
+                resultFr += currentItem.fr
+                resultEs += currentItem.es
+            }
+
+            result += this.writeTag ('skill',  resultNl, 'nl');
+            result += this.writeTag ('skill',  resultEn, 'en');
+            result += this.writeTag ('skill',  resultFr, 'fr');
+            result += this.writeTag ('skill',  resultEs, 'es');
+
+            result += '</skillSet>'
+        }
+        return result;
+    }
     
  
     jobTransformer = (job) => {
@@ -50,6 +89,8 @@ export default class XmlWriter {
         result += this.writeTag('companyDescription', job.companyObj.companyEs,'es')
 
        }
+       result += this.writeTag('skillSets', this.jobSkillTransformer(job.jobskills),null)
+
 
        result += job.skillsXML
        return result

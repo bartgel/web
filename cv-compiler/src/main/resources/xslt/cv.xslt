@@ -76,6 +76,7 @@
           <fo:table table-layout="fixed" width="100%">
             <fo:table-column/>
             <fo:table-column/>
+            <fo:table-column/>
             <fo:table-body>
               <fo:table-row>
                 <fo:table-cell>
@@ -83,42 +84,41 @@
                     <xsl:with-param name="skill" select="cv/skills/skill[1]"/>
                   </xsl:call-template>
                   <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[3]"/>
+                    <xsl:with-param name="skill" select="cv/skills/skill[4]"/>
                   </xsl:call-template>
-                  <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[5]"/>
-                  </xsl:call-template>
-
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[7]"/>
                   </xsl:call-template>
-
                   <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[9]"/>
+                    <xsl:with-param name="skill" select="cv/skills/skill[10]"/>
                   </xsl:call-template>
-
-                  <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[11]"/>
-                  </xsl:call-template>
-
                 </fo:table-cell>
                 <fo:table-cell>
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[2]"/>
                   </xsl:call-template>
                   <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[4]"/>
+                    <xsl:with-param name="skill" select="cv/skills/skill[12]"/>
+                  </xsl:call-template>
+                  <xsl:call-template name="show-skill">
+                    <xsl:with-param name="skill" select="cv/skills/skill[8]"/>
+                  </xsl:call-template>
+                  <xsl:call-template name="show-skill">
+                    <xsl:with-param name="skill" select="cv/skills/skill[11]"/>
+                  </xsl:call-template>
+                </fo:table-cell>
+                <fo:table-cell>
+                  <xsl:call-template name="show-skill">
+                    <xsl:with-param name="skill" select="cv/skills/skill[3]"/>
                   </xsl:call-template>
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[6]"/>
                   </xsl:call-template>
-
                   <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[8]"/>
+                    <xsl:with-param name="skill" select="cv/skills/skill[9]"/>
                   </xsl:call-template>
-
                   <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[10]"/>
+                    <xsl:with-param name="skill" select="cv/skills/skill[5]"/>
                   </xsl:call-template>
                 </fo:table-cell>
               </fo:table-row>

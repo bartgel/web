@@ -39,14 +39,14 @@
                     <xsl:choose>
                     <xsl:when test="level = 0">
                         <fo:table-cell>
-                            <fo:block>
+                            <fo:block xsl:use-attribute-sets="skill-text">
                                 <xsl:value-of select="name[@lang=$language]"/>
                             </fo:block>
                         </fo:table-cell>
                     </xsl:when>
                         <xsl:otherwise>
                     <fo:table-cell>
-                        <fo:block>
+                        <fo:block xsl:use-attribute-sets="skill-text">
                              <xsl:value-of select="name[@lang=$language]"/>
                         </fo:block>
                     </fo:table-cell>

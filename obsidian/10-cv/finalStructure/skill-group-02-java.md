@@ -15,4 +15,19 @@ references:
 - skill-base-02-09-gradle                                       
 - skill-base-02-10-jsf                                          
 - skill-base-02-11-ant
+- skill-base-02-13-tomcat
+- skill-base-02-14-glassfish
+- skill-base-02-15-cxf
+- skill-base-02-16-drools
+- skill-base-02-17-camunda
+- skill-base-02-18-spring-security
+- skill-base-02-19-spring-data
+- skill-base-02-20-validation
+- skill-base-02-21-jackson
+- skill-base-02-22-jetty
+- skill-base-02-23-sun-idm
+- skill-base-02-24-open-idm
+- skill-base-02-25-spring-webflow
+- skill-base-02-26-spring-actuator
+- skill-base-02-27-eureka
 ---

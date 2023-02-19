@@ -13,4 +13,5 @@ references:
 - skill-base-03-05-material-design
 - skill-base-03-06-nodeJs
 - skill-base-03-07-npm
+- skill-base-03-08-jest
 ---

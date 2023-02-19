@@ -39,11 +39,15 @@
 
     <xsl:attribute-set name="right-content-subtitle">
         <xsl:attribute name="color"><xsl:value-of select="$primary_light"/></xsl:attribute>
-        <xsl:attribute name="font-size">12</xsl:attribute>
+        <xsl:attribute name="font-size">8</xsl:attribute>
         <xsl:attribute name="font-weight">700</xsl:attribute>
         <xsl:attribute name="margin-right">.3cm</xsl:attribute>
         <xsl:attribute name="margin-top">.2cm</xsl:attribute>
         <xsl:attribute name="margin-bottom">.1cm</xsl:attribute>
+    </xsl:attribute-set>
+
+    <xsl:attribute-set name="skill-text">
+        <xsl:attribute name="font-size">8</xsl:attribute>
     </xsl:attribute-set>
 
 
