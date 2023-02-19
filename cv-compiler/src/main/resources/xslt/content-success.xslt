@@ -389,7 +389,7 @@
 
         <fo:block xsl:use-attribute-sets="job-primary">
             <xsl:call-template name="draw-skill"/>&#160;
-            <xsl:value-of select="cv/translations/skills[@lang=$language]"/>
+            <xsl:value-of select="cv/translations/skillTranslated[@lang=$language]"/>
         </fo:block>
 
         <xsl:for-each select="$job/skillSets/skillSet">

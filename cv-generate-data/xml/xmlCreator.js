@@ -8,6 +8,60 @@ export default class XmlWriter {
         return '<' + property + additions +'>' +  value + '</' + property + '>\n'
     }
     
+ 
+    jobTransformer = (job) => {
+       let result = this.writeTag ('from',  job.from, null);
+       result += this.writeTag ('to',  job.to, null);
+       result += this.writeTag ('logo', job.companyObj.logo)
+
+       result += this.writeTag('title', job.functionObj.nl,'nl')
+       result += this.writeTag('title', job.functionObj.fr,'fr')
+       result += this.writeTag('title', job.functionObj.en,'en')
+       result += this.writeTag('title', job.functionObj.es,'es')
+
+       result += this.writeTag('taskDescription', job.nl,'nl')
+       result += this.writeTag('taskDescription', job.fr,'fr')
+       result += this.writeTag('taskDescription', job.en,'en')
+       result += this.writeTag('taskDescription', job.es,'es')
+
+       if (job.clientObj != undefined) {
+        result += this.writeTag ('logo2', job.clientObj.logo)
+
+        result += this.writeTag('location', job.clientObj.locationNl,'nl')
+        result += this.writeTag('location', job.clientObj.locationFr,'fr')
+        result += this.writeTag('location', job.clientObj.locationEn,'en')
+        result += this.writeTag('location', job.clientObj.locationEs,'es')
+
+        result += this.writeTag('companyDescription', job.clientObj.companyNl,'nl')
+        result += this.writeTag('companyDescription', job.clientObj.companyFr,'fr')
+        result += this.writeTag('companyDescription', job.clientObj.companyEn,'en')
+        result += this.writeTag('companyDescription', job.clientObj.companyEs,'es')
+
+       } else {
+
+        result += this.writeTag('location', job.companyObj.locationNl,'nl')
+        result += this.writeTag('location', job.companyObj.locationFr,'fr')
+        result += this.writeTag('location', job.companyObj.locationEn,'en')
+        result += this.writeTag('location', job.companyObj.locationEs,'es')
+
+        result += this.writeTag('companyDescription', job.companyObj.companyNl,'nl')
+        result += this.writeTag('companyDescription', job.companyObj.companyFr,'fr')
+        result += this.writeTag('companyDescription', job.companyObj.companyEn,'en')
+        result += this.writeTag('companyDescription', job.companyObj.companyEs,'es')
+
+       }
+
+       result += job.skillsXML
+       return result
+    }
+
+    writeJobs = (jobs) => {
+        let result = ''
+        for (let job in jobs) {
+            result = this.writeTag('job', this.jobTransformer(jobs[job]), null ) + result
+        }
+        return result;
+    }
     
     processProperty = (propertyname, propertyValue) => {
         let xmlData = ''
@@ -101,13 +155,13 @@ export default class XmlWriter {
     }
 
 
-    writeJob (jobs) {
+    /*writeJob (jobs) {
         let xmlData = ''
         for (var property in jobs) {
             xmlData = jobs[property] + xmlData
         }
         return xmlData
-    }
+    }*/
 
     writeXmlTags (jobs) {
         let xmlData = ''

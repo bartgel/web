@@ -1,30 +1,26 @@
-<job>
-<from>09/2019</from>
-<to>12/2020</to>
-<where>aquafin</where>
-<title lang="nl">Technisch Architect</title>
-<title lang="fr">Architecte Technique</title>
-<title lang="en">Technical Architect</title>
-<title lang="es">Arquitecto Técnico</title>
-<speciality><name>Java</name></speciality>
+---
+Tag: 
+- Job 
+from: 09/2019
+to: 12/2020
+company: company-aquafin
+function: function-sln-architect
+nl: Als technisch architect was Bart Geluykens verantwoordelijk voor de big data projecten, devops/secops implementatie en verbeterprojecten op de Aquafin java-architectuur
+fr: En tant qu'architecte technique, Bart Geluykens était responsable des projets big data, de l'implémentation devops/secops et des projets d'amélioration sur l'architecture java d'Aquafin
+en: As a technical architect, Bart Geluykens was responsible for the big data projects, devops/secops implementation and improvement projects on the Aquafin java architecture
+es: Como arquitecto técnico, Bart Geluykens fue responsable de los proyectos de big data, implementación de devops/secops y proyectos de mejora en la arquitectura Java de Aquafin.
+---
+
+
+<!--speciality><name>Java</name></speciality>
 <speciality><name>Big Data</name></speciality>
-<speciality><name>Devops</name></speciality>
+<speciality><name>Devops</name></speciality-->
 
-<logo>aquafin.jpeg</logo>
-<location lang="nl">Aartselaar</location>
-<location lang="en">Antwerp</location>
-<location lang="es">Amberes</location>
-<location lang="fr">Anvers</location>
 
-<companyDescription lang="nl">Onder het motto: "Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water", is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
-<companyDescription lang="es">Bajo el lema: "Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua", Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
-<companyDescription lang="fr">Sous la devise : "Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau", Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
-<companyDescription lang="en">With the words: "Clean watercourses for future generations and a living environment in harmony with water", Aquafin is responsible for cleaning waste water.</companyDescription>
-
-<taskDescription lang="en">As a technical architect, Bart Geluykens was responsible for the big data projects, devops/secops implementation and improvement projects on the Aquafin java architecture</taskDescription>
-<taskDescription lang="nl">Als technisch architect was Bart Geluykens verantwoordelijk voor de big data projecten, devops/secops implementatie en verbeterprojecten op de Aquafin java-architectuur</taskDescription>
-<taskDescription lang="fr">En tant qu'architecte technique, Bart Geluykens était responsable des projets big data, de l'implémentation devops/secops et des projets d'amélioration sur l'architecture java d'Aquafin</taskDescription>
-<taskDescription lang="es">Como arquitecto técnico, Bart Geluykens fue responsable de los proyectos de big data, implementación de devops/secops y proyectos de mejora en la arquitectura Java de Aquafin.</taskDescription>
+<taskDescription lang="en"></taskDescription>
+<taskDescription lang="nl"></taskDescription>
+<taskDescription lang="fr"></taskDescription>
+<taskDescription lang="es"></taskDescription>
 
 <skillSets>
 <skillSet>
@@ -102,5 +98,3 @@
 
 </skillSets>
 
-
-</job>

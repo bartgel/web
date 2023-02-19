@@ -14,27 +14,8 @@ The final result should be something you can demonstrate skills and knowledge
 
 Current Status: POC
 
-### Done
 
-[X] Create a CI/CD stack around my legacy CV  written in Java and FOP.
-
-[X] Use obsidian to manage and create my resume information and write a backport to my old CV
-
-[X] Refactoring: Skills is in xml within Obsidian -> make this with metadata
-
-### TODO
-
-[ ] Refactoring: Jobs is in xml within Obsidian -> make this with metadata
-
-[ ] Create an iconic font
-
-[ ] Create a website to show my CV
-
-[ ] Generate my data on linkedIn
-
-[ ] Create a video explaining this application
-
-[ ] Refactoring: improve automated testing (we moved automated testing here what is generally a bad practice, but the technologies and methods we are using are not yet stable and we don't want to influece the process of creativity)
+All tasks are [documented here](https://github.com/bartgel/web/issues)
 
 ## Architecture
 

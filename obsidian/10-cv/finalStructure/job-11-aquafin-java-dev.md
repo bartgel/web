@@ -1,28 +1,15 @@
-<job>
-<from>01/2018</from>
-<to>08/2019</to>
-<where>aquafin</where>
-<title lang="nl">Java Ontwikkelaar</title>
-<title lang="fr">Développeur Java</title>
-<title lang="en">Java Developer</title>
-<title lang="es">Desarrollador java</title>
-
-<logo>aquafin.jpeg</logo>
-<location lang="nl">Aartselaar</location>
-<location lang="en">Antwerp</location>
-<location lang="es">Amberes</location>
-<location lang="fr">Anvers</location>
-
-<companyDescription lang="nl">Onder het motto: "Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water", is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
-<companyDescription lang="es">Bajo el lema: "Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua", Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
-<companyDescription lang="fr">Sous la devise : "Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau", Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
-<companyDescription lang="en">With the words: "Clean watercourses for future generations and a living environment in harmony with water", Aquafin is responsible for cleaning waste water.</companyDescription>
-
-
-<taskDescription lang="en">As a Java developer, Bart Geluykens was responsible for the implementation of various applications</taskDescription>
-<taskDescription lang="nl">Als java ontwikkelaar was Bart Geluykens verantwoordelijk voor de implementatie van diverse applicaties</taskDescription>
-<taskDescription lang="fr">En tant que développeur Java, Bart Geluykens était responsable de la mise en œuvre de diverses applications</taskDescription>
-<taskDescription lang="es">Como desarrollador de Java, Bart Geluykens fue responsable de la implementación de varias aplicaciones.</taskDescription>
+---
+Tag: 
+- Job 
+from: 01/2018
+to: 08/2019
+company: company-aquafin
+function: function-developer-java
+nl: Als java ontwikkelaar was Bart Geluykens verantwoordelijk voor de implementatie van diverse applicaties
+fr: En tant que développeur Java, Bart Geluykens était responsable de la mise en œuvre de diverses applications
+en: As a Java developer, Bart Geluykens was responsible for the implementation of various applications
+es: Como desarrollador de Java, Bart Geluykens fue responsable de la implementación de varias aplicaciones.
+---
 
 <skillSets>
 <skillSet>
@@ -113,5 +100,3 @@
 </skillSet>
 
 </skillSets>
-
-</job>

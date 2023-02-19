@@ -62,6 +62,18 @@
 <skillMatrix lang="fr">MATRICE DE COMPÉTENCES</skillMatrix>
 <skillMatrix lang="en">SKILLS MATRIX</skillMatrix>
 <skillMatrix lang="es">MATRIZ DE HABILIDADES</skillMatrix>
+<skillTranslated lang="nl">Vaardigheden</skillTranslated>
+<skillTranslated lang="fr">Compétences</skillTranslated>
+<skillTranslated lang="en">Skills</skillTranslated>
+<skillTranslated lang="es">Habilidades</skillTranslated>
+<topSkills lang="nl">BASIS-VAARDIGHEDEN</topSkills>
+<topSkills lang="fr">COMPÉTENCES DE BASE</topSkills>
+<topSkills lang="en">BASIC SKILLS</topSkills>
+<topSkills lang="es">HABILIDADES BÁSICAS</topSkills>
+<workExperience lang="nl">WERKERVARINGEN</workExperience>
+<workExperience lang="fr">EXPÉRIENCES DE TRAVAIL</workExperience>
+<workExperience lang="en">WORK EXPERIENCES</workExperience>
+<workExperience lang="es">EXPERIENCIAS DE TRABAJO</workExperience>
 <skills><skill><level lang="nl">Basiskennis</level>
 <level lang="fr">Connaissances de base</level>
 <level lang="en">Basic Knowledge</level>
@@ -83,39 +95,27 @@
 <level lang="es">Experto</level>
 </skill>
 </skills>
-<topSkills lang="nl">BASIS-VAARDIGHEDEN</topSkills>
-<topSkills lang="fr">COMPÉTENCES DE BASE</topSkills>
-<topSkills lang="en">BASIC SKILLS</topSkills>
-<topSkills lang="es">HABILIDADES BÁSICAS</topSkills>
-<workExperience lang="nl">WERKERVARINGEN</workExperience>
-<workExperience lang="fr">EXPÉRIENCES DE TRAVAIL</workExperience>
-<workExperience lang="en">WORK EXPERIENCES</workExperience>
-<workExperience lang="es">EXPERIENCIAS DE TRABAJO</workExperience>
 </translations>
-<jobs><job>
-<from>05/2022</from>
-<to>01/2023</to>
-<where>confluent</where>
+<jobs><job><from>05/2022</from>
+<to>02/2023</to>
 <logo>confluent.jpg</logo>
-<location lang="nl">Remote/Alicante</location>
-<location lang="en">Remote/Alicante</location>
-<location lang="es">Remoto/Alicante</location>
-<location lang="fr">a distance/Alicante</location>
-
 <title lang="nl">Solutions Architect</title>
 <title lang="fr">Architecte de solution</title>
 <title lang="en">Solutions Architect</title>
 <title lang="es">Arquitecto de soluciones</title>
-
-<companyDescription lang="nl">Confluent is het bedrijf achter Apache Kafka. Onder de hashtag #DataInMotion helpen ze bedrijven met het opzetten van eventbased architecturen.</companyDescription>
-<companyDescription lang="es">Confluent es la empresa detrás de Apache Kafka. Bajo el hashtag #DataInMotion, ayudan a las empresas a configurar una arquitectura basada en eventos.</companyDescription>
-<companyDescription lang="fr">Confluent est la société derrière Apache Kafka. Sous le hashtag #DataInMotion, ils aident les sociétés à mettre en place une architecture événementielle.</companyDescription>
-<companyDescription lang="en">Confluent is the company behind Apache Kafka. Under the hashtag #DataInMotion, they help companies setting up event-based architectures.</companyDescription>
-
-<taskDescription lang="en">Helping companies with explaining the Kafka ecosystem and assisting on their technical implementation of their Apache Kafka stack.</taskDescription>
 <taskDescription lang="nl">Bedrijven helpen met het toelichten van het Kafka-ecosysteem en hun assisteren technische implementatie van hun Apache Kafka-stack.</taskDescription>
 <taskDescription lang="fr">Aidez les entreprises à expliquer l'écosystème Kafka et assistez-les dans la mise en œuvre technique de leur pile Apache Kafka.</taskDescription>
+<taskDescription lang="en">Helping companies with explaining the Kafka ecosystem and assisting on their technical implementation of their Apache Kafka stack.</taskDescription>
 <taskDescription lang="es">Ayude a las empresas a explicar el ecosistema Kafka y ayúdeles con la implementación técnica de su pila Apache Kafka.</taskDescription>
+<location lang="nl">Remote/Alicante (ES)</location>
+<location lang="fr">A Distance/Alicante (ES)</location>
+<location lang="en">Remote/Alicante (ES)</location>
+<location lang="es">Remoto/Alicante (ES)</location>
+<companyDescription lang="nl">Confluent is het bedrijf achter Apache Kafka. Onder de hashtag &#35;DataInMotion helpen ze bedrijven met het opzetten van eventbased architecturen.</companyDescription>
+<companyDescription lang="fr">Confluent est la société derrière Apache Kafka. Sous le hashtag &#35;DataInMotion, ils aident les sociétés à mettre en place une architecture événementielle.</companyDescription>
+<companyDescription lang="en">Confluent is the company behind Apache Kafka. Under the hashtag &#35;DataInMotion, they help companies setting up event-based architectures.</companyDescription>
+<companyDescription lang="es">Confluent es la empresa detrás de Apache Kafka. Bajo el hashtag &#35;DataInMotion, ayudan a las empresas a configurar una arquitectura basada en eventos</companyDescription>
+
 
 <skillSets>
 <skillSet>
@@ -191,35 +191,27 @@
 <skill lang="es">Prometheus/grafana, ELK</skill>
 </skillSet>
 
-
-
-</skillSets>
-</job>
-
-<job>
-<from>01/2021</from>
+</skillSets></job>
+<job><from>01/2021</from>
 <to>04/2022</to>
-<where>inetum</where>
+<logo>inetum.png</logo>
 <title lang="nl">Solutions Architect</title>
 <title lang="fr">Architecte de solution</title>
 <title lang="en">Solutions Architect</title>
 <title lang="es">Arquitecto de soluciones</title>
-
-<logo>inetum.png</logo>
-<location lang="nl">Alicante</location>
-<location lang="en">Alicante</location>
-<location lang="es">Alicante</location>
-<location lang="fr">Alicante</location>
-
-<companyDescription lang="nl">Inetum is een Frans software-services bedrijf. De focus is vooral op al-omvattende projecten. #PositiveDigitalFlow</companyDescription>
-<companyDescription lang="es">Inetum es una empresa francesa de servicios de software. La atención se centra principalmente en proyectos enteros. #PositiveDigitalFlow</companyDescription>
-<companyDescription lang="fr">Inetum est une société française de services logiciels. L'accent est mis principalement sur des projets complets. #PositiveDigitalFlow</companyDescription>
-<companyDescription lang="en">Inetum is a French software services company. The focus is mainly on all-inclusive projects. #PositiveDigitalFlow</companyDescription>
-
-<taskDescription lang="en">Supporting and assisting with projects experiencing architectural/structural issues</taskDescription>
 <taskDescription lang="nl">Het ondersteunen en helpen bij projecten die architecturale / structurele problemen ondervinden</taskDescription>
 <taskDescription lang="fr">Soutenir et assister les projets rencontrant des problèmes architecturaux/structurels</taskDescription>
+<taskDescription lang="en">Supporting and assisting with projects experiencing architectural/structural issues</taskDescription>
 <taskDescription lang="es">Apoyar y ayudar con proyectos que experimentan problemas arquitectónicos/estructurales</taskDescription>
+<location lang="nl">Alicante (ES)</location>
+<location lang="fr">Alicante (ES)</location>
+<location lang="en">Alicante (ES)</location>
+<location lang="es">Alicante (ES)</location>
+<companyDescription lang="nl">Inetum is een Frans software-services bedrijf. De focus is vooral op al-omvattende projecten. &#35;PositiveDigitalFlow</companyDescription>
+<companyDescription lang="fr">Inetum est une société française de services logiciels. L'accent est mis principalement sur des projets complets. &#35;PositiveDigitalFlow</companyDescription>
+<companyDescription lang="en">Inetum is a French software services company. The focus is mainly on all-inclusive projects. &#35;PositiveDigitalFlow</companyDescription>
+<companyDescription lang="es">Inetum es una empresa francesa de servicios de software. La atención se centra principalmente en proyectos enteros. &#35;PositiveDigitalFlow</companyDescription>
+
 
 <skillSets>
 <skillSet>
@@ -259,34 +251,37 @@
 <skill lang="es">Francés, Español</skill>
 </skillSet>
 </skillSets>
-
-</job><job>
-<from>09/2019</from>
+</job>
+<job><from>09/2019</from>
 <to>12/2020</to>
-<where>aquafin</where>
-<title lang="nl">Technisch Architect</title>
-<title lang="fr">Architecte Technique</title>
-<title lang="en">Technical Architect</title>
-<title lang="es">Arquitecto Técnico</title>
-<speciality><name>Java</name></speciality>
-<speciality><name>Big Data</name></speciality>
-<speciality><name>Devops</name></speciality>
-
 <logo>aquafin.jpeg</logo>
-<location lang="nl">Aartselaar</location>
-<location lang="en">Antwerp</location>
-<location lang="es">Amberes</location>
-<location lang="fr">Anvers</location>
-
-<companyDescription lang="nl">Onder het motto: "Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water", is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
-<companyDescription lang="es">Bajo el lema: "Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua", Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
-<companyDescription lang="fr">Sous la devise : "Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau", Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
-<companyDescription lang="en">With the words: "Clean watercourses for future generations and a living environment in harmony with water", Aquafin is responsible for cleaning waste water.</companyDescription>
-
-<taskDescription lang="en">As a technical architect, Bart Geluykens was responsible for the big data projects, devops/secops implementation and improvement projects on the Aquafin java architecture</taskDescription>
+<title lang="nl">Solutions Architect</title>
+<title lang="fr">Architecte de solution</title>
+<title lang="en">Solutions Architect</title>
+<title lang="es">Arquitecto de soluciones</title>
 <taskDescription lang="nl">Als technisch architect was Bart Geluykens verantwoordelijk voor de big data projecten, devops/secops implementatie en verbeterprojecten op de Aquafin java-architectuur</taskDescription>
 <taskDescription lang="fr">En tant qu'architecte technique, Bart Geluykens était responsable des projets big data, de l'implémentation devops/secops et des projets d'amélioration sur l'architecture java d'Aquafin</taskDescription>
+<taskDescription lang="en">As a technical architect, Bart Geluykens was responsible for the big data projects, devops/secops implementation and improvement projects on the Aquafin java architecture</taskDescription>
 <taskDescription lang="es">Como arquitecto técnico, Bart Geluykens fue responsable de los proyectos de big data, implementación de devops/secops y proyectos de mejora en la arquitectura Java de Aquafin.</taskDescription>
+<location lang="nl">Aartselaar (BE)</location>
+<location lang="fr">Anvers (BE)</location>
+<location lang="en">Antwerp (BE)</location>
+<location lang="es">Amberes (BE)</location>
+<companyDescription lang="nl">Onder het motto &#34;Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water&#34;, is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
+<companyDescription lang="fr">Sous la devise &#34;Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau&#34;, Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
+<companyDescription lang="en">With the words &#34;Clean watercourses for future generations and a living environment in harmony with water&#34;, Aquafin is responsible for cleaning waste water.</companyDescription>
+<companyDescription lang="es">Bajo el lema &#34;Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua&#34;, Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
+
+
+<!--speciality><name>Java</name></speciality>
+<speciality><name>Big Data</name></speciality>
+<speciality><name>Devops</name></speciality-->
+
+
+<taskDescription lang="en"></taskDescription>
+<taskDescription lang="nl"></taskDescription>
+<taskDescription lang="fr"></taskDescription>
+<taskDescription lang="es"></taskDescription>
 
 <skillSets>
 <skillSet>
@@ -364,33 +359,26 @@
 
 </skillSets>
 
-
 </job>
-<job>
-<from>01/2018</from>
+<job><from>01/2018</from>
 <to>08/2019</to>
-<where>aquafin</where>
+<logo>aquafin.jpeg</logo>
 <title lang="nl">Java Ontwikkelaar</title>
 <title lang="fr">Développeur Java</title>
 <title lang="en">Java Developer</title>
-<title lang="es">Desarrollador java</title>
-
-<logo>aquafin.jpeg</logo>
-<location lang="nl">Aartselaar</location>
-<location lang="en">Antwerp</location>
-<location lang="es">Amberes</location>
-<location lang="fr">Anvers</location>
-
-<companyDescription lang="nl">Onder het motto: "Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water", is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
-<companyDescription lang="es">Bajo el lema: "Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua", Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
-<companyDescription lang="fr">Sous la devise : "Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau", Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
-<companyDescription lang="en">With the words: "Clean watercourses for future generations and a living environment in harmony with water", Aquafin is responsible for cleaning waste water.</companyDescription>
-
-
-<taskDescription lang="en">As a Java developer, Bart Geluykens was responsible for the implementation of various applications</taskDescription>
+<title lang="es">Desarrollador Java</title>
 <taskDescription lang="nl">Als java ontwikkelaar was Bart Geluykens verantwoordelijk voor de implementatie van diverse applicaties</taskDescription>
 <taskDescription lang="fr">En tant que développeur Java, Bart Geluykens était responsable de la mise en œuvre de diverses applications</taskDescription>
+<taskDescription lang="en">As a Java developer, Bart Geluykens was responsible for the implementation of various applications</taskDescription>
 <taskDescription lang="es">Como desarrollador de Java, Bart Geluykens fue responsable de la implementación de varias aplicaciones.</taskDescription>
+<location lang="nl">Aartselaar (BE)</location>
+<location lang="fr">Anvers (BE)</location>
+<location lang="en">Antwerp (BE)</location>
+<location lang="es">Amberes (BE)</location>
+<companyDescription lang="nl">Onder het motto &#34;Propere waterlopen voor de volgende generaties en een leefomgeving in harmonie met water&#34;, is Aquafin verantwoordelijk voor het reinigen van afvalwater.</companyDescription>
+<companyDescription lang="fr">Sous la devise &#34;Des cours d'eau propres pour les générations futures et un cadre de vie en harmonie avec l'eau&#34;, Aquafin est responsable de l'assainissement des eaux usées.</companyDescription>
+<companyDescription lang="en">With the words &#34;Clean watercourses for future generations and a living environment in harmony with water&#34;, Aquafin is responsible for cleaning waste water.</companyDescription>
+<companyDescription lang="es">Bajo el lema &#34;Cursos de agua limpios para las generaciones futuras y un entorno de vida en armonía con el agua&#34;, Aquafin se encarga de la limpieza de las aguas residuales.</companyDescription>
 
 <skillSets>
 <skillSet>
@@ -481,33 +469,27 @@
 </skillSet>
 
 </skillSets>
-
-</job><job>
-<from>06/2016</from>
+</job>
+<job><from>06/2016</from>
 <to>12/2017</to>
-<where>hfb</where>
+<logo>hpe.png</logo>
 <title lang="nl">Java Technical Lead</title>
 <title lang="fr">Responsable technique Java</title>
 <title lang="en">Java Technical Lead</title>
 <title lang="es">Jefe técnico de Java</title>
-
-
-<logo>hpe.png</logo>
-<logo2>vo-hfb.png</logo2>
-<location lang="nl">Brussel</location>
-<location lang="en">Brussels</location>
-<location lang="es">Bruselas</location>
-<location lang="fr">Bruxelles</location>
-
-<companyDescription lang="nl">"Het Facilitair Bedrijf" is verantwoordelijk voor alle overkoepelende projecten binnen de vlaamse overheid. Met het project WebIDM was Bart Geluykens verantwoordelijk voor Identitymangement</companyDescription>
-<companyDescription lang="es">"Het Facilitair Bedrijf" es responsable de todos los proyectos generales dentro del gobierno flamenco. Con el proyecto WebIDM, Bart Geluykens fue responsable de la gestión de la Identidad</companyDescription>
-<companyDescription lang="fr">"Het Facilitair Bedrijf" est responsable de tous les projets généraux au sein du gouvernement flamand. Avec le projet WebIDM, Bart Geluykens était responsable de la gestion des identités</companyDescription>
-<companyDescription lang="en">"Het Facilitair Bedrijf" is responsible for all shared projects within the flemish governement. With the WebIDM project, Bart Geluykens was responsible for Identity management</companyDescription>
-
-<taskDescription lang="en">Bart Geluykens was responsible for maintenance and bug fixes on the legacy and new version of the application within a team of 4 developers. In addition, also for the communication and cooperation with other teams.</taskDescription>
 <taskDescription lang="nl">Bart Geluykens was verantwoordelijk voor onderhoud en bugfixes op de legacy/bestaande versie binnen een team van 4 developers. Daarnaast ook voor de communicatie / samenwerking met andere teams.</taskDescription>
 <taskDescription lang="fr">Bart Geluykens était responsable de la maintenance et des corrections de bugs sur la version legacy/existante au sein d'une équipe de 4 développeurs. En outre, également pour la communication / coopération avec d'autres équipes.</taskDescription>
+<taskDescription lang="en">Bart Geluykens was responsible for maintenance and bug fixes on the legacy and new version of the application within a team of 4 developers. In addition, also for the communication and cooperation with other teams.</taskDescription>
 <taskDescription lang="es">Bart Geluykens fue responsable del mantenimiento y la corrección de errores en la versión heredada/existente dentro de un equipo de 4 desarrolladores. Además, también para la comunicación/cooperación con otros equipos.</taskDescription>
+<logo2>vo-hfb.png</logo2>
+<location lang="nl">Brussel (BE)</location>
+<location lang="fr">Bruxelles (BE)</location>
+<location lang="en">Brussels (BE)</location>
+<location lang="es">Bruselas (BE)</location>
+<companyDescription lang="nl">Het Facilitair Bedrijf is verantwoordelijk voor alle overkoepelende projecten binnen de vlaamse overheid. Met het project WebIDM was Bart Geluykens verantwoordelijk voor Identitymangement</companyDescription>
+<companyDescription lang="fr">Het Facilitair Bedrijf est responsable de tous les projets généraux au sein du gouvernement flamand. Avec le projet WebIDM, Bart Geluykens était responsable de la gestion des identités</companyDescription>
+<companyDescription lang="en">Het Facilitair Bedrijf is responsible for all shared projects within the flemish governement. With the WebIDM project, Bart Geluykens was responsible for Identity management</companyDescription>
+<companyDescription lang="es">Het Facilitair Bedrijf es responsable de todos los proyectos generales dentro del gobierno flamenco. Con el proyecto WebIDM, Bart Geluykens fue responsable de la gestión de la Identidad</companyDescription>
 
 <skillSets>
 <skillSet>
@@ -560,35 +542,28 @@
 </skillSet>
 
 </skillSets>
-
-
-
-
-</job><job>
-<from>03/2012</from>
+</job>
+<job><from>03/2012</from>
 <to>05/2016</to>
-<where>wvl</where>
+<logo>hpe.png</logo>
 <title lang="nl">Java Technical Lead</title>
 <title lang="fr">Responsable technique Java</title>
 <title lang="en">Java Technical Lead</title>
 <title lang="es">Jefe técnico de Java</title>
-
-<logo>hpe.png</logo>
-<logo2>vo-wvl.png</logo2>
-<location lang="nl">Brussel</location>
-<location lang="en">Brussels</location>
-<location lang="es">Bruselas</location>
-<location lang="fr">Bruxelles</location>
-
-<companyDescription lang="nl">"Wonen Vlaanderen" is verantwoordelijk voor alles wat betreft huisvesting in Vlaanderen. De projecten binnen het java-portfollio habben vooral te maken met woonsubsidies en woonkwaliteit.</companyDescription>
-<companyDescription lang="es">"Wonen Vlaanderen" es responsable de todo lo relacionado con la vivienda en Flandes. Los proyectos de la cartera java están relacionados principalmente con subsidios habitacionales y calidad habitacional.</companyDescription>
-<companyDescription lang="fr">"Wonen Vlaanderen" est responsable de tout ce qui concerne le logement en Flandre. Les projets du portefeuille java sont principalement liés aux subventions et à la qualité du logement.</companyDescription>
-<companyDescription lang="en">"Wonen Vlaanderen" is responsible for everything regarding housing in Flanders. The projects within the java portfolio are mainly related to housing subsidies and housing quality.</companyDescription>
-
-<taskDescription lang="en">Bart Geluykens had to manage a team of about 6 devs, in close collaboration with the customer and the .NET team.</taskDescription>
 <taskDescription lang="nl">Bart Geluykens moest een team van ongeveer 6 devs aansturen, dit in heel nauwe samenwerking met de klant en het .NET team.</taskDescription>
 <taskDescription lang="fr">Bart Geluykens devait manager une équipe d'environ 6 devs, en étroite collaboration avec le client et l'équipe .NET.</taskDescription>
+<taskDescription lang="en">Bart Geluykens had to manage a team of about 6 devs, in close collaboration with the customer and the .NET team.</taskDescription>
 <taskDescription lang="es">Bart Geluykens tuvo que gestionar un equipo de unos 6 desarrolladores, en estrecha colaboración con el cliente y el equipo de .NET.</taskDescription>
+<logo2>vo-wvl.png</logo2>
+<location lang="nl">Brussel (BE)</location>
+<location lang="fr">Bruxelles (BE)</location>
+<location lang="en">Brussels (BE)</location>
+<location lang="es">Bruselas (BE)</location>
+<companyDescription lang="nl">Vlaanderen&#34; is verantwoordelijk voor alles wat betreft huisvesting in Vlaanderen. De projecten binnen het java-portfollio habben vooral te maken met woonsubsidies en woonkwaliteit.</companyDescription>
+<companyDescription lang="fr">Vlaanderen&#34; est responsable de tout ce qui concerne le logement en Flandre. Les projets du portefeuille java sont principalement liés aux subventions et à la qualité du logement.</companyDescription>
+<companyDescription lang="en">Vlaanderen&#34; is responsible for everything regarding housing in Flanders. The projects within the java portfolio are mainly related to housing subsidies and housing quality.</companyDescription>
+<companyDescription lang="es">Vlaanderen&#34; es responsable de todo lo relacionado con la vivienda en Flandes. Los proyectos de la cartera java están relacionados principalmente con subsidios habitacionales y calidad habitacional</companyDescription>
+
 
 <skillSets>
 <skillSet>
@@ -653,34 +628,27 @@
 
 
 </skillSets>
-
-
 </job>
-<job>
-<from>06/2010</from>
+<job><from>06/2010</from>
 <to>02/2012</to>
-<where>vlabel</where>
+<logo>hpe.png</logo>
 <title lang="nl">Java Ontwikkelaar</title>
 <title lang="fr">Développeur Java</title>
 <title lang="en">Java Developer</title>
 <title lang="es">Desarrollador Java</title>
-
-<logo>hpe.png</logo>
-<logo2>vo-vlabel.jpeg</logo2>
-<location lang="nl">Brussel</location>
-<location lang="en">Brussels</location>
-<location lang="es">Bruselas</location>
-<location lang="fr">Bruxelles</location>
-
-<companyDescription lang="nl">VLABEL is de vlaamse belastingdienst. Toen Bart Geluykens hier actief was hadden ze 3 bevoedheden: Verkeersbelasting, kadastraalinkomen en erfrecht.</companyDescription>
-<companyDescription lang="es">VLABEL es la autoridad fiscal flamenca. Cuando Bart Geluykens estaba activo aquí, tenían 3 áreas: impuesto de circulación, renta catastral y ley de sucesiones.</companyDescription>
-<companyDescription lang="fr">VLABEL est l'administration fiscale flamande. Lorsque Bart Geluykens était actif ici, ils avaient 3 domaines: la taxe de circulation, le revenu cadastral et le droit des successions.</companyDescription>
-<companyDescription lang="en">VLABEL is the Flemish tax authority. When Bart Geluykens was active here, they had 3 responsibilities: Traffic tax, cadastral income and inheritance law.</companyDescription>
-
-<taskDescription lang="en">Bart started as a business analyst, but out of necessity he has taken on other functions. Eventually he found his first love again and decided to switch to full time programming.</taskDescription>
-<taskDescription lang="nl">Bart is begonnen als business analist, maar heeft uit noodzaak heeft hij er ander taken bij genomen. Uiteindelijk heeft hij terug zijn eerste liefde gevonden en besloten van project te wisselen om terug voltijds te kunnen programmeren..</taskDescription>
+<taskDescription lang="nl">Bart is begonnen als business analist, maar heeft uit noodzaak heeft hij er ander taken bij genomen. Uiteindelijk heeft hij terug zijn eerste liefde gevonden en besloten van project te wisselen om terug voltijds te kunnen programmeren...</taskDescription>
 <taskDescription lang="fr">Bart a commencé comme analyste commercial, mais par nécessité, il a assumé d'autres tâches. Finalement, il a retrouvé son premier amour et a décidé de changer de projet pour pouvoir à nouveau programmer à plein temps.</taskDescription>
+<taskDescription lang="en">Bart started as a business analyst, but out of necessity he has taken on other functions. Eventually he found his first love again and decided to switch to full time programming.</taskDescription>
 <taskDescription lang="es">Bart comenzó como analista de negocios, pero por necesidad asumió otras tareas. Eventualmente, encontró a su primer amor nuevamente y decidió cambiar de proyecto para poder programar a tiempo completo nuevamente.</taskDescription>
+<logo2>vo-vlabel.jpeg</logo2>
+<location lang="nl">Brussel (BE)</location>
+<location lang="fr">Bruxelles (BE)</location>
+<location lang="en">Brussels (BE)</location>
+<location lang="es">Bruselas (BE)</location>
+<companyDescription lang="nl">VLABEL is de vlaamse belastingdienst. Toen Bart Geluykens hier actief was hadden ze 3 bevoedheden Verkeersbelasting, kadastraalinkomen en erfrecht</companyDescription>
+<companyDescription lang="fr">VLABEL est l'administration fiscale flamande. Lorsque Bart Geluykens était actif ici, ils avaient 3 domaines la taxe de circulation, le revenu cadastral et le droit des successions.</companyDescription>
+<companyDescription lang="en">VLABEL is the Flemish tax authority. When Bart Geluykens was active here, they had 3 responsibilities Traffic tax, cadastral income and inheritance law.</companyDescription>
+<companyDescription lang="es">VLABEL es la autoridad fiscal flamenca. Cuando Bart Geluykens estaba activo aquí, tenían 3 áreas impuesto de circulación, renta catastral y ley de sucesiones.</companyDescription>
 
 <skillSets>
 <skillSet>
@@ -717,51 +685,69 @@
 <skill lang="es">Hudson, SVN, SonarQube, Jira</skill>
 </skillSet>
 </skillSets>
-
 </job>
-<job>
-<from>06/2010</from>
+<job><from>06/2010</from>
 <to>02/2012</to>
-<where>vlabel</where>
+<logo>hpe.png</logo>
 <title lang="nl">Oracle Ontwikkelaar</title>
 <title lang="fr">Développeur Oracle</title>
 <title lang="en">Oracle Developer</title>
 <title lang="es">Desarrollador Oracle</title>
+<taskDescription lang="nl">undefined</taskDescription>
+<taskDescription lang="fr">undefined</taskDescription>
+<taskDescription lang="en">undefined</taskDescription>
+<taskDescription lang="es">undefined</taskDescription>
+<logo2>vo-vlabel.jpeg</logo2>
+<location lang="nl">Brussel (BE)</location>
+<location lang="fr">Bruxelles (BE)</location>
+<location lang="en">Brussels (BE)</location>
+<location lang="es">Bruselas (BE)</location>
+<companyDescription lang="nl">VLABEL is de vlaamse belastingdienst. Toen Bart Geluykens hier actief was hadden ze 3 bevoedheden Verkeersbelasting, kadastraalinkomen en erfrecht</companyDescription>
+<companyDescription lang="fr">VLABEL est l'administration fiscale flamande. Lorsque Bart Geluykens était actif ici, ils avaient 3 domaines la taxe de circulation, le revenu cadastral et le droit des successions.</companyDescription>
+<companyDescription lang="en">VLABEL is the Flemish tax authority. When Bart Geluykens was active here, they had 3 responsibilities Traffic tax, cadastral income and inheritance law.</companyDescription>
+<companyDescription lang="es">VLABEL es la autoridad fiscal flamenca. Cuando Bart Geluykens estaba activo aquí, tenían 3 áreas impuesto de circulación, renta catastral y ley de sucesiones.</companyDescription>
 </job>
-<job>
-<from>01/2009</from>
+<job><from>01/2009</from>
 <to>02/2012</to>
-<where>vlabel</where>
+<logo>hpe.png</logo>
 <title lang="nl">Business Analist</title>
 <title lang="fr">Analyste d'affaires</title>
 <title lang="en">Business Analyst</title>
 <title lang="es">Analista de negocios</title>
-</job><job>
-<from>01/2005</from>
+<taskDescription lang="nl">undefined</taskDescription>
+<taskDescription lang="fr">undefined</taskDescription>
+<taskDescription lang="en">undefined</taskDescription>
+<taskDescription lang="es">undefined</taskDescription>
+<logo2>vo-vlabel.jpeg</logo2>
+<location lang="nl">Brussel (BE)</location>
+<location lang="fr">Bruxelles (BE)</location>
+<location lang="en">Brussels (BE)</location>
+<location lang="es">Bruselas (BE)</location>
+<companyDescription lang="nl">VLABEL is de vlaamse belastingdienst. Toen Bart Geluykens hier actief was hadden ze 3 bevoedheden Verkeersbelasting, kadastraalinkomen en erfrecht</companyDescription>
+<companyDescription lang="fr">VLABEL est l'administration fiscale flamande. Lorsque Bart Geluykens était actif ici, ils avaient 3 domaines la taxe de circulation, le revenu cadastral et le droit des successions.</companyDescription>
+<companyDescription lang="en">VLABEL is the Flemish tax authority. When Bart Geluykens was active here, they had 3 responsibilities Traffic tax, cadastral income and inheritance law.</companyDescription>
+<companyDescription lang="es">VLABEL es la autoridad fiscal flamenca. Cuando Bart Geluykens estaba activo aquí, tenían 3 áreas impuesto de circulación, renta catastral y ley de sucesiones.</companyDescription>
+</job>
+<job><from>01/2005</from>
 <to>12/2008</to>
-<where>usg</where>
+<logo>capgemini.png</logo>
 <title lang="nl">Business Analist</title>
 <title lang="fr">Analyste d'affaires</title>
 <title lang="en">Business Analyst</title>
 <title lang="es">Analista de negocios</title>
-
-<location lang="nl">Antwerpen</location>
-<location lang="en">Antwerp</location>
-<location lang="es">Amberes</location>
-<location lang="fr">Anvers</location>
-
-<logo>capgemini.png</logo>
-<logo2>usg.png</logo2>
-
-<companyDescription lang="nl">USG (United Services Group) was een van de grote uitzendkantoren in België. De nadruk lag vooral op bulkverwerking. Door heel veel uitzendkrachten op het veld te hebben konden we heel veel optinmaliseren, zoals printkosten, bankkosten, ... . Dit is in het voordeel van zowel de klant als de uitzendkracht.</companyDescription>
-<companyDescription lang="en">USG (United Services Group) was one of the major temporary employment agencies in Belgium. The emphasis was mainly on bulk processing. By having a lot of temporary workers on the field, we were able to optimize a lot, from printing costs, bank costs, ... . This is to the advantage of both the customer and the temporary worker.</companyDescription>
-<companyDescription lang="fr">USG (United Services Group) était l'une des principales agences d'intérim en Belgique. L'accent était mis principalement sur le traitement en vrac. En ayant beaucoup d'intérimaires sur le terrain, nous avons pu optimiser beaucoup, comme les frais d'impression, les frais bancaires, ... . Cela profite à la fois au client et à l'intérimaire.</companyDescription>
-<companyDescription lang="es">USG (United Services Group) era una de las principales agencias de trabajo temporal en Bélgica. El énfasis estaba principalmente en el procesamiento a granel. Al tener muchos trabajadores temporales en el campo, pudimos optimizar mucho, como los costos de impresión, los costos bancarios, ... . Esto es una ventaja tanto para el cliente como para el trabajador temporal.</companyDescription>
-
-<taskDescription lang="en">Due to a very small, the tasks were quite versatile, such as developer, application DBA, analyst to product owner. One day Bart Geluykens was developing, the next day you are in the field discussing with the employees how the matching should work and meanwhile you get a phone call from the printing firm that there are problems processing the documents that have been sent by mail.</taskDescription>
 <taskDescription lang="nl">Dankzij een heel klein waren de taken nogal heel veelzijdig, zoals developmer, application DBA, analist tot product owner. De ene dag was Bart Geluykens aan het ontwikkelen, de andere dag sta je in de field te bespreken met de werknemers hoe de matching moet werken en ondertussen krijg je telefoon van de drukker dat er problemen zijn met het verwerken van de documenten die op de post moeten.</taskDescription>
 <taskDescription lang="fr">En raison d'une très petite taille, les tâches étaient assez polyvalentes, telles que développeur, DBA d'application, analyste à propriétaire de produit. Un jour, Bart Geluykens développait, le lendemain, vous êtes sur le terrain pour discuter avec les employés de la manière dont la mise en correspondance devrait fonctionner et, pendant ce temps, vous recevez un appel téléphonique de l'imprimeur indiquant qu'il y a des problèmes de traitement des documents qui ont été envoyés par courrier.</taskDescription>
+<taskDescription lang="en">Due to a very small, the tasks were quite versatile, such as developer, application DBA, analyst to product owner. One day Bart Geluykens was developing, the next day you are in the field discussing with the employees how the matching should work and meanwhile you get a phone call from the printing firm that there are problems processing the documents that have been sent by mail.</taskDescription>
 <taskDescription lang="es">Debido a que era muy pequeño, las tareas eran bastante versátiles, como desarrollador, DBA de aplicaciones, analista y propietario del producto. Un día Bart Geluykens estaba desarrollando, al día siguiente estás en el campo discutiendo con los empleados cómo debería funcionar el emparejamiento y mientras tanto recibes una llamada telefónica de la imprenta que hay problemas para procesar los documentos que se han enviado por correo.</taskDescription>
+<logo2>usg.png</logo2>
+<location lang="nl">Antwerpen (BE)</location>
+<location lang="fr">Anvers (BE)</location>
+<location lang="en">Antwerp (BE)</location>
+<location lang="es">Amberes (BE)</location>
+<companyDescription lang="nl">USG (United Services Group) was een van de grote uitzendkantoren in België. De nadruk lag vooral op bulkverwerking. Door heel veel uitzendkrachten op het veld te hebben konden we heel veel optinmaliseren, zoals printkosten, bankkosten, ... . Dit is in het voordeel van zowel de klant als de uitzendkracht.</companyDescription>
+<companyDescription lang="fr">USG (United Services Group) était l'une des principales agences d'intérim en Belgique. L'accent était mis principalement sur le traitement en vrac. En ayant beaucoup d'intérimaires sur le terrain, nous avons pu optimiser beaucoup, comme les frais d'impression, les frais bancaires, ... . Cela profite à la fois au client et à l'intérimaire.</companyDescription>
+<companyDescription lang="en">USG (United Services Group) was one of the major temporary employment agencies in Belgium. The emphasis was mainly on bulk processing. By having a lot of temporary workers on the field, we were able to optimize a lot, from printing costs, bank costs, ... . This is to the advantage of both the customer and the temporary worker.</companyDescription>
+<companyDescription lang="es">USG (United Services Group) era una de las principales agencias de trabajo temporal en Bélgica. El énfasis estaba principalmente en el procesamiento a granel. Al tener muchos trabajadores temporales en el campo, pudimos optimizar mucho, como los costos de impresión, los costos bancarios, ... . Esto es una ventaja tanto para el cliente como para el trabajador temporal</companyDescription>
 
 <skillSets>
 <skillSet>
@@ -825,59 +811,91 @@
 <skill lang="es">Visual Studio 6, Makefile, core, ProC*</skill>
 </skillSet>
 
-</skillSets>
-</job>
-<job>
-<from>09/2004</from>
+</skillSets></job>
+<job><from>06/2003</from>
 <to>12/2008</to>
-<where>usg</where>
+<logo>capgemini.png</logo>
 <title lang="nl">Oracle Applicatie DBA</title>
 <title lang="fr">Oracle Application DBA</title>
 <title lang="en">Oracle Application DBA</title>
 <title lang="es">Oracle Application DBA</title>
-</job><job>
-<from>06/2003</from>
-<to>12/2008</to>
-<where>usg</where>
+<taskDescription lang="nl">undefined</taskDescription>
+<taskDescription lang="fr">undefined</taskDescription>
+<taskDescription lang="en">undefined</taskDescription>
+<taskDescription lang="es">undefined</taskDescription>
+<logo2>usg.png</logo2>
+<location lang="nl">Antwerpen (BE)</location>
+<location lang="fr">Anvers (BE)</location>
+<location lang="en">Antwerp (BE)</location>
+<location lang="es">Amberes (BE)</location>
+<companyDescription lang="nl">USG (United Services Group) was een van de grote uitzendkantoren in België. De nadruk lag vooral op bulkverwerking. Door heel veel uitzendkrachten op het veld te hebben konden we heel veel optinmaliseren, zoals printkosten, bankkosten, ... . Dit is in het voordeel van zowel de klant als de uitzendkracht.</companyDescription>
+<companyDescription lang="fr">USG (United Services Group) était l'une des principales agences d'intérim en Belgique. L'accent était mis principalement sur le traitement en vrac. En ayant beaucoup d'intérimaires sur le terrain, nous avons pu optimiser beaucoup, comme les frais d'impression, les frais bancaires, ... . Cela profite à la fois au client et à l'intérimaire.</companyDescription>
+<companyDescription lang="en">USG (United Services Group) was one of the major temporary employment agencies in Belgium. The emphasis was mainly on bulk processing. By having a lot of temporary workers on the field, we were able to optimize a lot, from printing costs, bank costs, ... . This is to the advantage of both the customer and the temporary worker.</companyDescription>
+<companyDescription lang="es">USG (United Services Group) era una de las principales agencias de trabajo temporal en Bélgica. El énfasis estaba principalmente en el procesamiento a granel. Al tener muchos trabajadores temporales en el campo, pudimos optimizar mucho, como los costos de impresión, los costos bancarios, ... . Esto es una ventaja tanto para el cliente como para el trabajador temporal</companyDescription>
+</job>
+<job><from>06/2003</from>
+<to>12/200</to>
+<logo>capgemini.png</logo>
 <title lang="nl">Oracle Ontwikkelaar</title>
 <title lang="fr">Développeur Oracle</title>
 <title lang="en">Oracle Developer</title>
 <title lang="es">Desarrollador Oracle</title>
+<taskDescription lang="nl">undefined</taskDescription>
+<taskDescription lang="fr">undefined</taskDescription>
+<taskDescription lang="en">undefined</taskDescription>
+<taskDescription lang="es">undefined</taskDescription>
+<logo2>usg.png</logo2>
+<location lang="nl">Antwerpen (BE)</location>
+<location lang="fr">Anvers (BE)</location>
+<location lang="en">Antwerp (BE)</location>
+<location lang="es">Amberes (BE)</location>
+<companyDescription lang="nl">USG (United Services Group) was een van de grote uitzendkantoren in België. De nadruk lag vooral op bulkverwerking. Door heel veel uitzendkrachten op het veld te hebben konden we heel veel optinmaliseren, zoals printkosten, bankkosten, ... . Dit is in het voordeel van zowel de klant als de uitzendkracht.</companyDescription>
+<companyDescription lang="fr">USG (United Services Group) était l'une des principales agences d'intérim en Belgique. L'accent était mis principalement sur le traitement en vrac. En ayant beaucoup d'intérimaires sur le terrain, nous avons pu optimiser beaucoup, comme les frais d'impression, les frais bancaires, ... . Cela profite à la fois au client et à l'intérimaire.</companyDescription>
+<companyDescription lang="en">USG (United Services Group) was one of the major temporary employment agencies in Belgium. The emphasis was mainly on bulk processing. By having a lot of temporary workers on the field, we were able to optimize a lot, from printing costs, bank costs, ... . This is to the advantage of both the customer and the temporary worker.</companyDescription>
+<companyDescription lang="es">USG (United Services Group) era una de las principales agencias de trabajo temporal en Bélgica. El énfasis estaba principalmente en el procesamiento a granel. Al tener muchos trabajadores temporales en el campo, pudimos optimizar mucho, como los costos de impresión, los costos bancarios, ... . Esto es una ventaja tanto para el cliente como para el trabajador temporal</companyDescription>
+
 </job>
-<job>
-<from>06/2003</from>
+<job><from>06/2003</from>
 <to>12/2005</to>
-<where>usg</where>
-<title lang="nl">c Ontwikkelaar</title>
-<title lang="fr">Développeur c</title>
-<title lang="en">c Developer</title>
-<title lang="es">Desarrollador c</title>
-</job><job>
-<from>08/2001</from>
-<to>06/2003</to>
-<where>fortis</where>
-<title lang="nl">c Ontwikkelaar</title>
-<title lang="fr">Développeur c</title>
-<title lang="en">c Developer</title>
-<title lang="es">Desarrollador c</title>
-
 <logo>capgemini.png</logo>
-<logo2>fortis.jpg</logo2>
-
-<location lang="nl">Brussel</location>
-<location lang="en">Brussels</location>
-<location lang="es">Bruselas</location>
-<location lang="fr">Bruxelles</location>
-
-<companyDescription lang="nl">FORTIS was een belgische bank. Deze was ontstaan na de fusie tussen ASLK en Generale Bank. Dit project was gespecialiseerd in de monitoring en beveiliging van de kantoren. Ondertussen is de bank eigendom van BNP Parisbas</companyDescription>
-<companyDescription lang="es">FORTIS era un banco belga. Este fue creado después de la fusión entre ASLK y Generale Bank. Este proyecto se especializó en la vigilancia y seguridad de las oficinas. Mientras tanto, el banco es propiedad de BNP Parisbas</companyDescription>
-<companyDescription lang="fr">FORTIS était une banque belge. Celle-ci a été créée après la fusion entre ASLK et Générale de Banque. Ce projet s'est spécialisé dans la surveillance et la sécurité des bureaux. Pendant ce temps, la banque est détenue par BNP Parisbas</companyDescription>
-<companyDescription lang="en">FORTIS was a Belgian bank. This was created after the merger between ASLK and Generale Bank. This project was aiming to do the monitoring and security of the offices. Nowadays, the bank is owned by BNP Parisbas</companyDescription>
-
-<taskDescription lang="en">C developer on unix and windows.</taskDescription>
+<title lang="nl">C Ontwikkelaar</title>
+<title lang="fr">Développeur c</title>
+<title lang="en">C Developer</title>
+<title lang="es">Desarrollador c</title>
+<taskDescription lang="nl">C ontwikkelaar op windows.</taskDescription>
+<taskDescription lang="fr">Développeur C sur  windows.</taskDescription>
+<taskDescription lang="en">C developer on  windows.</taskDescription>
+<taskDescription lang="es">Desarrollador C en Windows.</taskDescription>
+<logo2>usg.png</logo2>
+<location lang="nl">Antwerpen (BE)</location>
+<location lang="fr">Anvers (BE)</location>
+<location lang="en">Antwerp (BE)</location>
+<location lang="es">Amberes (BE)</location>
+<companyDescription lang="nl">USG (United Services Group) was een van de grote uitzendkantoren in België. De nadruk lag vooral op bulkverwerking. Door heel veel uitzendkrachten op het veld te hebben konden we heel veel optinmaliseren, zoals printkosten, bankkosten, ... . Dit is in het voordeel van zowel de klant als de uitzendkracht.</companyDescription>
+<companyDescription lang="fr">USG (United Services Group) était l'une des principales agences d'intérim en Belgique. L'accent était mis principalement sur le traitement en vrac. En ayant beaucoup d'intérimaires sur le terrain, nous avons pu optimiser beaucoup, comme les frais d'impression, les frais bancaires, ... . Cela profite à la fois au client et à l'intérimaire.</companyDescription>
+<companyDescription lang="en">USG (United Services Group) was one of the major temporary employment agencies in Belgium. The emphasis was mainly on bulk processing. By having a lot of temporary workers on the field, we were able to optimize a lot, from printing costs, bank costs, ... . This is to the advantage of both the customer and the temporary worker.</companyDescription>
+<companyDescription lang="es">USG (United Services Group) era una de las principales agencias de trabajo temporal en Bélgica. El énfasis estaba principalmente en el procesamiento a granel. Al tener muchos trabajadores temporales en el campo, pudimos optimizar mucho, como los costos de impresión, los costos bancarios, ... . Esto es una ventaja tanto para el cliente como para el trabajador temporal</companyDescription>
+</job>
+<job><from>08/2001</from>
+<to>06/2003</to>
+<logo>capgemini.png</logo>
+<title lang="nl">C Ontwikkelaar</title>
+<title lang="fr">Développeur c</title>
+<title lang="en">C Developer</title>
+<title lang="es">Desarrollador c</title>
 <taskDescription lang="nl">C ontwikkelaar op unix en windows.</taskDescription>
 <taskDescription lang="fr">Développeur C sur unix et windows.</taskDescription>
+<taskDescription lang="en">C developer on unix and windows.</taskDescription>
 <taskDescription lang="es">Desarrollador C en Unix y Windows.</taskDescription>
+<logo2>fortis.jpg</logo2>
+<location lang="nl">Brussel (BE)</location>
+<location lang="fr">Bruxelles (BE)</location>
+<location lang="en">Brussels (BE)</location>
+<location lang="es">Bruselas (BE)</location>
+<companyDescription lang="nl">FORTIS was een belgische bank. Deze was ontstaan na de fusie tussen ASLK en Generale Bank. Dit project was gespecialiseerd in de monitoring en beveiliging van de kantoren. Ondertussen is de bank eigendom van BNP Parisbas</companyDescription>
+<companyDescription lang="fr">FORTIS était une banque belge. Celle-ci a été créée après la fusion entre ASLK et Générale de Banque. Ce projet s'est spécialisé dans la surveillance et la sécurité des bureaux. Pendant ce temps, la banque est détenue par BNP Parisbas</companyDescription>
+<companyDescription lang="en">FORTIS was a Belgian bank. This was created after the merger between ASLK and Generale Bank. This project was aiming to do the monitoring and security of the offices. Nowadays, the bank is owned by BNP Parisbas</companyDescription>
+<companyDescription lang="es">FORTIS era un banco belga. Este fue creado después de la fusión entre ASLK y Generale Bank. Este proyecto se especializó en la vigilancia y seguridad de las oficinas. Mientras tanto, el banco es propiedad de BNP Parisbas</companyDescription>
 
 <skillSets>
 <skillSet>
@@ -916,7 +934,6 @@
 <skill lang="es">RUP</skill>
 </skillSet>
 </skillSets>
-
 </job>
 </jobs>
 <skills><skill><name lang="nl">Programeertaal</name>
@@ -1403,8 +1420,6 @@
 <skill><name>Oracle</name>
 </skill>
 <skill><name>c / cpp</name>
-</skill>
-<skill><name></name>
 </skill>
 </topSkills>
 <mainValues><value><name lang="nl">Technology lover</name>

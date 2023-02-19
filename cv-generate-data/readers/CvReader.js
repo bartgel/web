@@ -6,6 +6,9 @@ import {OBSIDIAN_CV_FINAL_STRUCTURE_MAP, LANGUAGES} from '../constants.js'
 export default class CvReader {
     skills = {}
     skillGroup = {}
+    companies = {}
+    functions = {}
+    jobs = {}
 
 
     getBaseDir = () => OBSIDIAN_CV_FINAL_STRUCTURE_MAP;
@@ -30,6 +33,15 @@ export default class CvReader {
             this.skillGroup[tagname] = myMetadata
         } else if (myMetadata.Tag.includes("Skill")) {
             this.skills[tagname] = myMetadata
+        } else if (myMetadata.Tag.includes("Company")) {
+            this.companies[tagname] = myMetadata
+        } else if (myMetadata.Tag.includes("Function")) {
+            this.functions[tagname] = myMetadata
+        } else if (myMetadata.Tag.includes("Job")) {
+            this.jobs[tagname] = myMetadata
+            this.jobs[tagname].skillsXML = content
+        } else {
+            throw "error - no good tag"
         }
 
     }
@@ -37,6 +49,10 @@ export default class CvReader {
     readAll () {
         this.skills = {}
         this.skillGroup = {}
+        this.companies = {}
+        this.functions = {}
+        this.jobs = {}
+
         fs.readdirSync(this.getBaseDir()).forEach(this.readSingle);
 
         var skillset = []
@@ -54,6 +70,32 @@ export default class CvReader {
 
             skillset.push(skillGroup)
         }
-        return skillset;
+
+        for (var key in this.jobs) {
+            let job = this.jobs[key]
+
+            if (job.company != undefined) {
+                job.companyObj = this.companies[job.company]
+            }
+
+            if (job.client != undefined) {
+                job.clientObj = this.companies[job.client]
+            }
+
+
+            if (job.function != undefined) {
+                job.functionObj = this.functions[job.function]
+            }        
+            
+            this.jobs[key] = job
+
+        }
+
+        let returnObject = {
+            "skillset": skillset,
+            "jobs": this.jobs
+        }
+
+        return returnObject;
     }
 }

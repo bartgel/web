@@ -1,28 +1,17 @@
-<job>
-<from>03/2012</from>
-<to>05/2016</to>
-<where>wvl</where>
-<title lang="nl">Java Technical Lead</title>
-<title lang="fr">Responsable technique Java</title>
-<title lang="en">Java Technical Lead</title>
-<title lang="es">Jefe técnico de Java</title>
+---
+Tag: 
+- Job 
+from: 03/2012
+to: 05/2016
+company: company-hpe
+client: company-wvl
+function: function-technical-lead-java
+nl: Bart Geluykens moest een team van ongeveer 6 devs aansturen, dit in heel nauwe samenwerking met de klant en het .NET team.
+fr: Bart Geluykens devait manager une équipe d'environ 6 devs, en étroite collaboration avec le client et l'équipe .NET.
+en: Bart Geluykens had to manage a team of about 6 devs, in close collaboration with the customer and the .NET team.
+es: Bart Geluykens tuvo que gestionar un equipo de unos 6 desarrolladores, en estrecha colaboración con el cliente y el equipo de .NET.
+---
 
-<logo>hpe.png</logo>
-<logo2>vo-wvl.png</logo2>
-<location lang="nl">Brussel</location>
-<location lang="en">Brussels</location>
-<location lang="es">Bruselas</location>
-<location lang="fr">Bruxelles</location>
-
-<companyDescription lang="nl">"Wonen Vlaanderen" is verantwoordelijk voor alles wat betreft huisvesting in Vlaanderen. De projecten binnen het java-portfollio habben vooral te maken met woonsubsidies en woonkwaliteit.</companyDescription>
-<companyDescription lang="es">"Wonen Vlaanderen" es responsable de todo lo relacionado con la vivienda en Flandes. Los proyectos de la cartera java están relacionados principalmente con subsidios habitacionales y calidad habitacional.</companyDescription>
-<companyDescription lang="fr">"Wonen Vlaanderen" est responsable de tout ce qui concerne le logement en Flandre. Les projets du portefeuille java sont principalement liés aux subventions et à la qualité du logement.</companyDescription>
-<companyDescription lang="en">"Wonen Vlaanderen" is responsible for everything regarding housing in Flanders. The projects within the java portfolio are mainly related to housing subsidies and housing quality.</companyDescription>
-
-<taskDescription lang="en">Bart Geluykens had to manage a team of about 6 devs, in close collaboration with the customer and the .NET team.</taskDescription>
-<taskDescription lang="nl">Bart Geluykens moest een team van ongeveer 6 devs aansturen, dit in heel nauwe samenwerking met de klant en het .NET team.</taskDescription>
-<taskDescription lang="fr">Bart Geluykens devait manager une équipe d'environ 6 devs, en étroite collaboration avec le client et l'équipe .NET.</taskDescription>
-<taskDescription lang="es">Bart Geluykens tuvo que gestionar un equipo de unos 6 desarrolladores, en estrecha colaboración con el cliente y el equipo de .NET.</taskDescription>
 
 <skillSets>
 <skillSet>
@@ -87,6 +76,3 @@
 
 
 </skillSets>
-
-
-</job>

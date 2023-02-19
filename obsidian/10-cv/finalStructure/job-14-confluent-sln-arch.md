@@ -1,27 +1,16 @@
-<job>
-<from>05/2022</from>
-<to>01/2023</to>
-<where>confluent</where>
-<logo>confluent.jpg</logo>
-<location lang="nl">Remote/Alicante</location>
-<location lang="en">Remote/Alicante</location>
-<location lang="es">Remoto/Alicante</location>
-<location lang="fr">a distance/Alicante</location>
+---
+Tag: 
+- Job 
+from: 05/2022
+to: 02/2023
+company: company-confluent
+function: function-sln-architect
+nl: Bedrijven helpen met het toelichten van het Kafka-ecosysteem en hun assisteren technische implementatie van hun Apache Kafka-stack.
+fr: Aidez les entreprises à expliquer l'écosystème Kafka et assistez-les dans la mise en œuvre technique de leur pile Apache Kafka.
+en: Helping companies with explaining the Kafka ecosystem and assisting on their technical implementation of their Apache Kafka stack.
+es: Ayude a las empresas a explicar el ecosistema Kafka y ayúdeles con la implementación técnica de su pila Apache Kafka.
+---
 
-<title lang="nl">Solutions Architect</title>
-<title lang="fr">Architecte de solution</title>
-<title lang="en">Solutions Architect</title>
-<title lang="es">Arquitecto de soluciones</title>
-
-<companyDescription lang="nl">Confluent is het bedrijf achter Apache Kafka. Onder de hashtag #DataInMotion helpen ze bedrijven met het opzetten van eventbased architecturen.</companyDescription>
-<companyDescription lang="es">Confluent es la empresa detrás de Apache Kafka. Bajo el hashtag #DataInMotion, ayudan a las empresas a configurar una arquitectura basada en eventos.</companyDescription>
-<companyDescription lang="fr">Confluent est la société derrière Apache Kafka. Sous le hashtag #DataInMotion, ils aident les sociétés à mettre en place une architecture événementielle.</companyDescription>
-<companyDescription lang="en">Confluent is the company behind Apache Kafka. Under the hashtag #DataInMotion, they help companies setting up event-based architectures.</companyDescription>
-
-<taskDescription lang="en">Helping companies with explaining the Kafka ecosystem and assisting on their technical implementation of their Apache Kafka stack.</taskDescription>
-<taskDescription lang="nl">Bedrijven helpen met het toelichten van het Kafka-ecosysteem en hun assisteren technische implementatie van hun Apache Kafka-stack.</taskDescription>
-<taskDescription lang="fr">Aidez les entreprises à expliquer l'écosystème Kafka et assistez-les dans la mise en œuvre technique de leur pile Apache Kafka.</taskDescription>
-<taskDescription lang="es">Ayude a las empresas a explicar el ecosistema Kafka y ayúdeles con la implementación técnica de su pila Apache Kafka.</taskDescription>
 
 <skillSets>
 <skillSet>
@@ -97,8 +86,4 @@
 <skill lang="es">Prometheus/grafana, ELK</skill>
 </skillSet>
 
-
-
 </skillSets>
-</job>
-

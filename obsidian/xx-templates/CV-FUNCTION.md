@@ -1,6 +1,6 @@
 ---
 Tag: 
-- function
+- Function
 all: 
 nl: 
 fr: 
