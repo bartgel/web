@@ -123,6 +123,9 @@
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[5]"/>
                   </xsl:call-template>
+	          <xsl:call-template name="show-skill">
+                    <xsl:with-param name="skill" select="cv/skills/skill[15]"/>
+                  </xsl:call-template>	  
                 </fo:table-cell>
               </fo:table-row>
             </fo:table-body>
