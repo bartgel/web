@@ -83,14 +83,17 @@
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[1]"/>
                   </xsl:call-template>
+                    <xsl:call-template name="show-skill">
+                        <xsl:with-param name="skill" select="cv/skills/skill[13]"/>
+                    </xsl:call-template>
+                  <xsl:call-template name="show-skill">
+                    <xsl:with-param name="skill" select="cv/skills/skill[10]"/>
+                  </xsl:call-template>
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[4]"/>
                   </xsl:call-template>
                   <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[7]"/>
-                  </xsl:call-template>
-                  <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[10]"/>
+                    <xsl:with-param name="skill" select="cv/skills/skill[11]"/>
                   </xsl:call-template>
                 </fo:table-cell>
                 <fo:table-cell>
@@ -98,13 +101,13 @@
                     <xsl:with-param name="skill" select="cv/skills/skill[2]"/>
                   </xsl:call-template>
                   <xsl:call-template name="show-skill">
+                    <xsl:with-param name="skill" select="cv/skills/skill[14]"/>
+                  </xsl:call-template>
+                  <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[12]"/>
                   </xsl:call-template>
                   <xsl:call-template name="show-skill">
                     <xsl:with-param name="skill" select="cv/skills/skill[8]"/>
-                  </xsl:call-template>
-                  <xsl:call-template name="show-skill">
-                    <xsl:with-param name="skill" select="cv/skills/skill[11]"/>
                   </xsl:call-template>
                 </fo:table-cell>
                 <fo:table-cell>

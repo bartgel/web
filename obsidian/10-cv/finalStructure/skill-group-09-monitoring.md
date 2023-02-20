@@ -10,4 +10,5 @@ references:
 - skill-base-09-02-grafana
 - skill-base-09-03-splunk
 - skill-base-09-04-elk
+- skill-base-05-17-cloudwatch
 ---

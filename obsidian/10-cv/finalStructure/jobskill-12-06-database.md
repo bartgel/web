@@ -1,7 +1,6 @@
 ---
 Tag: 
 - jobskill
-all:
 nl: Databases
 fr: Bases de données
 en: Databases

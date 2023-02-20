@@ -258,10 +258,10 @@
 <skillName lang="en">Databases</skillName>
 <skillName lang="fr">Bases de données</skillName>
 <skillName lang="es">Bases de datos</skillName>
-<skill lang="nl">plsql, iHistorian</skill>
-<skill lang="en">plsql, iHistorian</skill>
-<skill lang="fr">plsql, iHistorian</skill>
-<skill lang="es">plsql, iHistorian</skill>
+<skill lang="nl">MS SQL Server, iHistorian</skill>
+<skill lang="en">MS SQL Server, iHistorian</skill>
+<skill lang="fr">MS SQL Server, iHistorian</skill>
+<skill lang="es">MS SQL Server, iHistorian</skill>
 </skillSet></skillSets>
 
 <!--speciality><name>Java</name></speciality>
@@ -339,10 +339,10 @@
 <skillName lang="en">Databases</skillName>
 <skillName lang="fr">Bases de données</skillName>
 <skillName lang="es">Bases de datos</skillName>
-<skill lang="nl">plsql, db2, plsql</skill>
-<skill lang="en">plsql, db2, plsql</skill>
-<skill lang="fr">plsql, db2, plsql</skill>
-<skill lang="es">plsql, db2, plsql</skill>
+<skill lang="nl">MS SQL Server, db2, h2</skill>
+<skill lang="en">MS SQL Server, db2, h2</skill>
+<skill lang="fr">MS SQL Server, db2, h2</skill>
+<skill lang="es">MS SQL Server, db2, h2</skill>
 </skillSet></skillSets>
 </job>
 <job><from>06/2016</from>
@@ -393,10 +393,10 @@
 <skillName lang="en">Databases</skillName>
 <skillName lang="fr">Bases de données</skillName>
 <skillName lang="es">Bases de datos</skillName>
-<skill lang="nl">Oracle, PostGreSQL, informix, plsql</skill>
-<skill lang="en">Oracle, PostGreSQL, informix, plsql</skill>
-<skill lang="fr">Oracle, PostGreSQL, informix, plsql</skill>
-<skill lang="es">Oracle, PostGreSQL, informix, plsql</skill>
+<skill lang="nl">Oracle, PostGreSQL, informix, h2</skill>
+<skill lang="en">Oracle, PostGreSQL, informix, h2</skill>
+<skill lang="fr">Oracle, PostGreSQL, informix, h2</skill>
+<skill lang="es">Oracle, PostGreSQL, informix, h2</skill>
 </skillSet></skillSets>
 </job>
 <job><from>03/2012</from>
@@ -439,18 +439,18 @@
 <skillName lang="en">java stack 3</skillName>
 <skillName lang="fr">java socle 3</skillName>
 <skillName lang="es">java pile 3</skillName>
-<skill lang="nl">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, plsql, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
-<skill lang="en">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, plsql, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
-<skill lang="fr">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, plsql, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
-<skill lang="es">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, plsql, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
+<skill lang="nl">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, MS SQL Server, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
+<skill lang="en">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, MS SQL Server, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
+<skill lang="fr">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, MS SQL Server, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
+<skill lang="es">maven, bootstrap, Spring, Spring security, Spring Data, Spring Validation, hibernate, Jackson, Lombok, Wicket, mockito, Jetty, git, gitlab, teamcity, Jira, MS SQL Server, mockito, Junit - Mockito, css - scss - less, Confluence</skill>
 </skillSet><skillSet><skillName lang="nl">Databases</skillName>
 <skillName lang="en">Databases</skillName>
 <skillName lang="fr">Bases de donnée</skillName>
 <skillName lang="es">Bases de datos</skillName>
-<skill lang="nl">Oracle, informix, plsql</skill>
-<skill lang="en">Oracle, informix, plsql</skill>
-<skill lang="fr">Oracle, informix, plsql</skill>
-<skill lang="es">Oracle, informix, plsql</skill>
+<skill lang="nl">Oracle, informix, h2</skill>
+<skill lang="en">Oracle, informix, h2</skill>
+<skill lang="fr">Oracle, informix, h2</skill>
+<skill lang="es">Oracle, informix, h2</skill>
 </skillSet></skillSets>
 </job>
 <job><from>06/2010</from>
@@ -628,7 +628,7 @@
 <skillSets></skillSets>
 </job>
 <job><from>06/2003</from>
-<to>12/200</to>
+<to>12/2008</to>
 <logo>capgemini.png</logo>
 <title lang="nl">Oracle Ontwikkelaar</title>
 <title lang="fr">Développeur Oracle</title>
@@ -735,12 +735,6 @@
 <name lang="es">Typescript</name>
 <level>3</level>
 </skill>
-<skill><name lang="nl">Oracle</name>
-<name lang="fr">Oracle</name>
-<name lang="en">Oracle</name>
-<name lang="es">Oracle</name>
-<level>3</level>
-</skill>
 <skill><name lang="nl">Python</name>
 <name lang="fr">Python</name>
 <name lang="en">Python</name>
@@ -765,79 +759,13 @@
 <name lang="es">sql</name>
 <level>4</level>
 </skill>
-<skill><name lang="nl">informix</name>
-<name lang="fr">informix</name>
-<name lang="en">informix</name>
-<name lang="es">informix</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">plsql</name>
-<name lang="fr">plsql</name>
-<name lang="en">plsql</name>
-<name lang="es">plsql</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">plsql</name>
-<name lang="fr">plsql</name>
-<name lang="en">plsql</name>
-<name lang="es">plsql</name>
-<level>4</level>
-</skill>
-<skill><name lang="nl">db2</name>
-<name lang="fr">db2</name>
-<name lang="en">db2</name>
-<name lang="es">db2</name>
-<level>1</level>
-</skill>
-<skill><name lang="nl">PostGreSQL</name>
-<name lang="fr">PostGreSQL</name>
-<name lang="en">PostGreSQL</name>
-<name lang="es">PostGreSQL</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">mongodb</name>
-<name lang="fr">mongodb</name>
-<name lang="en">mongodb</name>
-<name lang="es">mongodb</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">AWS Athena</name>
-<name lang="fr">AWS Athena</name>
-<name lang="en">AWS Athena</name>
-<name lang="es">AWS Athena</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">Elise</name>
-<name lang="fr">Elise</name>
-<name lang="en">Elise</name>
-<name lang="es">Elise</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">iHistorian</name>
-<name lang="fr">iHistorian</name>
-<name lang="en">iHistorian</name>
-<name lang="es">iHistorian</name>
-<level>2</level>
-</skill>
 </skills>
 </skill>
 <skill><name lang="nl">java</name>
 <name lang="fr">java</name>
 <name lang="en">java</name>
 <name lang="es">java</name>
-<skills><skill><name lang="nl">spring-boot</name>
-<name lang="fr">spring-boot</name>
-<name lang="en">spring-boot</name>
-<name lang="es">spring-boot</name>
-<level>4</level>
-</skill>
-<skill><name lang="nl">hibernate</name>
-<name lang="fr">hibernate</name>
-<name lang="en">hibernate</name>
-<name lang="es">hibernate</name>
-<level>4</level>
-</skill>
-<skill><name lang="nl">Junit - Mockito</name>
+<skills><skill><name lang="nl">Junit - Mockito</name>
 <name lang="fr">Junit - Mockito</name>
 <name lang="en">Junit - Mockito</name>
 <name lang="es">Junit - Mockito</name>
@@ -853,12 +781,6 @@
 <name lang="fr">maven</name>
 <name lang="en">maven</name>
 <name lang="es">maven</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">Spring config</name>
-<name lang="fr">Spring config</name>
-<name lang="en">Spring config</name>
-<name lang="es">Spring config</name>
 <level>3</level>
 </skill>
 <skill><name lang="nl">Wicket</name>
@@ -879,17 +801,17 @@
 <name lang="es">Micronaut</name>
 <level>2</level>
 </skill>
-<skill><name lang="nl">Gradle</name>
-<name lang="fr">Gradle</name>
-<name lang="en">Gradle</name>
-<name lang="es">Gradle</name>
-<level>1</level>
-</skill>
 <skill><name lang="nl">JSF</name>
 <name lang="fr">JSF</name>
 <name lang="en">JSF</name>
 <name lang="es">JSF</name>
 <level>2</level>
+</skill>
+<skill><name lang="nl">Gradle</name>
+<name lang="fr">Gradle</name>
+<name lang="en">Gradle</name>
+<name lang="es">Gradle</name>
+<level>1</level>
 </skill>
 <skill><name lang="nl">ant</name>
 <name lang="fr">ant</name>
@@ -927,18 +849,6 @@
 <name lang="es">Camunda</name>
 <level>2</level>
 </skill>
-<skill><name lang="nl">Spring security</name>
-<name lang="fr">Spring security</name>
-<name lang="en">Spring security</name>
-<name lang="es">Spring security</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">Spring Data</name>
-<name lang="fr">Spring Data</name>
-<name lang="en">Spring Data</name>
-<name lang="es">Spring Data</name>
-<level>4</level>
-</skill>
 <skill><name lang="nl">Spring Validation</name>
 <name lang="fr">Spring Validation</name>
 <name lang="en">Spring Validation</name>
@@ -968,18 +878,6 @@
 <name lang="en">openIDM</name>
 <name lang="es">openIDM</name>
 <level>2</level>
-</skill>
-<skill><name lang="nl">Spring-webflow</name>
-<name lang="fr">Spring-webflow</name>
-<name lang="en">Spring-webflow</name>
-<name lang="es">Spring-webflow</name>
-<level>1</level>
-</skill>
-<skill><name lang="nl">Spring-actuator</name>
-<name lang="fr">Spring-actuator</name>
-<name lang="en">Spring-actuator</name>
-<name lang="es">Spring-actuator</name>
-<level>1</level>
 </skill>
 <skill><name lang="nl">eureka</name>
 <name lang="fr">eureka</name>
@@ -1119,17 +1017,11 @@
 <name lang="es">Terraform</name>
 <level>3</level>
 </skill>
-<skill><name lang="nl">Jenkins</name>
-<name lang="fr">Jenkins</name>
-<name lang="en">Jenkins</name>
-<name lang="es">Jenkins</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">Jira</name>
-<name lang="fr">Jira</name>
-<name lang="en">Jira</name>
-<name lang="es">Jira</name>
-<level>3</level>
+<skill><name lang="nl">Ansible</name>
+<name lang="fr">Ansible</name>
+<name lang="en">Ansible</name>
+<name lang="es">Ansible</name>
+<level>2</level>
 </skill>
 <skill><name lang="nl">Docker</name>
 <name lang="fr">Docker</name>
@@ -1155,24 +1047,6 @@
 <name lang="es">swagger</name>
 <level>3</level>
 </skill>
-<skill><name lang="nl">teamcity</name>
-<name lang="fr">teamcity</name>
-<name lang="en">teamcity</name>
-<name lang="es">teamcity</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">gitlab</name>
-<name lang="fr">gitlab</name>
-<name lang="en">gitlab</name>
-<name lang="es">gitlab</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">bitbucket</name>
-<name lang="fr">bitbucket</name>
-<name lang="en">bitbucket</name>
-<name lang="es">bitbucket</name>
-<level>3</level>
-</skill>
 <skill><name lang="nl">flyway</name>
 <name lang="fr">flyway</name>
 <name lang="en">flyway</name>
@@ -1185,29 +1059,23 @@
 <name lang="es">liquibase</name>
 <level>3</level>
 </skill>
-<skill><name lang="nl">AWS fargate</name>
-<name lang="fr">AWS fargate</name>
-<name lang="en">AWS fargate</name>
-<name lang="es">AWS fargate</name>
+<skill><name lang="nl">teamcity</name>
+<name lang="fr">teamcity</name>
+<name lang="en">teamcity</name>
+<name lang="es">teamcity</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Jenkins</name>
+<name lang="fr">Jenkins</name>
+<name lang="en">Jenkins</name>
+<name lang="es">Jenkins</name>
 <level>3</level>
 </skill>
-<skill><name lang="nl">AWS Code Commit</name>
-<name lang="fr">AWS Code Commit</name>
-<name lang="en">AWS Code Commit</name>
-<name lang="es">AWS Code Commit</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">Ansible</name>
-<name lang="fr">Ansible</name>
-<name lang="en">Ansible</name>
-<name lang="es">Ansible</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">AWS cloudwatch</name>
-<name lang="fr">AWS cloudwatch</name>
-<name lang="en">AWS cloudwatch</name>
-<name lang="es">AWS cloudwatch</name>
-<level>2</level>
+<skill><name lang="nl">Jira</name>
+<name lang="fr">Jira</name>
+<name lang="en">Jira</name>
+<name lang="es">Jira</name>
+<level>3</level>
 </skill>
 <skill><name lang="nl">Codebeamer</name>
 <name lang="fr">Codebeamer</name>
@@ -1220,24 +1088,6 @@
 <name lang="en">Confluence</name>
 <name lang="es">Confluence</name>
 <level>3</level>
-</skill>
-<skill><name lang="nl">AWS</name>
-<name lang="fr">AWS</name>
-<name lang="en">AWS</name>
-<name lang="es">AWS</name>
-<level>2</level>
-</skill>
-<skill><name lang="nl">GCP</name>
-<name lang="fr">GCP</name>
-<name lang="en">GCP</name>
-<name lang="es">GCP</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">azure</name>
-<name lang="fr">azure</name>
-<name lang="en">azure</name>
-<name lang="es">azure</name>
-<level>2</level>
 </skill>
 </skills>
 </skill>
@@ -1263,28 +1113,64 @@
 <name lang="es">cvs</name>
 <level>3</level>
 </skill>
+<skill><name lang="nl">gitlab</name>
+<name lang="fr">gitlab</name>
+<name lang="en">gitlab</name>
+<name lang="es">gitlab</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">bitbucket</name>
+<name lang="fr">bitbucket</name>
+<name lang="en">bitbucket</name>
+<name lang="es">bitbucket</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">AWS Code Commit</name>
+<name lang="fr">AWS Code Commit</name>
+<name lang="en">AWS Code Commit</name>
+<name lang="es">AWS Code Commit</name>
+<level>2</level>
+</skill>
 </skills>
 </skill>
 <skill><name lang="nl">Oracle</name>
 <name lang="fr">Oracle</name>
 <name lang="en">Oracle</name>
 <name lang="es">Oracle</name>
-<skills><skill><name lang="nl">DBA</name>
-<name lang="fr">DBA</name>
-<name lang="en">DBA</name>
-<name lang="es">DBA</name>
-<level>3</level>
-</skill>
-<skill><name lang="nl">SQL</name>
-<name lang="fr">SQL</name>
-<name lang="en">SQL</name>
-<name lang="es">SQL</name>
+<skills><skill><name lang="nl">plsql</name>
+<name lang="fr">plsql</name>
+<name lang="en">plsql</name>
+<name lang="es">plsql</name>
 <level>4</level>
 </skill>
-<skill><name lang="nl">Forms / Reports</name>
-<name lang="fr">Forms / Reports</name>
-<name lang="en">Forms / Reports</name>
-<name lang="es">Forms / Reports</name>
+<skill><name lang="nl">sql</name>
+<name lang="fr">sql</name>
+<name lang="en">sql</name>
+<name lang="es">sql</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Oracle Forms</name>
+<name lang="fr">Oracle Forms</name>
+<name lang="en">Oracle Forms</name>
+<name lang="es">Oracle Forms</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">OWB</name>
+<name lang="fr">OWB</name>
+<name lang="en">OWB</name>
+<name lang="es">OWB</name>
+<level>1</level>
+</skill>
+<skill><name lang="nl">Oracle Reports</name>
+<name lang="fr">Oracle Reports</name>
+<name lang="en">Oracle Reports</name>
+<name lang="es">Oracle Reports</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Oracle Designer</name>
+<name lang="fr">Oracle Designer</name>
+<name lang="en">Oracle Designer</name>
+<name lang="es">Oracle Designer</name>
 <level>3</level>
 </skill>
 </skills>
@@ -1345,6 +1231,12 @@
 <name lang="fr">elk</name>
 <name lang="en">elk</name>
 <name lang="es">elk</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">AWS cloudwatch</name>
+<name lang="fr">AWS cloudwatch</name>
+<name lang="en">AWS cloudwatch</name>
+<name lang="es">AWS cloudwatch</name>
 <level>2</level>
 </skill>
 </skills>
@@ -1453,6 +1345,156 @@
 <name lang="fr">zookeeper</name>
 <name lang="en">zookeeper</name>
 <name lang="es">zookeeper</name>
+<level>3</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">Databases</name>
+<name lang="fr">Bases de données</name>
+<name lang="en">Databases</name>
+<name lang="es">Bases de datos</name>
+<skills><skill><name lang="nl">Oracle</name>
+<name lang="fr">Oracle</name>
+<name lang="en">Oracle</name>
+<name lang="es">Oracle</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">informix</name>
+<name lang="fr">informix</name>
+<name lang="en">informix</name>
+<name lang="es">informix</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">MS SQL Server</name>
+<name lang="fr">MS SQL Server</name>
+<name lang="en">MS SQL Server</name>
+<name lang="es">MS SQL Server</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">h2</name>
+<name lang="fr">h2</name>
+<name lang="en">h2</name>
+<name lang="es">h2</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">db2</name>
+<name lang="fr">db2</name>
+<name lang="en">db2</name>
+<name lang="es">db2</name>
+<level>1</level>
+</skill>
+<skill><name lang="nl">PostGreSQL</name>
+<name lang="fr">PostGreSQL</name>
+<name lang="en">PostGreSQL</name>
+<name lang="es">PostGreSQL</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">mongodb</name>
+<name lang="fr">mongodb</name>
+<name lang="en">mongodb</name>
+<name lang="es">mongodb</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">AWS Athena</name>
+<name lang="fr">AWS Athena</name>
+<name lang="en">AWS Athena</name>
+<name lang="es">AWS Athena</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">Elise</name>
+<name lang="fr">Elise</name>
+<name lang="en">Elise</name>
+<name lang="es">Elise</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">iHistorian</name>
+<name lang="fr">iHistorian</name>
+<name lang="en">iHistorian</name>
+<name lang="es">iHistorian</name>
+<level>2</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">java (spring)</name>
+<name lang="fr">java (spring)</name>
+<name lang="en">java (spring)</name>
+<name lang="es">java (spring)</name>
+<skills><skill><name lang="nl">spring-boot</name>
+<name lang="fr">spring-boot</name>
+<name lang="en">spring-boot</name>
+<name lang="es">spring-boot</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">hibernate</name>
+<name lang="fr">hibernate</name>
+<name lang="en">hibernate</name>
+<name lang="es">hibernate</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Spring config</name>
+<name lang="fr">Spring config</name>
+<name lang="en">Spring config</name>
+<name lang="es">Spring config</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Spring security</name>
+<name lang="fr">Spring security</name>
+<name lang="en">Spring security</name>
+<name lang="es">Spring security</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">Spring Data</name>
+<name lang="fr">Spring Data</name>
+<name lang="en">Spring Data</name>
+<name lang="es">Spring Data</name>
+<level>4</level>
+</skill>
+<skill><name lang="nl">Spring-webflow</name>
+<name lang="fr">Spring-webflow</name>
+<name lang="en">Spring-webflow</name>
+<name lang="es">Spring-webflow</name>
+<level>1</level>
+</skill>
+<skill><name lang="nl">Spring-actuator</name>
+<name lang="fr">Spring-actuator</name>
+<name lang="en">Spring-actuator</name>
+<name lang="es">Spring-actuator</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">spring MVC</name>
+<name lang="fr">spring MVC</name>
+<name lang="en">spring MVC</name>
+<name lang="es">spring MVC</name>
+<level>3</level>
+</skill>
+</skills>
+</skill>
+<skill><name lang="nl">java (spring)</name>
+<name lang="fr">java (spring)</name>
+<name lang="en">java (spring)</name>
+<name lang="es">java (spring)</name>
+<skills><skill><name lang="nl">AWS</name>
+<name lang="fr">AWS</name>
+<name lang="en">AWS</name>
+<name lang="es">AWS</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">GCP</name>
+<name lang="fr">GCP</name>
+<name lang="en">GCP</name>
+<name lang="es">GCP</name>
+<level>3</level>
+</skill>
+<skill><name lang="nl">azure</name>
+<name lang="fr">azure</name>
+<name lang="en">azure</name>
+<name lang="es">azure</name>
+<level>2</level>
+</skill>
+<skill><name lang="nl">AWS fargate</name>
+<name lang="fr">AWS fargate</name>
+<name lang="en">AWS fargate</name>
+<name lang="es">AWS fargate</name>
 <level>3</level>
 </skill>
 </skills>
