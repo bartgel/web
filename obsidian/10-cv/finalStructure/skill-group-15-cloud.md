@@ -1,7 +1,7 @@
 ---
 Tag: 
 - SkillGroup
-all: java (spring)
+all: Cloud
 references:
 - skill-base-05-20-AWS
 - skill-base-05-21-GCP
