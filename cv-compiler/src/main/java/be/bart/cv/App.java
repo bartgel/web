@@ -37,9 +37,6 @@ public class App
 
     private static void createCVPdf(File xmlfile, File xsltfile, File pdfDir,String lang) {
         File pdfFile = new File(pdfDir, "cv_" + lang +".pdf");
-        // configure fopFactory as desired
-
-        // configure foUserAgent as desired
 
         // Setup output
         try (OutputStream out1 = new FileOutputStream(pdfFile)) {
@@ -47,15 +44,6 @@ public class App
 
             // Construct fop with desired output format
             Fop fop;
-
-            /*FontUris fontUris = new FontUris(new File("src/main/resources/font/material.ttf").toURI(), null);
-            FontTriplet triplet = new FontTriplet("material","normal",400);
-            EmbedFontInfo fontInfo = new EmbedFontInfo(fontUris, true, true, List.of(triplet), "material");
-            fontInfo.setPostScriptName("material");
-            List<EmbedFontInfo> fontInfoList = new ArrayList<>();
-            fontInfoList.add(fontInfo);
-            //set base URL for Font Manager to use relative path of ttf file.
-            fopFactory.getFontManager().updateReferencedFonts(fontInfoList);*/
 
             fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
 
