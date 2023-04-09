@@ -1469,10 +1469,10 @@
 </skill>
 </skills>
 </skill>
-<skill><name lang="nl">java (spring)</name>
-<name lang="fr">java (spring)</name>
-<name lang="en">java (spring)</name>
-<name lang="es">java (spring)</name>
+<skill><name lang="nl">Cloud</name>
+<name lang="fr">Cloud</name>
+<name lang="en">Cloud</name>
+<name lang="es">Cloud</name>
 <skills><skill><name lang="nl">AWS</name>
 <name lang="fr">AWS</name>
 <name lang="en">AWS</name>
