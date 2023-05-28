@@ -1,0 +1,142 @@
+const nodeHtmlToImage = require('node-html-to-image')
+const fs = require('fs')
+
+// light blue
+
+let style=`  body {
+  margin:0;
+  padding:0;
+  width: 980px;
+  height: 500px;
+}
+.flex-container {
+  display: flex;
+}
+
+.flex-child {
+  flex: 1;
+  padding: 8px;
+}  
+
+h2 {
+  background-color: #4DD0E1;
+  padding: 4px;
+  text-color: gray;
+}
+
+
+.rounded-item {
+  border-radius: 25px;
+  background: #0277BD;
+  background-color: #0277BD;
+  padding: 8px;
+  padding-left: 16px;
+  color: white;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.top-temple {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background: #0277BD;
+  background-color: #0277BD;
+  padding: 8px;
+  padding-left: 16px;
+  color: white;
+  font-weight: 600;
+}
+
+
+.temple-column {
+  /** Rotation */
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  background-color: #03A9F4;
+  padding: 8px;
+  height: 46px;
+  flex: 1;
+  max-width: 275px;
+  margin-top: 48px;
+}
+
+.bottom-temple {
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background: #0277BD;
+  background-color: #0277BD;
+  padding: 8px;
+  padding-left: 16px;
+  color: white;
+  font-weight: 600;
+  margin-top: 48px;
+  text-align: center;
+}
+
+
+`
+
+
+let createDataForImage = (imagename,width) => {
+  const image = fs.readFileSync(imagename);
+  const base64Image = new Buffer.from(image).toString('base64');
+  return `<img src="data:image/jpeg;base64,${base64Image}" width="${width}px"/>`
+}
+
+
+
+
+
+let html = `<html>
+<head>
+<style type="text/css">
+  ${style}
+</style>
+</head>
+<body>
+<div class="flex-container">
+
+  <div class="flex-child">
+    <h2>Values</h2>
+    <div class="rounded-item">Reliable</div>
+    <div class="rounded-item">Efficient</div>
+    <div class="rounded-item">People oriented</div>
+    <div class="rounded-item">Fun</div>
+  </div>
+  
+  <div class="flex-child">
+    <h2>How</h2>
+
+    <div class="top-temple">&nbsp;</div>
+    <div class="flex-container">
+      <div class="temple-column">
+         Coaching - helping others to grow
+      </div>
+
+        <div class="temple-column">
+        Creating and developing clean architectures
+       </div>
+       <div class="temple-column">
+       Continuous learning
+      </div>
+    </div>
+    <div class="bottom-temple">Technology</div>
+
+  </div>
+  
+</div>
+
+</body>
+</html>
+`
+
+fs.writeFile('output.html', html, (err) => {});
+
+//console.log(html)
+
+nodeHtmlToImage({
+  output: './image.png',
+  html: html
+})
+  .then(() => console.log('The image was created successfully!'))
